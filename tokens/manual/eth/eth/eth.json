@@ -1,0 +1,10 @@
+{
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "contractAddress": "N/A",
+    "decimals": 18,
+    "website": "https://ethereum.org/",
+    "description": "Ethereum is a decentralized platform that runs smart contracts: applications that run exactly as programmed without any possibility of downtime, fraud or third party interference.",
+    "type": "Native",
+    "status": "active"
+}
