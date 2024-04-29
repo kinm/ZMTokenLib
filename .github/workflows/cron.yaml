@@ -19,8 +19,8 @@ jobs:
       run: node tokens.js
     - name: Commit and push if changes
       run: |
-        git config --global user.email "you@example.com"
-        git config --global user.name "Your Name"
-        git add -A
-        git commit -m "Updated token information" -a || echo "No changes to commit"
-        git push
+        # git config --global user.email "you@example.com"
+        # git config --global user.name "Your Name"
+        # git add -A
+        # git commit -m "Updated token information" -a || echo "No changes to commit"
+        # git push
