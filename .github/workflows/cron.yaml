@@ -8,19 +8,19 @@ jobs:
   update_tokens:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v2
     - name: Set up Node.js
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v2
       with:
         node-version: '20'
     - name: Install dependencies
       run: npm install
     - name: Run tokens.js
-      run: node tokens.js
+      run: node src/tokens.js
     - name: Commit and push if changes
       run: |
-        # git config --global user.email "you@example.com"
-        # git config --global user.name "Your Name"
-        # git add -A
-        # git commit -m "Updated token information" -a || echo "No changes to commit"
-        # git push
+        git config --global user.email "2450346849@qq.com"
+        git config --global user.name "kinm"
+        git add -A
+        git commit -m "Updated token information" -a || echo "No changes to commit"
+        git push

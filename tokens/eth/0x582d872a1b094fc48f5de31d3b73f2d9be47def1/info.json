@@ -1,0 +1,11 @@
+{
+    "name": "Toncoin",
+    "symbol": "ton",
+    "contractAddress": "0x582d872a1b094fc48f5de31d3b73f2d9be47def1",
+    "decimals": 9,
+    "website": "https://ton.org/",
+    "description": "TON (The Open Network) is a general-purpose blockchain that allows developers to build decentralized apps and tokens.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/17980/large/ton_symbol.png?1696517498"
+}

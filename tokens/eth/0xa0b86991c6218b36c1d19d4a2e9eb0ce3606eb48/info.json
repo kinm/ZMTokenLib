@@ -1,0 +1,11 @@
+{
+    "name": "USDC",
+    "symbol": "usdc",
+    "contractAddress": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "decimals": 6,
+    "website": "https://www.circle.com/en/usdc",
+    "description": "USDC is a fully collateralized US dollar stablecoin. USDC is the bridge between dollars and trading on cryptocurrency exchanges. The technology behind CENTRE makes it possible to exchange value between people, businesses and financial institutions just like email between mail services and texts between SMS providers. We believe by removing artificial economic borders, we can create a more inclusive global economy.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/6319/large/usdc.png?1696506694"
+}
