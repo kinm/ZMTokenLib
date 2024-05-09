@@ -1,0 +1,11 @@
+{
+    "name": "Enjin Coin",
+    "symbol": "enj",
+    "contractAddress": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c",
+    "decimals": 18,
+    "website": "https://enjin.io/",
+    "description": "Enjin Coin (ENJ) is the native token of Enjin Blockchain. Enjin Blockchain is the world's first purpose-built blockchain for games and apps. Enjin is a Proof-of-Stake dual-layer Substrate chain with NFT-specific functions at the protocol level.\r\nEnjin Blockchain provides scalability, customization, and interoperability because of its robust architecture, which includes several components — Enjin Relaychain, Enjin Matrixchain, and, in the future, other matrixchains.\r\nEnjin Blockchain is supported by a seamless, no code app layer for NFT integration into games and other platforms.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/1102/large/Symbol_Only_-_Purple.png?1709725966"
+}

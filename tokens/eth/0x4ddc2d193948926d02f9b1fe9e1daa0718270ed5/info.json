@@ -1,0 +1,11 @@
+{
+    "name": "cETH",
+    "symbol": "ceth",
+    "contractAddress": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "decimals": 8,
+    "website": "https://compound.finance/",
+    "description": "Compound protocol balance token",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/10643/large/ceth.png?1696510617"
+}

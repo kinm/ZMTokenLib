@@ -1,0 +1,11 @@
+{
+    "name": "Ankr Network",
+    "symbol": "ankr",
+    "contractAddress": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4",
+    "decimals": 18,
+    "website": "https://www.ankr.com/",
+    "description": "Ankr is a Web3 decentralized infrastructure provider that helps developers, dapps, and stakers easily interact with multiple blockchains. It allows you to create DApps using API and RPC, staking on Ankr Earn, and use customized blockchain solutions for businesses.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png?1696504928"
+}

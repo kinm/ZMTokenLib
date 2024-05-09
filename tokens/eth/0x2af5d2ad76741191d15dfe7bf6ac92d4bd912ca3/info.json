@@ -1,0 +1,11 @@
+{
+    "name": "LEO Token",
+    "symbol": "leo",
+    "contractAddress": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3",
+    "decimals": 18,
+    "website": "https://www.bitfinex.com/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/8418/large/leo-token.png?1696508607"
+}

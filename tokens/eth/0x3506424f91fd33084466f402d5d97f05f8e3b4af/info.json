@@ -1,0 +1,11 @@
+{
+    "name": "Chiliz",
+    "symbol": "chz",
+    "contractAddress": "0x3506424f91fd33084466f402d5d97f05f8e3b4af",
+    "decimals": 18,
+    "website": "https://www.chiliz.com/",
+    "description": "Chiliz is a fintech platform for the sports industry to allow global fans to get closer to their favorite sports teams and clubs.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/8834/large/CHZ_Token_updated.png?1696508986"
+}

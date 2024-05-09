@@ -1,0 +1,11 @@
+{
+    "name": "Pendle",
+    "symbol": "pendle",
+    "contractAddress": "0xb3ed0a426155b79b898849803e3b36552f7ed507",
+    "decimals": 18,
+    "website": "https://pendle.finance/",
+    "description": "Pendle is a protocol that enables the tokenization and trading of future yield. With the creation of a novel AMM that supports assets with time decay, Pendle gives users more control over future yield by providing optionality and opportunities for its utilization. ",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+}

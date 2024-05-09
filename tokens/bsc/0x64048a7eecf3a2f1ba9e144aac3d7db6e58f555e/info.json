@@ -1,0 +1,11 @@
+{
+    "name": "Frax Ether",
+    "symbol": "frxeth",
+    "contractAddress": "0x64048a7eecf3a2f1ba9e144aac3d7db6e58f555e",
+    "decimals": 18,
+    "website": "https://app.frax.finance/",
+    "description": "frxETH is a liquid staking derivative issued by Frax Finance protocol. Each frxETH is backed by at least 1 ETH in validator nodes at all times.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/28284/large/frxETH_icon.png?1696527284"
+}

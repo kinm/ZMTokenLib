@@ -1,0 +1,11 @@
+{
+    "name": "Cheelee",
+    "symbol": "cheel",
+    "contractAddress": "0x1f1c90aeb2fd13ea972f0a71e35c0753848e3db0",
+    "decimals": 18,
+    "website": "https://cheelee.io/",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/28573/large/CHEEL_%D1%82%D0%BE%D0%BD%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0_%283%29.png?1696527561"
+}

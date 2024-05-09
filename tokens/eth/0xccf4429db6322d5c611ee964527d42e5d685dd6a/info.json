@@ -1,0 +1,11 @@
+{
+    "name": "cWBTC",
+    "symbol": "cwbtc",
+    "contractAddress": "0xccf4429db6322d5c611ee964527d42e5d685dd6a",
+    "decimals": 8,
+    "website": "https://compound.finance/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/10823/large/cwbtc.png?1696510780"
+}

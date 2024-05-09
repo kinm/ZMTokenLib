@@ -1,0 +1,11 @@
+{
+    "name": "Celsius Network",
+    "symbol": "cel",
+    "contractAddress": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",
+    "decimals": 4,
+    "website": "https://celsius.network/",
+    "description": "For crypto to continue to spread and gain traction we’ve got to bring the next 100m people into the crypto community. In order to do that, real products built by real teams have to provide real utility to the public. We’re building Celsius to bring a new wave of financial products to the market designed, for the first time, to always do what’s in the best interest of its members instead of trying to make as much profit as possible. Members will be able to borrow USD against their crypto holdings in their wallet which will be used as collateral. Our goal is to allow anyone who’s in need of cash to easily borrow from the Celsius platform without having to sell their crypto holdings. In the future, through the Celsius Network, cryptocurrencies deposited by members into their Celsius Wallet will be available on the network for immediate borrowing and shorting.\r\n\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/3263/large/CEL_logo.png?1696503976"
+}

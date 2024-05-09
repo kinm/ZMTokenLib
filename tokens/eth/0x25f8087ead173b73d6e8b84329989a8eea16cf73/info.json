@@ -1,0 +1,11 @@
+{
+    "name": "Yield Guild Games",
+    "symbol": "ygg",
+    "contractAddress": "0x25f8087ead173b73d6e8b84329989a8eea16cf73",
+    "decimals": 18,
+    "website": "https://yieldguild.io/",
+    "description": "Yield Guild Games (YGG) is the world’s first and biggest web3 gaming guild where players can find their community, discover games and level up together. Its mission is to become the leading community-based user acquisition platform in web3 gaming. \r\n\r\nAs a network of gaming guilds focused on web3 games, YGG is committed to providing opportunities for its members to achieve success in web3 gaming through questing initiatives such as Superquests and the Guild Advancement Program (GAP). These enable members to build their on-chain identity through its achievement-based reputation system.\r\n\r\nFrom its roots in the Philippines to its global network of regional guilds and partnerships with over 80 blockchain games and infrastructure projects, YGG caters to an ever-expanding community of gamers and blockchain enthusiasts.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/17358/large/Shield_Mark_-_Colored_-_Iridescent.png?1696516909"
+}

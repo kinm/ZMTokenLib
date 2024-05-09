@@ -1,0 +1,11 @@
+{
+    "name": "Echelon Prime",
+    "symbol": "prime",
+    "contractAddress": "0xb23d80f5fefcddaa212212f028021b41ded428cf",
+    "decimals": 18,
+    "website": "https://echelon.io/",
+    "description": "PRIME is the native token of the Echelon Prime Foundation, a Web3 ecosystem advancing the next generation of gaming. Echelon creates and distributes tools to encourage innovation in, and promote the growth of, novel gaming models and economies. The first game to adopt and utilize PRIME is Parallel, a sci-fi trading card game. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29053/large/prime-logo-small-border_%282%29.png?1696528020"
+}

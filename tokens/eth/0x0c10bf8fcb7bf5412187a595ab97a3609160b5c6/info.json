@@ -1,0 +1,11 @@
+{
+    "name": "USDD",
+    "symbol": "usdd",
+    "contractAddress": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6",
+    "decimals": 18,
+    "website": "https://usdd.io/",
+    "description": "Decentralized StableCoin USDD on TRON\r\nThe TRON DAO Reserve manages USDD and guarantees its price stability",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/25380/large/UUSD.jpg?1696524513"
+}

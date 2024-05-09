@@ -1,0 +1,11 @@
+{
+    "name": "Coinbase Wrapped Staked ETH",
+    "symbol": "cbeth",
+    "contractAddress": "0xbe9895146f7af43049ca1c1ae358b0541ea49704",
+    "decimals": 18,
+    "website": "https://www.coinbase.com/cbeth",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png?1709186989"
+}

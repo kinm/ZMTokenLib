@@ -1,0 +1,11 @@
+{
+    "name": "Arbitrum",
+    "symbol": "arb",
+    "contractAddress": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1",
+    "decimals": 18,
+    "website": "https://arbitrum.io/",
+    "description": "Arbitrum is one of the leading Ethereum scaling solutions bringing cheap transactions to tens of thousands of users in an environment that feels very similar to Ethereum. It is an optimistic rollup and the leading L2 in terms of TVL. Some of the largest dApps live on Arbitrum include GMX, Radiant, Uniswap V3, and Gains Network.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/16547/large/photo_2023-03-29_21.47.00.jpeg?1696516109"
+}

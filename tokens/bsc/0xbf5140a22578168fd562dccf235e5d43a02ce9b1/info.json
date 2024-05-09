@@ -1,0 +1,11 @@
+{
+    "name": "Uniswap",
+    "symbol": "uni",
+    "contractAddress": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1",
+    "decimals": 18,
+    "website": "https://uniswap.org/",
+    "description": "UNI is the governance token for Uniswap, an Automated Market Marker DEX on the Ethereum blockchain. The UNI token allows token holders to participate in the governance of the protocol. Key decisions such as usage of the treasury or future upgrades can be decided through a governance vote.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/12504/large/uni.jpg?1696512319"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Goldfinch",
+    "symbol": "gfi",
+    "contractAddress": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b",
+    "decimals": 18,
+    "website": "https://goldfinch.finance/",
+    "description": "Goldfinch is a DeFi protocol that brings crypto loans to the real world. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/19081/large/GOLDFINCH.png?1696518531"
+}

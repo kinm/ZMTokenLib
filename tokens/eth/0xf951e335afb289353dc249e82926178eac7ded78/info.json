@@ -1,0 +1,11 @@
+{
+    "name": "Swell Ethereum",
+    "symbol": "sweth",
+    "contractAddress": "0xf951e335afb289353dc249e82926178eac7ded78",
+    "decimals": 18,
+    "website": "https://www.swellnetwork.io/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/30326/large/_lB7zEtS_400x400.jpg?1696529227"
+}

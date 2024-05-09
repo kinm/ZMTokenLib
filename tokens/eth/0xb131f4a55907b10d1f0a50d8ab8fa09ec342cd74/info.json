@@ -1,0 +1,11 @@
+{
+    "name": "Memecoin",
+    "symbol": "meme",
+    "contractAddress": "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74",
+    "decimals": 18,
+    "website": "https://www.memecoin.org/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/32528/large/memecoin_%282%29.png?1698912168"
+}

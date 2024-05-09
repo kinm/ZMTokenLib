@@ -1,0 +1,11 @@
+{
+    "name": "Bonk",
+    "symbol": "bonk",
+    "contractAddress": "0xa697e272a73744b343528c3bc4702f2565b2f422",
+    "decimals": 5,
+    "website": "https://www.bonkcoin.com/",
+    "description": "Bonk is the first Solana dog coin for the people, by the people with 50% of the total supply airdropped to the Solana community. The Bonk contributors were tired of toxic “Alameda” tokenomics and wanted to make a fun memecoin where everyone gets a fair shot. ",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587"
+}

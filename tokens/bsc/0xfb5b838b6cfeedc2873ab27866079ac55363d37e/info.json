@@ -1,0 +1,11 @@
+{
+    "name": "FLOKI",
+    "symbol": "floki",
+    "contractAddress": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e",
+    "decimals": 9,
+    "website": "https://www.floki.com/",
+    "description": "FLOKI is the utility token of the Floki Ecosystem. The Floki Ecosystem is a community-powered ecosystem that aims to give people control of their finances through four key utility offerings:\r\n\r\n- The Valhalla NFT Metaverse Game.\r\n- The Floki University Crypto Education platform.\r\n- DeFi.\r\n- The FlokiPlaces NFT & Merchandise Marketplace.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/16746/large/PNG_image.png?1696516318"
+}

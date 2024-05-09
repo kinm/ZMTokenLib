@@ -1,0 +1,11 @@
+{
+    "name": "Gnosis",
+    "symbol": "gno",
+    "contractAddress": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+    "decimals": 18,
+    "website": "https://gnosis.io/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1696501854"
+}

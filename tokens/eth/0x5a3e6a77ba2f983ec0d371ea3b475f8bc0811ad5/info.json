@@ -1,0 +1,11 @@
+{
+    "name": "0x0.ai: AI Smart Contract",
+    "symbol": "0x0",
+    "contractAddress": "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5",
+    "decimals": 9,
+    "website": "https://0x0.ai/",
+    "description": "0x0.ai is an AI-powered Solidity Smart Contract Auditor that uses machine learning to analyze code for vulnerabilities, errors, and issues. The state-of-the-art technology generates comprehensive reports that details any issues found, including a description of the problem, the location of the problem in the code, and suggestions for how to fix it.\r\nThe trade tax on our $0x0 token serves as a revenue stream for our project, allows token distribution to incentivize and reward contributors, helps to increase the overall value of our token by reducing the overall supply, funds community development initiatives, and creates a liquidity pool for the token. The goal of the project is to create a secure, reliable and valuable token for the community, team and investors.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/28880/large/0x0.png?1696527857"
+}

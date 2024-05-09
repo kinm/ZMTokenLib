@@ -1,0 +1,11 @@
+{
+    "name": "0x Protocol",
+    "symbol": "zrx",
+    "contractAddress": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "decimals": 18,
+    "website": "https://www.0xprotocol.org/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/863/large/0x.png?1696501996"
+}

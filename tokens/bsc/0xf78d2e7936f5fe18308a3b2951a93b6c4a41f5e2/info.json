@@ -1,0 +1,11 @@
+{
+    "name": "MANTRA",
+    "symbol": "om",
+    "contractAddress": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2",
+    "decimals": 18,
+    "website": "https://www.mantrachain.io/",
+    "description": "MANTRA is a Security first RWA Layer 1 Blockchain, capable of adherence and enforcement of real world regulatory requirements. Built for Institutions and Developers, MANTRA offers a Permissionless Blockchain for Permissioned applications.\r\n\r\nKey Features:\r\n• Built using Cosmos SDK, IBC compatible, with CosmWasm supported\r\n• Secured via a sovereign PoS validator set\r\n• Scalable up to 10k TPS\r\n• Built-in Modules, SDKs and APIs to create, trade and manage regulatory compliant RWAs\r\n• Improved User Experience to onboard non-native users and institutions to Web3",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/12151/large/OM_Token.png?1696511991"
+}

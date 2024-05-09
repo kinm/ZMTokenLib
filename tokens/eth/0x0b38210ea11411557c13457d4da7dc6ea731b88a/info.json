@@ -1,0 +1,11 @@
+{
+    "name": "API3",
+    "symbol": "api3",
+    "contractAddress": "0x0b38210ea11411557c13457d4da7dc6ea731b88a",
+    "decimals": 18,
+    "website": "https://api3.org/",
+    "description": "API3 builds blockchain-native, decentralized APIs with DAO-governance and quantifiable security.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13256/large/api3.jpg?1696513031"
+}

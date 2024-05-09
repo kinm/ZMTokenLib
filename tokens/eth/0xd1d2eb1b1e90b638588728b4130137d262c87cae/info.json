@@ -1,0 +1,11 @@
+{
+    "name": "GALA",
+    "symbol": "gala",
+    "contractAddress": "0xd1d2eb1b1e90b638588728b4130137d262c87cae",
+    "decimals": 8,
+    "website": "https://gala.com/",
+    "description": "GALA is designed to power the Gala Games ecosystem to support gaming re-imagined to benefit creators and players, alike.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12493/large/GALA_token_image_-_200PNG.png?1709725869"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Pixels",
+    "symbol": "pixel",
+    "contractAddress": "0x3429d03c6f7521aec737a0bbf2e5ddcef2c3ae31",
+    "decimals": 18,
+    "website": "https://www.pixels.xyz/",
+    "description": "Pixels is a captivating, open-ended world of farming and exploration, built one pixel at a time. Gathering resources, advancing skills, and building relationships while exploring the story and quests woven throughout the Pixels Universe, you’ll be submerged in a mesmerizing blend of managing, creating, and exploring in a world that marries blockchain ownership with your progression and accomplishments.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/35100/large/pixel-icon.png?1708339519"
+}

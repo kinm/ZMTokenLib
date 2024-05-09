@@ -1,0 +1,11 @@
+{
+    "name": "Telcoin",
+    "symbol": "tel",
+    "contractAddress": "0x467bccd9d29f223bce8043b84e8c8b282827790f",
+    "decimals": 2,
+    "website": "http://www.telco.in",
+    "description": "Telcoin is a new cryptocurrency based on the Ethereum blockchain that will be distributed by your national telecom operator and made available to everyone anywhere by tapping into synergies between the reach of mobile telecoms and the fast, borderless nature of blockchain technology. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/1899/large/tel.png?1696502892"
+}

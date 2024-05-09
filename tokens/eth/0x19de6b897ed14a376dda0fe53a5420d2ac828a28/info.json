@@ -1,0 +1,11 @@
+{
+    "name": "Bitget Token",
+    "symbol": "bgb",
+    "contractAddress": "0x19de6b897ed14a376dda0fe53a5420d2ac828a28",
+    "decimals": 18,
+    "website": "https://partner.bitget.com/bg/2LAE9K",
+    "description": "BGB (Bitget Token) is the native utility token of Bitget. BGB has made adjustments for the rights and interests of the application. BGB has multiple use cases within the Bitget ecosystem. Besides being used by traders to get discounts on trading fees, BGB can also be used as proof of rights and interests for users of different levels, and as a social token for the interaction between fans and copy traders.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/11610/large/icon_colour.png?1696511504"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "WhiteBIT Coin",
+    "symbol": "wbt",
+    "contractAddress": "0x925206b8a707096ed26ae47c84747fe0bb734f59",
+    "decimals": 8,
+    "website": "https://whitebit.com/wbt",
+    "description": "What is WhiteBIT Token?\r\n\r\nWBT is a utility token of the largest European cryptocurrency exchange, WhiteBIT. The platform was established in 2018 and has already become one of the leading crypto exchanges with 3+ mln users worldwide. WhiteBIT’s goal is to contribute to the mass adoption and popularization of blockchain technologies by implementing the most effective trading and staking tools on the most convenient terms. The most popular and efficient trading orders for spot and margin trading, up to 20x leverage for margin and perpetual Bitcoin futures trading, unique passive income tools, a referral program, and the lowest trading fees on the market are only part of the functionality available on WhiteBIT. Discover the full potential of the platform at the link: https://whitebit.com/.\r\n\r\nWBT is a full-fledged product of the whole WhiteBIT ecosystem that is integrated into all WhiteBIT services, making it easier for the users to interact on the platform. WBT is a solid base for dozens of blockchain startups, new projects, and fruitful trading. Moreover, WhiteBIT Token is a reliable asset that can be used for staking on its native platform, which provides numerous perks to its holders and owners. \r\n\r\nKey advantages:\r\n\r\nincreased referral interest rate (up to 50%);\r\ndecreased trading fees; \r\nfree daily ERC-20/ETH withdrawals;\r\nfree daily AML checks; \r\nintegration with the current and future products of WhiteBIT and much more.\r\n\r\nWBT tokenomics\r\n\r\nThe token supply is limited to 400 000 000 WBT, with no new tokens to be created in the future. 200M of this amount is treasury tokens that are backing the total amount and will be unlocked within the next three months after the launch. \r\n\r\nTrading competitions, airdrops, bounties, beneficial holding programs, and access to the token from other exchange platforms are part of activities associated with the WBT cryptocurrency available on WhiteBIT. \r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/27045/large/wbt_token.png?1696526096"
+}

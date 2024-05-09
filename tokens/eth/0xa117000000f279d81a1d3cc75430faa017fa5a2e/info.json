@@ -1,0 +1,11 @@
+{
+    "name": "Aragon",
+    "symbol": "ant",
+    "contractAddress": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+    "decimals": 18,
+    "website": "https://aragon.org/",
+    "description": "What is the project about?\r\nAragon builds flexible and secure tools that enable anyone to launch and manage Decentralized Autonomous Organizations (DAOs). In 2016, Aragon built the first DAO framework, which has since powered the creation of over 5000 DAOs and secured over 12B in value for leading projects like Lido, Decentraland, API3, Aavegotchi and NFTX. \r\n\r\nAragon recently deployed the new modular Aragon OSx protocol and no-code Aragon App on Ethereum and Polygon. Driven by the mission to enable everyone to experiment with governance at the speed of software, Aragon aims to build a hyperstructure for governance. The Aragon Project is governed by Aragon Network Token (ANT) Holders in the Aragon DAO and built by globally distributed teams.\r\n\r\nWhat makes your project unique?\r\n\r\n\r\nHistory of your project.\r\n\r\n\r\nWhat’s next for your project?\r\n\r\n\r\nWhat can your token be used for?\r\n\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/681/large/Avatar_Circle_x6.png?1696501871"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "MMX",
+    "symbol": "mmx",
+    "contractAddress": "0x614da3b37b6f66f7ce69b4bbbcf9a55ce6168707",
+    "decimals": 18,
+    "website": "https://www.m2.com/en_AE/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33161/large/mmx.png?1700830276"
+}

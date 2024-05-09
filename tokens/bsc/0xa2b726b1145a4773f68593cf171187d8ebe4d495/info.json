@@ -1,0 +1,11 @@
+{
+    "name": "Injective",
+    "symbol": "inj",
+    "contractAddress": "0xa2b726b1145a4773f68593cf171187d8ebe4d495",
+    "decimals": 18,
+    "website": "https://injective.com",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/12882/large/Secondary_Symbol.png?1696512670"
+}

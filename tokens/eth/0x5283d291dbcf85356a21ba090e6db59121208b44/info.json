@@ -1,0 +1,11 @@
+{
+    "name": "Blur",
+    "symbol": "blur",
+    "contractAddress": "0x5283d291dbcf85356a21ba090e6db59121208b44",
+    "decimals": 18,
+    "website": "https://blur.io/",
+    "description": "Blur is an NFT marketplace that  lets nft buyers and sellers to utilise a suite features to facilitate more open and liquid NFT marketplace.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/28453/large/blur.png?1696527448"
+}

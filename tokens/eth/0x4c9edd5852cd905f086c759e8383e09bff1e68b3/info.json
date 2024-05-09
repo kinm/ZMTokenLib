@@ -1,0 +1,11 @@
+{
+    "name": "Ethena USDe",
+    "symbol": "usde",
+    "contractAddress": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3",
+    "decimals": 18,
+    "website": "https://app.ethena.fi/",
+    "description": "Ethena is a delta-hedged synthetic dollar with native crypto yield derived from staking and perpetual funding rate",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33613/large/3466ef_3c088c66c7d941e8856339d0bddf33cc_mv2.png?1702514458"
+}

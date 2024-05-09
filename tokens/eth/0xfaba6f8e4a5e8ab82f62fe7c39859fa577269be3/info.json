@@ -1,0 +1,11 @@
+{
+    "name": "Ondo",
+    "symbol": "ondo",
+    "contractAddress": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
+    "decimals": 18,
+    "website": "https://ondo.finance/",
+    "description": "ONDO is the governance token for Flux Finance and the Ondo DAO.\t",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/26580/large/ONDO.png?1696525656"
+}

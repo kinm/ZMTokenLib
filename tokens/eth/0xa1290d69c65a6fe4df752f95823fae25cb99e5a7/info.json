@@ -1,0 +1,11 @@
+{
+    "name": "Kelp DAO Restaked ETH",
+    "symbol": "rseth",
+    "contractAddress": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7",
+    "decimals": 18,
+    "website": "https://kelpdao.xyz/restake/",
+    "description": "rsETH is a Liquid Restaked Token (LRT) issued by Kelp DAO designed to offer liquidity to illiquid assets deposited into restaking platforms, such as EigenLayer. It aims to address the risks and challenges posed by the current offering of restaking",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33800/large/Icon___Dark.png?1702991855"
+}

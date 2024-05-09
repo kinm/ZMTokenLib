@@ -1,0 +1,11 @@
+{
+    "name": "SKALE",
+    "symbol": "skl",
+    "contractAddress": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7",
+    "decimals": 18,
+    "website": "https://skale.space/",
+    "description": "SKALE is the world's fastest blockchain, designed for secure Ethereum scaling. SKALE Appchains provide ZERO gas fees to end-users and have advanced features such as AI/ML smart contracts, on-chain file storage, interchain messaging, and zero-cost minting. SKALE enables developers to deploy their own configurable EVM blockchain in minutes without sacrificing speed, security, or decentralization.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13245/large/SKALE_token_300x300.png?1696513021"
+}

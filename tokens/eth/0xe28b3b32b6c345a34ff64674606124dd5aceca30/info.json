@@ -1,0 +1,11 @@
+{
+    "name": "Injective",
+    "symbol": "inj",
+    "contractAddress": "0xe28b3b32b6c345a34ff64674606124dd5aceca30",
+    "decimals": 18,
+    "website": "https://injective.com",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12882/large/Secondary_Symbol.png?1696512670"
+}

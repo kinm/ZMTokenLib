@@ -1,0 +1,11 @@
+{
+    "name": "AltLayer",
+    "symbol": "alt",
+    "contractAddress": "0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb",
+    "decimals": 18,
+    "website": "https://altlayer.io/",
+    "description": "AltLayer is a decentralized protocol that facilitates the launch of native and restaked rollups with both optimistic and zk rollup stacks.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/34608/large/Logomark_200x200.png?1715107868"
+}

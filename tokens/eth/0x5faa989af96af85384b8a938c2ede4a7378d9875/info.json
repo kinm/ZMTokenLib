@@ -1,0 +1,11 @@
+{
+    "name": "Galxe",
+    "symbol": "gal",
+    "contractAddress": "0x5faa989af96af85384b8a938c2ede4a7378d9875",
+    "decimals": 18,
+    "website": "https://galxe.com/",
+    "description": "Galxe is the leading web3 infrastructure and digital identity network, empowering seamless web3 experiences through modular AI, digital identity, and blockchain technologies.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/24530/large/galaxy.jpg?1696523708"
+}

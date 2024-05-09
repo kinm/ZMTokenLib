@@ -1,0 +1,11 @@
+{
+    "name": "Rollbit Coin",
+    "symbol": "rlb",
+    "contractAddress": "0x046eee2cc3188071c02bfc1745a6b17c656e3f3d",
+    "decimals": 18,
+    "website": "https://rollbit.com/referral/coingeckoref",
+    "description": "The Rollbit token (RLB) will be launched as an integral part of the upcoming Rollbit lottery. There will be no ICO for this token. Instead, Rollbit will airdrop RLB for free. Airdrops have been used throughout the history of cryptocurrencies to bootstrap growth, incentivise community development, and reward early adopters.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/24552/large/unziL6wO_400x400.jpg?1696523729"
+}
