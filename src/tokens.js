@@ -23,7 +23,7 @@ const PLATFORMS = [
 const MarketPrams = {
     vs_currency: 'usd',
     order: 'market_cap_desc',
-    per_page: 1000,
+    per_page: 10000,
     page: 1,
     sparkline: false
 }
