@@ -1,0 +1,11 @@
+{
+    "name": "MAGA",
+    "symbol": "trump",
+    "contractAddress": "0x4ea98c1999575aaadfb38237dd015c5e773f75a2",
+    "decimals": 9,
+    "website": "https://magamemecoin.com/",
+    "description": "MAGA Movement on the Blockchain.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/31498/large/Maga-Trump-Logo-200px.png?1696530309"
+}

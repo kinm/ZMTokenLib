@@ -1,0 +1,11 @@
+{
+    "name": "MAGA",
+    "symbol": "trump",
+    "contractAddress": "0x576e2bed8f7b46d34016198911cdf9886f78bea7",
+    "decimals": 9,
+    "website": "https://magamemecoin.com/",
+    "description": "MAGA Movement on the Blockchain.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/31498/large/Maga-Trump-Logo-200px.png?1696530309"
+}

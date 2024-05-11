@@ -1248,5 +1248,25 @@
         "id": "coin98",
         "name": "Coin98",
         "symbol": "c98"
+    },
+    {
+        "id": "maga",
+        "name": "MAGA",
+        "symbol": "trump"
+    },
+    {
+        "id": "harmony",
+        "name": "Harmony",
+        "symbol": "one"
+    },
+    {
+        "id": "benqi-liquid-staked-avax",
+        "name": "BENQI Liquid Staked AVAX",
+        "symbol": "savax"
+    },
+    {
+        "id": "gmx",
+        "name": "GMX",
+        "symbol": "gmx"
     }
 ]
