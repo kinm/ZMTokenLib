@@ -19,11 +19,16 @@ const PLATFORMS = [
     },
 ];
 
+// 各平台代币索引
+const PLATFORMS_INDEX = async function () {
+    return await fs.readJson(path.join(__dirname, '../data/PlatformsIndex.json'));
+}
+
 // 定义获取代币列表的参数
 const MarketPrams = {
     vs_currency: 'usd',
     order: 'market_cap_desc',
-    per_page: 10000,
+    per_page: 100000,
     page: 1,
     sparkline: false
 }
@@ -82,6 +87,7 @@ async function processTokenData(data) {
     // 根据代币平台处理数据
     for (const platform of PLATFORMS) {
         if (data.detail_platforms[platform.pm_name]) {
+            // 添加代币信息
             result.push({
                 name: data.name,
                 symbol: data.symbol,
@@ -93,6 +99,27 @@ async function processTokenData(data) {
                 chain: platform.pm_chain,
                 logo: data.image.large
             });
+            // 检查代币平台在索引中是否存在
+            if (!PLATFORMS_INDEX[platform.pm_chain]) {
+                PLATFORMS_INDEX[platform.pm_chain] = [];
+            }
+            // 检查代币是否已经存在
+            const tokenIndex = PLATFORMS_INDEX[platform.pm_chain].findIndex(token => token.id === data.id);
+            if (tokenIndex !== -1) {
+                continue;
+            }else{
+                // 添加代币索引
+                PLATFORMS_INDEX[platform.pm_chain].push(
+                    {
+                        "id": data.id,
+                        "name": data.name,
+                        "symbol": data.symbol,
+                        "chain": platform.pm_chain,
+                        "contract": data.detail_platforms[platform.pm_name].contract_address,
+                        "logo": data.image.large,
+                    }
+                );
+            }
         }
     }
     // 返回处理后的结果
@@ -138,6 +165,7 @@ async function main() {
     let marketTokensData = await readMarketTokens();
     for (let i = startIndex; i < marketTokensData.length; i++) {
         const token = marketTokensData[i];
+        console.log(token);
         const tokenDetails = await fetchTokenDetails(token.id);
         if (tokenDetails === null ) {
             // 当请求失败时，等待一分钟后重试
@@ -152,6 +180,12 @@ async function main() {
 
         for (const tokenDetail of tokenDetails) {
             await addNewToken(tokenDetail);
+        }
+
+        // 当循环完成时保存代币索引
+        if (i === marketTokensData.length - 1) {
+            await fs.writeJson(path.join(__dirname, '../data/PlatformsIndex.json'),
+                PLATFORMS_INDEX, { spaces: 4 }); 
         }
     }
 }
