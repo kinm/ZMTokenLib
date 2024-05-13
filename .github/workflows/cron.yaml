@@ -17,7 +17,7 @@ jobs:
     - name: Install dependencies
       run: npm install
     - name: Pull latest changes from remote
-      run: git pull origin <branch-name>
+      run: git pull origin main
     - name: Run tokens.js
       run: node src/tokens.js
     - name: Commit and push if changes
