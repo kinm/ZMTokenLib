@@ -214,5 +214,4473 @@
             }
         },
         "logo": "https://assets.coingecko.com/coins/images/5/large/dogecoin.png?1696501409"
+    },
+    {
+        "id": "cardano",
+        "name": "Cardano",
+        "symbol": "ada",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/975/large/cardano.png?1696502090"
+    },
+    {
+        "id": "shiba-inu",
+        "name": "Shiba Inu",
+        "symbol": "shib",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/11939/large/shiba.png?1696511800"
+    },
+    {
+        "id": "avalanche-2",
+        "name": "Avalanche",
+        "symbol": "avax",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12559/large/Avalanche_Circle_RedWhite_Trans.png?1696512369"
+    },
+    {
+        "id": "tron",
+        "name": "TRON",
+        "symbol": "trx",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/1094/large/tron-logo.png?1696502193"
+    },
+    {
+        "id": "wrapped-bitcoin",
+        "name": "Wrapped Bitcoin",
+        "symbol": "wbtc",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599"
+            },
+            "fantom": {
+                "decimal_place": 8,
+                "contract_address": "0x321162cd933e2be498cd2267a90534a804051b11"
+            },
+            "polygon-zkevm": {
+                "decimal_place": 8,
+                "contract_address": "0xea034fb02eb1808c2cc3adbc15f447b93cbe08e1"
+            },
+            "avalanche": {
+                "decimal_place": 8,
+                "contract_address": "0x50b7545627a5162f82a992c33b87adc75187b218"
+            },
+            "klay-token": {
+                "decimal_place": 8,
+                "contract_address": "0xdcbacf3f7a069922e677912998c8d57423c37dfa"
+            },
+            "tomochain": {
+                "decimal_place": 8,
+                "contract_address": "0x503b2ddc059b81788fd1239561596614b27faade"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0x68f180fcce6836688e9084f035309e29bf0a2095"
+            },
+            "cronos": {
+                "decimal_place": 8,
+                "contract_address": "0x062e66477faf219f25d27dced647bf57c3107d52"
+            },
+            "zksync": {
+                "decimal_place": 8,
+                "contract_address": "0xbbeb516fb02a01611cbbe0453fe3c580d7281011"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x002c48630dcb8c75cc36162cbdbc8ff27b843973b951ba9b6e260f869d45bcdc"
+            },
+            "polygon-pos": {
+                "decimal_place": 8,
+                "contract_address": "0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6"
+            },
+            "astar": {
+                "decimal_place": 8,
+                "contract_address": "0xad543f18cff85c77e140e3e5e3c3392f6ba9d5ca"
+            },
+            "telos": {
+                "decimal_place": 18,
+                "contract_address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 8,
+                "contract_address": "0x3095c7557bcb296ccc6e363de01b760ba031f2d9"
+            },
+            "aurora": {
+                "decimal_place": 8,
+                "contract_address": "0xf4eb217ba2454613b15dbdea6e5f22276410e89e"
+            },
+            "boba": {
+                "decimal_place": 8,
+                "contract_address": "0xdc0486f8bf31df57a952bcd3c1d3e166e3d9ec8b"
+            },
+            "metis-andromeda": {
+                "decimal_place": 18,
+                "contract_address": "0xa5b55ab1daf0f8e1efc0eb1931a957fd89b918f4"
+            },
+            "xdai": {
+                "decimal_place": 8,
+                "contract_address": "0x8e5bbbb09ed1ebde8674cda39a0c169401db4252"
+            },
+            "fuse": {
+                "decimal_place": 8,
+                "contract_address": "0x33284f95ccb7b948d9d352e1439561cf83d8d00d"
+            },
+            "meter": {
+                "decimal_place": 8,
+                "contract_address": "0xc1f6c86abee8e2e0b6fd5bd80f0b51fef783635c"
+            },
+            "moonbeam": {
+                "decimal_place": 8,
+                "contract_address": "0x922d641a426dcffaef11680e5358f34d97d112e1"
+            },
+            "syscoin": {
+                "decimal_place": 8,
+                "contract_address": "0xc9baa8cfdde8e328787e29b4b078abf2dadc2055"
+            },
+            "milkomeda-cardano": {
+                "decimal_place": 8,
+                "contract_address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8"
+            },
+            "conflux": {
+                "decimal_place": 18,
+                "contract_address": "0x1f545487c62e5acfea45dcadd9c627361d1616d8"
+            },
+            "cube": {
+                "decimal_place": 18,
+                "contract_address": "0x040ea5c10e6ba4badb6c433a365ccc4968697230"
+            },
+            "velas": {
+                "decimal_place": 8,
+                "contract_address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c"
+            },
+            "hydra": {
+                "decimal_place": null,
+                "contract_address": "27a459ac47204f1e7fc5c48ffeafa990af244e13"
+            },
+            "step-network": {
+                "decimal_place": 8,
+                "contract_address": "0xb44a9b6905af7c801311e8f4e76932ee959c663c"
+            },
+            "arbitrum-one": {
+                "decimal_place": 8,
+                "contract_address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f"
+            },
+            "near-protocol": {
+                "decimal_place": 8,
+                "contract_address": "2260fac5e5542a773aa44fbcfedf7c193bc2c599.factory.bridge.near"
+            },
+            "thundercore": {
+                "decimal_place": 8,
+                "contract_address": "0x18fb0a62f207a2a082ca60aa78f47a1af4985190"
+            },
+            "kava": {
+                "decimal_place": 8,
+                "contract_address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b"
+            },
+            "moonriver": {
+                "decimal_place": 8,
+                "contract_address": "0x6ab6d61428fde76768d7b45d8bfeec19c6ef91a8"
+            },
+            "celo": {
+                "decimal_place": 18,
+                "contract_address": "0xd629eb00deced2a080b7ec630ef6ac117e614f1b"
+            },
+            "energi": {
+                "decimal_place": 8,
+                "contract_address": "0x29a791703e5a5a8d1578f8611b4d3691377cebc0"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/7598/large/wrapped_bitcoin_wbtc.png?1696507857"
+    },
+    {
+        "id": "polkadot",
+        "name": "Polkadot",
+        "symbol": "dot",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12171/large/polkadot.png?1696512008"
+    },
+    {
+        "id": "bitcoin-cash",
+        "name": "Bitcoin Cash",
+        "symbol": "bch",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/780/large/bitcoin-cash-circle.png?1696501932"
+    },
+    {
+        "id": "chainlink",
+        "name": "Chainlink",
+        "symbol": "link",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x514910771af9ca656af840dff83e8264ecf986ca"
+            },
+            "fantom": {
+                "decimal_place": 18,
+                "contract_address": "0xb3654dc3d10ea7645f8319668e8f54d2574fbdc8"
+            },
+            "huobi-token": {
+                "decimal_place": 18,
+                "contract_address": "0x9e004545c59d359f6b7bfb06a26390b087717b42"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x5947bb275c521040051d82396192181b413227a3"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x350a791bfc2c21f9ed5d10980dad2e2638ffa7f6"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "514910771af9ca656af840dff83e8264ecf986ca.factory.bridge.near"
+            },
+            "milkomeda-cardano": {
+                "decimal_place": 18,
+                "contract_address": "0xf390830df829cf22c53c8840554b98eafc5dcbc2"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4"
+            },
+            "xdai": {
+                "decimal_place": 18,
+                "contract_address": "0xe2e73a1c69ecf83f464efce6a5be353a37ca09b2"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x53e0bca35ec356bd5dddfebbd1fc0fd03fabad39"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x218532a12a389a4a92fc0c5fb22901d1c19198aa"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x008484148dcf23d1b48908393e7a00d5fdc3bf81029a73eeca62a15ebfb1205a"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xf8a0bf9cf54bb92f17374d9e9a321e6a111a51bd"
+            },
+            "osmosis": {
+                "decimal_place": null,
+                "contract_address": "ibc/D3327A763C23F01EC43D1F0DB3CEFEC390C362569B6FD191F40A5192F8960049"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x68ca48ca2626c415a89756471d4ade2cc9034008"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1696502009"
+    },
+    {
+        "id": "near",
+        "name": "NEAR Protocol",
+        "symbol": "near",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/10365/large/near.jpg?1696510367"
+    },
+    {
+        "id": "matic-network",
+        "name": "Polygon",
+        "symbol": "matic",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x009134d5c7b7fda8863985531f456f89bef5fbd76684a8acdb737b3e451d0877"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x0000000000000000000000000000000000001010"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x301259f392b551ca8c592c9f676fcd2f9a0a84c5"
+            },
+            "moonbeam": {
+                "decimal_place": 18,
+                "contract_address": "0x3405a1bd46b85c5c029483fbecf2f3e611026e45"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd"
+            },
+            "moonriver": {
+                "decimal_place": 18,
+                "contract_address": "0x682f81e57eaa716504090c3ecba8595fb54561d8"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x98997e1651919faeacee7b96afbb3dfd96cb6036"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/4713/large/polygon.png?1698233745"
+    },
+    {
+        "id": "litecoin",
+        "name": "Litecoin",
+        "symbol": "ltc",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/2/large/litecoin.png?1696501400"
+    },
+    {
+        "id": "leo-token",
+        "name": "LEO Token",
+        "symbol": "leo",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x2af5d2ad76741191d15dfe7bf6ac92d4bd912ca3"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x009e199267a6a2c8ae075bb8d4c40ee8d05c1b769085ee59ce98e50c2b2d8756"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/8418/large/leo-token.png?1696508607"
+    },
+    {
+        "id": "dai",
+        "name": "Dai",
+        "symbol": "dai",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x6b175474e89094c44da98b954eedeac495271d0f"
+            },
+            "fantom": {
+                "decimal_place": 18,
+                "contract_address": "0x8d11ec38a3eb5e956b052f67da8bdc9bef8abf3e"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70"
+            },
+            "polygon-zkevm": {
+                "decimal_place": 18,
+                "contract_address": "0xc5015b9d9161dca7e18e32f6f25c4ad850731fd4"
+            },
+            "klay-token": {
+                "decimal_place": 18,
+                "contract_address": "0x078db7827a5531359f6cb63f62cfa20183c4f10c"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+            },
+            "zksync": {
+                "decimal_place": 18,
+                "contract_address": "0x4b9eb6c0b6ea15176bbf62841c6b2a8a398cb656"
+            },
+            "cronos": {
+                "decimal_place": 18,
+                "contract_address": "0xf2001b145b43032aaf5ee2884e456ccd805f677d"
+            },
+            "milkomeda-cardano": {
+                "decimal_place": 18,
+                "contract_address": "0x639a647fbe20b6c8ac19e48e2de44ea792c62c5c"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+            },
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0x50c5725949a6f0c72e6c4a641f24049a917db0cb"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x8f3cf7ad23cd3cadbd9735aff958023239c6a063"
+            },
+            "astar": {
+                "decimal_place": 18,
+                "contract_address": "0x6de33698e9e9b787e09d3bd7771ef63557e148bb"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3"
+            },
+            "metis-andromeda": {
+                "decimal_place": 18,
+                "contract_address": "0x4651b38e7ec14bb3db731369bfe5b08f2466bd0a"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0xef977d2f931c1978db5f6747666fa1eacb0d0339"
+            },
+            "aurora": {
+                "decimal_place": 18,
+                "contract_address": "0xe3520349f477a5f6eb06107066048508498a291b"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x0200060000000000000000000000000000000000000000000000000000000000"
+            },
+            "moonbeam": {
+                "decimal_place": 18,
+                "contract_address": "0x765277eebeca2e31912c9946eae1021199b39c61"
+            },
+            "syscoin": {
+                "decimal_place": 18,
+                "contract_address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73"
+            },
+            "cosmos": {
+                "decimal_place": 0,
+                "contract_address": "ibc/0CD3A0285E1341859B5E86B6AB7682F023D03E97607CCC1DC95706411D866DF7"
+            },
+            "velas": {
+                "decimal_place": 18,
+                "contract_address": "0xe3f5a90f9cb311505cd691a46596599aa1a0ad7d"
+            },
+            "arbitrum-nova": {
+                "decimal_place": 18,
+                "contract_address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1"
+            },
+            "xdai": {
+                "decimal_place": 18,
+                "contract_address": "0x44fa8e6f47987339850636f88629646662444217"
+            },
+            "hydra": {
+                "decimal_place": null,
+                "contract_address": "abc2cd00700e06922bcf30fe0ad648507113cc56"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "6b175474e89094c44da98b954eedeac495271d0f.factory.bridge.near"
+            },
+            "kava": {
+                "decimal_place": 18,
+                "contract_address": "0x765277eebeca2e31912c9946eae1021199b39c61"
+            },
+            "moonriver": {
+                "decimal_place": 18,
+                "contract_address": "0x80a16016cc4a2e6a2caca8a4a498b1699ff0f844"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x0ee5893f434017d8881750101ea2f7c49c0eb503"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/9956/large/Badge_Dai.png?1696509996"
+    },
+    {
+        "id": "internet-computer",
+        "name": "Internet Computer",
+        "symbol": "icp",
+        "detail_platforms": {
+            "internet-computer": {
+                "decimal_place": 8,
+                "contract_address": "ryjl3-tyaaa-aaaaa-aaaba-cai"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/14495/large/Internet_Computer_logo.png?1696514180"
+    },
+    {
+        "id": "fetch-ai",
+        "name": "Fetch.ai",
+        "symbol": "fet",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xaea46a60368a7bd060eec7df8cba43b7ef41ad85"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x031b41e504677879370e9dbcf937283a8691fa7f"
+            },
+            "osmosis": {
+                "decimal_place": null,
+                "contract_address": "ibc/5D1F516200EE8C6B2354102143B78A2DEDA25EDE771AC0F8DC3C1837C8FD4447"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/5681/large/Fetch.jpg?1696506140"
+    },
+    {
+        "id": "uniswap",
+        "name": "Uniswap",
+        "symbol": "uni",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984"
+            },
+            "xdai": {
+                "decimal_place": 18,
+                "contract_address": "0x4537e328bf7e4efa29d05caea260d7fe26af9d74"
+            },
+            "huobi-token": {
+                "decimal_place": 18,
+                "contract_address": "0x22c54ce8321a4015740ee1109d9cbc25815c46e6"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x8ebaf22b6f053dffeaf46f4dd9efa95d89ba8580"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "1f9840a85d5af5bf1d1762f925bdaddc4201f984.factory.bridge.near"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x6fd9d7ad17242c41f7131d257212c54a0e816691"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0xb33eaad8d922b1083446dc23f610c2567fb5180f"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x90d81749da8867962c760414c1c25ec926e889b6"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xbf5140a22578168fd562dccf235e5d43a02ce9b1"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x009be848df92a400da2f217256c88d1a9b1a0304f9b3e90991a67418e1d3b08c"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x665b3a802979ec24e076c80025bff33c18eb6007"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12504/large/uni.jpg?1696512319"
+    },
+    {
+        "id": "render-token",
+        "name": "Render",
+        "symbol": "rndr",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x6de037ef9ad2725eb40118bb1702ebb27e4aeb24"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x61299774020da444af134c82fa83e3810b309991"
+            },
+            "solana": {
+                "decimal_place": 8,
+                "contract_address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/11636/large/rndr.png?1696511529"
+    },
+    {
+        "id": "ethereum-classic",
+        "name": "Ethereum Classic",
+        "symbol": "etc",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/453/large/ethereum-classic-logo.png?1696501717"
+    },
+    {
+        "id": "first-digital-usd",
+        "name": "First Digital USD",
+        "symbol": "fdusd",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xc5f0f7b66764f6ec8c8dff7ba683102295e16409"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/31079/large/firstfigital.jpeg?1696529912"
+    },
+    {
+        "id": "hedera-hashgraph",
+        "name": "Hedera",
+        "symbol": "hbar",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/3688/large/hbar.png?1696504364"
+    },
+    {
+        "id": "pepe",
+        "name": "Pepe",
+        "symbol": "pepe",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x6982508145454ce325ddbe47a25d4ec3d2311933"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x25d887ce7a35172c62febfd67a1856f20faebb00"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x25d887ce7a35172c62febfd67a1856f20faebb00"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg?1696528776"
+    },
+    {
+        "id": "aptos",
+        "name": "Aptos",
+        "symbol": "apt",
+        "detail_platforms": {
+            "aptos": {
+                "decimal_place": 8,
+                "contract_address": "0x1::aptos_coin::AptosCoin"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/26455/large/aptos_round.png?1696525528"
+    },
+    {
+        "id": "crypto-com-chain",
+        "name": "Cronos",
+        "symbol": "cro",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            },
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/7310/large/cro_token_logo.png?1696507599"
+    },
+    {
+        "id": "cosmos",
+        "name": "Cosmos Hub",
+        "symbol": "atom",
+        "detail_platforms": {
+            "cosmos": {
+                "decimal_place": null,
+                "contract_address": "uatom"
+            },
+            "evmos": {
+                "decimal_place": 6,
+                "contract_address": "0xc5e00d3b04563950941f7137b5afa3a534f0d6d6"
+            },
+            "osmosis": {
+                "decimal_place": null,
+                "contract_address": "ibc/27394FB092D2ECCD56123C74F36E4C1F926001CEADA9CA97EA622B25F41E5EB2"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x0eb3a705fc54725037cc9e008bdede697f62f335"
+            },
+            "canto": {
+                "decimal_place": 6,
+                "contract_address": "0xeceeefcee421d8062ef8d6b4d814efe4dc898265"
+            },
+            "kava": {
+                "decimal_place": 6,
+                "contract_address": "0x15932e26f5bd4923d46a2b205191c4b5d5f43fe3"
+            },
+            "archway": {
+                "decimal_place": null,
+                "contract_address": "ibc/27394fb092d2eccd56123c74f36e4c1f926001ceada9ca97ea622b25f41e5eb2"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/1481/large/cosmos_hub.png?1696502525"
+    },
+    {
+        "id": "mantle",
+        "name": "Mantle",
+        "symbol": "mnt",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x3c3a81e81dc49a522a592e7622a7e711c06bf354"
+            },
+            "mantle": {
+                "decimal_place": 18,
+                "contract_address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/30980/large/token-logo.png?1696529819"
+    },
+    {
+        "id": "wrapped-eeth",
+        "name": "Wrapped eETH",
+        "symbol": "weeth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xcd5fe23c85820f7b72d0926fc9b05b43e359b7ee"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x35751007a407ca6feffe80b3cb397736d2cf4dbe"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/33033/large/weETH.png?1701438396"
+    },
+    {
+        "id": "filecoin",
+        "name": "Filecoin",
+        "symbol": "fil",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12817/large/filecoin.png?1696512609"
+    },
+    {
+        "id": "immutable-x",
+        "name": "Immutable",
+        "symbol": "imx",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/17233/large/immutableX-symbol-BLK-RGB.png?1696516787"
+    },
+    {
+        "id": "stellar",
+        "name": "Stellar",
+        "symbol": "xlm",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/100/large/Stellar_symbol_black_RGB.png?1696501482"
+    },
+    {
+        "id": "okb",
+        "name": "OKB",
+        "symbol": "okb",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x75231f58b43240c9718dd58b4967c5114342a86c"
+            },
+            "okex-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x0080edc40a944d29562b2dea2de42ed27b9047d16eeea27c5bc1b2e02786abe9"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/4463/large/WeChat_Image_20220118095654.png?1696505053"
+    },
+    {
+        "id": "renzo-restaked-eth",
+        "name": "Renzo Restaked ETH",
+        "symbol": "ezeth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xbf5495efe5db9ce00f80364c8b423567e58d2110"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+            },
+            "blast": {
+                "decimal_place": 18,
+                "contract_address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+            },
+            "linea": {
+                "decimal_place": 18,
+                "contract_address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+            },
+            "mode": {
+                "decimal_place": 18,
+                "contract_address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+            },
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0x2416092f143378750bb29b79ed961ab195cceea5"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/34753/large/Ezeth_logo_circle.png?1713496404"
+    },
+    {
+        "id": "blockstack",
+        "name": "Stacks",
+        "symbol": "stx",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/2069/large/Stacks_Logo_png.png?1709979332"
+    },
+    {
+        "id": "dogwifcoin",
+        "name": "dogwifhat",
+        "symbol": "wif",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/33566/large/dogwifhat.jpg?1702499428"
+    },
+    {
+        "id": "kaspa",
+        "name": "Kaspa",
+        "symbol": "kas",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/25751/large/kaspa-icon-exchanges.png?1696524837"
+    },
+    {
+        "id": "optimism",
+        "name": "Optimism",
+        "symbol": "op",
+        "detail_platforms": {
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x4200000000000000000000000000000000000042"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/25244/large/Optimism.png?1696524385"
+    },
+    {
+        "id": "arbitrum",
+        "name": "Arbitrum",
+        "symbol": "arb",
+        "detail_platforms": {
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+            },
+            "arbitrum-nova": {
+                "decimal_place": 18,
+                "contract_address": "0xf823c3cd3cebe0a1fa952ba88dc9eef8e0bf46ad"
+            },
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xb50721bcf8d664c30412cfbc6cf7a15145234ad1"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/16547/large/photo_2023-03-29_21.47.00.jpeg?1696516109"
+    },
+    {
+        "id": "the-graph",
+        "name": "The Graph",
+        "symbol": "grt",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x002fa662f2e09de7c306d2bab0085ee9509488ff"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "c944e90c64b2c07662a292be6244bdf05cda44a7.factory.bridge.near"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x8a0cac13c7da965a312f08ea4229c37869e85cb9"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x5fe2b58c013d7601147dcdd68c143a77499f5531"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x9623063377ad1b27544c965ccd7342f7ea7e88c7"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x00d1fb79bbd1005a678fbf2de9256b3afe260e8eead49bb07bd3a566f9fe8355"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x771513ba693d457df3678c951c448701f2eaaad5"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13397/large/Graph_Token.png?1696513159"
+    },
+    {
+        "id": "arweave",
+        "name": "Arweave",
+        "symbol": "ar",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/4343/large/oRt6SiEN_400x400.jpg?1696504946"
+    },
+    {
+        "id": "maker",
+        "name": "Maker",
+        "symbol": "mkr",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x88128fd4b259552a9a1d457f435a6527aab72d42"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x6f7c932e7684666c9fd1d44527765433e01ff61d"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x00ec184ef0b4bd955db05eea5a8489ae72888ab6e63682a15beca1cd39344c8f"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x050317d93f29d1ba5ff3eac3b8157fd4e345588d"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/1364/large/Mark_Maker.png?1696502423"
+    },
+    {
+        "id": "vechain",
+        "name": "VeChain",
+        "symbol": "vet",
+        "detail_platforms": {
+            "vechain": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/1167/large/VET_Token_Icon.png?1710013505"
+    },
+    {
+        "id": "monero",
+        "name": "Monero",
+        "symbol": "xmr",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/69/large/monero_logo.png?1696501460"
+    },
+    {
+        "id": "bittensor",
+        "name": "Bittensor",
+        "symbol": "tao",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28452/large/ARUsPeNQ_400x400.jpeg?1696527447"
+    },
+    {
+        "id": "ethena-usde",
+        "name": "Ethena USDe",
+        "symbol": "usde",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x4c9edd5852cd905f086c759e8383e09bff1e68b3"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/33613/large/3466ef_3c088c66c7d941e8856339d0bddf33cc_mv2.png?1702514458"
+    },
+    {
+        "id": "sui",
+        "name": "Sui",
+        "symbol": "sui",
+        "detail_platforms": {
+            "sui": {
+                "decimal_place": 9,
+                "contract_address": "0x2::sui::SUI"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/26375/large/sui_asset.jpeg?1696525453"
+    },
+    {
+        "id": "injective-protocol",
+        "name": "Injective",
+        "symbol": "inj",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xe28b3b32b6c345a34ff64674606124dd5aceca30"
+            },
+            "cosmos": {
+                "decimal_place": null,
+                "contract_address": "ibc/64BA6E31FE887D66C6F8F31C7B1A80C7CA179239677B4088BB55F5EA07DBE273"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xa2b726b1145a4773f68593cf171187d8ebe4d495"
+            },
+            "secret": {
+                "decimal_place": 16,
+                "contract_address": "secret14706vxakdzkz9a36872cs62vpl5qd84kpwvpew"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12882/large/Secondary_Symbol.png?1696512670"
+    },
+    {
+        "id": "thorchain",
+        "name": "THORChain",
+        "symbol": "rune",
+        "detail_platforms": {
+            "thorchain": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/6595/large/Rune200x200.png?1696506946"
+    },
+    {
+        "id": "theta-token",
+        "name": "Theta Network",
+        "symbol": "theta",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/2538/large/theta-token-logo.png?1696503349"
+    },
+    {
+        "id": "fantom",
+        "name": "Fantom",
+        "symbol": "ftm",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/4001/large/Fantom_round.png?1696504642"
+    },
+    {
+        "id": "rocket-pool-eth",
+        "name": "Rocket Pool ETH",
+        "symbol": "reth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xae78736cd615f374d3085123a210448e74fc6393"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x9bcef72be871e61ed4fbbc7630889bee758eb81d"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xec70dcb4a1efa46b8f2d97c310c9c4790ba5ffa8"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x0266f4f08d82372cf0fcbccc0ff74309089c74d1"
+            },
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/20764/large/reth.png?1696520159"
+    },
+    {
+        "id": "celestia",
+        "name": "Celestia",
+        "symbol": "tia",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            },
+            "secret": {
+                "decimal_place": 6,
+                "contract_address": "secret1s9h6mrp4k9gll4zfv5h78ll68hdq8ml7jrnn20"
+            },
+            "cosmos": {
+                "decimal_place": null,
+                "contract_address": "ibc/D79E7D83AB399BFFF93433E54FAA480C191248FC556924A2A8351AE2638B3877"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/31967/large/tia.jpg?1696530772"
+    },
+    {
+        "id": "floki",
+        "name": "FLOKI",
+        "symbol": "floki",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 9,
+                "contract_address": "0xcf0c122c6b73ff809c693db761e7baebe62b6a2e"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 9,
+                "contract_address": "0xfb5b838b6cfeedc2873ab27866079ac55363d37e"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/16746/large/PNG_image.png?1696516318"
+    },
+    {
+        "id": "lido-dao",
+        "name": "Lido DAO",
+        "symbol": "ldo",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xfdb794692724153d1488ccdbe0c56c252596735f"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0xc3c7d422809852031b44ab29eec9f1eff2a58756"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13573/large/Lido_DAO.png?1696513326"
+    },
+    {
+        "id": "bitget-token",
+        "name": "Bitget Token",
+        "symbol": "bgb",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x19de6b897ed14a376dda0fe53a5420d2ac828a28"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/11610/large/icon_colour.png?1696511504"
+    },
+    {
+        "id": "coredaoorg",
+        "name": "Core",
+        "symbol": "core",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28938/large/file_589.jpg?1701868471"
+    },
+    {
+        "id": "bonk",
+        "name": "Bonk",
+        "symbol": "bonk",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 5,
+                "contract_address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263"
+            },
+            "neon-evm": {
+                "decimal_place": 5,
+                "contract_address": "0xd4b6520f7fb78e1ee75639f3376c581a71bcdb0e"
+            },
+            "ethereum": {
+                "decimal_place": 5,
+                "contract_address": "0x1151cb3d861920e07a38e03eead12c32178567f6"
+            },
+            "arbitrum-one": {
+                "decimal_place": 5,
+                "contract_address": "0x09199d9a5f4448d0848e4395d065e1ad9c4a1f74"
+            },
+            "polygon-pos": {
+                "decimal_place": 5,
+                "contract_address": "0xe5b49820e5a1063f6f4ddf851327b5e8b2301048"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 5,
+                "contract_address": "0xa697e272a73744b343528c3bc4702f2565b2f422"
+            },
+            "aptos": {
+                "decimal_place": 5,
+                "contract_address": "0x2a90fae71afc7460ee42b20ee49a9c9b29272905ad71fef92fbd8b3905a24b56"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28600/large/bonk.jpg?1696527587"
+    },
+    {
+        "id": "gala",
+        "name": "GALA",
+        "symbol": "gala",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0xd1d2eb1b1e90b638588728b4130137d262c87cae"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12493/large/GALA_token_image_-_200PNG.png?1709725869"
+    },
+    {
+        "id": "algorand",
+        "name": "Algorand",
+        "symbol": "algo",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/4380/large/download.png?1696504978"
+    },
+    {
+        "id": "whitebit",
+        "name": "WhiteBIT Coin",
+        "symbol": "wbt",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0x925206b8a707096ed26ae47c84747fe0bb734f59"
+            },
+            "tron": {
+                "decimal_place": 8,
+                "contract_address": "TFptbWaARrWTX5Yvy3gNG5Lm8BmhPx82Bt"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/27045/large/wbt_token.png?1696526096"
+    },
+    {
+        "id": "jupiter-exchange-solana",
+        "name": "Jupiter",
+        "symbol": "jup",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/34188/large/jup.png?1704266489"
+    },
+    {
+        "id": "mantle-staked-ether",
+        "name": "Mantle Staked Ether",
+        "symbol": "meth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xd5f7838f5c461feff7fe49ea5ebaf7728bb0adfa"
+            },
+            "mantle": {
+                "decimal_place": 18,
+                "contract_address": "0xcda86a272531e8640cd7f1a92c01839911b90bb0"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/33345/large/symbol_transparent_bg.png?1701697066"
+    },
+    {
+        "id": "quant-network",
+        "name": "Quant",
+        "symbol": "qnt",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x4a220e6096b25eadb88358cb44068a3248254675"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x462b35452e552a66b519ecf70aedb1835d434965"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/3370/large/5ZOu7brX_400x400.jpg?1696504070"
+    },
+    {
+        "id": "sei-network",
+        "name": "Sei",
+        "symbol": "sei",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28205/large/Sei_Logo_-_Transparent.png?1696527207"
+    },
+    {
+        "id": "flow",
+        "name": "Flow",
+        "symbol": "flow",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13446/large/5f6294c0c7a8cda55cb1c936_Flow_Wordmark.png?1696513210"
+    },
+    {
+        "id": "worldcoin-wld",
+        "name": "Worldcoin",
+        "symbol": "wld",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x163f8c2467924be0ae7b5347228cabf260318753"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xdc6ff44d5d932cbd77b52e5612ba0529dc6226f1"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/31069/large/worldcoin.jpeg?1696529903"
+    },
+    {
+        "id": "aave",
+        "name": "Aave",
+        "symbol": "aave",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9"
+            },
+            "huobi-token": {
+                "decimal_place": 18,
+                "contract_address": "0x202b4936fe1a82a4965220860ae46d7d3939bb25"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x63a72806098bd3d9520cc43356dd78afe5d386d9"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x76fb31fb4af56892a25e32cfc43de717950c9278"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x0091bd8d8295b25cab5a7b8b0e44498e678cfc15d872ede3215f7d4c7635ba36"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9.factory.bridge.near"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b"
+            },
+            "fantom": {
+                "decimal_place": 18,
+                "contract_address": "0x6a07a792ab2965c72a5b8088d3a069a7ac3a993b"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0xcf323aad9e522b93f11c352caa519ad0e14eb40f"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xfb6115445bff7b52feb98650c87f44907e58f802"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xa7f2f790355e0c32cab03f92f6eb7f488e6f049a"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png?1696512452"
+    },
+    {
+        "id": "akash-network",
+        "name": "Akash Network",
+        "symbol": "akt",
+        "detail_platforms": {
+            "akash": {
+                "decimal_place": null,
+                "contract_address": "uakt"
+            },
+            "archway": {
+                "decimal_place": 6,
+                "contract_address": "ibc/C2CFB1C37C146CF95B0784FD518F8030FEFC76C5800105B1742FB65FFE65F873"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12785/large/akash-logo.png?1696512580"
+    },
+    {
+        "id": "bitcoin-cash-sv",
+        "name": "Bitcoin SV",
+        "symbol": "bsv",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/6799/large/BSV.png?1696507128"
+    },
+    {
+        "id": "ethena",
+        "name": "Ethena",
+        "symbol": "ena",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x57e114b691db790c35207b2e685d4a43181e6061"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/36530/large/ethena.png?1711701436"
+    },
+    {
+        "id": "singularitynet",
+        "name": "SingularityNET",
+        "symbol": "agix",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0x5b7533812759b45c2b44c19e320ba2cd2681b542"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x005e152271f8816d76221c7a0b5c6cafcb54fdfb6954dd8812f0158bfeac900d"
+            },
+            "cardano": {
+                "decimal_place": 8,
+                "contract_address": "f43a62fdc3965df486de8a0d32fe800963589c41b38946602a0dc535"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/2138/large/singularitynet.png?1696503103"
+    },
+    {
+        "id": "beam-2",
+        "name": "Beam",
+        "symbol": "beam",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x62d0a8458ed7719fdaf978fe5929c6d342b0bfce"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/32417/large/chain-logo.png?1698114384"
+    },
+    {
+        "id": "dydx-chain",
+        "name": "dYdX",
+        "symbol": "dydx",
+        "detail_platforms": {
+            "cosmos": {
+                "decimal_place": 0,
+                "contract_address": "ibc/831F0B1BBB1D08A2B75311892876D71565478C532967545476DF4C2D7492E48C"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/32594/large/dydx.png?1698673495"
+    },
+    {
+        "id": "bittorrent",
+        "name": "BitTorrent",
+        "symbol": "btt",
+        "detail_platforms": {
+            "tron": {
+                "decimal_place": 18,
+                "contract_address": "TAFjULxiVgT4qWk6UZwjqwZXTSaGaqnVp4"
+            },
+            "bittorrent": {
+                "decimal_place": 18,
+                "contract_address": "0x0000000000000000000000000000000000001010"
+            },
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xc669928185dbce49d2230cc9b0979be6dc797957"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xf1bdcf2d4163adf9554111439dabdd6f18ff9ba7"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/22457/large/btt_logo.png?1696521780"
+    },
+    {
+        "id": "flare-networks",
+        "name": "Flare",
+        "symbol": "flr",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28624/large/FLR-icon200x200.png?1696527609"
+    },
+    {
+        "id": "ondo-finance",
+        "name": "Ondo",
+        "symbol": "ondo",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/26580/large/ONDO.png?1696525656"
+    },
+    {
+        "id": "chiliz",
+        "name": "Chiliz",
+        "symbol": "chz",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xa82fc24687ffbde40776dede7c70f845b67f3ef7"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/8834/large/CHZ_Token_updated.png?1696508986"
+    },
+    {
+        "id": "cheelee",
+        "name": "Cheelee",
+        "symbol": "cheel",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x1f1c90aeb2fd13ea972f0a71e35c0753848e3db0"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28573/large/CHEEL_%D1%82%D0%BE%D0%BD%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%B2%D0%BE%D0%B4%D0%BA%D0%B0_%283%29.png?1696527561"
+    },
+    {
+        "id": "zebec-protocol",
+        "name": "Zebec Protocol",
+        "symbol": "zbc",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "zebeczgi5fSEtbpfQKVZKCJ3WgYXxjkMUkNNx7fLKAF"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/24342/large/zebec.jpeg?1696523526"
+    },
+    {
+        "id": "gatechain-token",
+        "name": "Gate",
+        "symbol": "gt",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xe66747a101bff2dba3697199dcce5b743b454759"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/8183/large/gate.png?1696508395"
+    },
+    {
+        "id": "neo",
+        "name": "NEO",
+        "symbol": "neo",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/480/large/NEO_512_512.png?1696501735"
+    },
+    {
+        "id": "elrond-erd-2",
+        "name": "MultiversX",
+        "symbol": "egld",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12335/large/egld-token-logo.png?1696512162"
+    },
+    {
+        "id": "ribbon-finance",
+        "name": "Ribbon Finance",
+        "symbol": "rbn",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x6123b0049f904d730db3c36a31167d9d4121fa6b"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/15823/large/ribbon.png?1709186956"
+    },
+    {
+        "id": "wormhole",
+        "name": "Wormhole",
+        "symbol": "w",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "85VBFQZC9TZkfaptBWjvUw7YbZjy52A6mjtPGjstQAmQ"
+            },
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91"
+            },
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0xb0ffa8000886e57f86dd5264b9582b2ad87b2b91"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/35087/large/womrhole_logo_full_color_rgb_2000px_72ppi_fb766ac85a.png?1708688954"
+    },
+    {
+        "id": "axie-infinity",
+        "name": "Axie Infinity",
+        "symbol": "axs",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xbb0e17ef65f82ab018d8edd776e8dd940327b28b"
+            },
+            "ronin": {
+                "decimal_place": 18,
+                "contract_address": "0x97a9107c1793bc407d6f527b77e7fff4d812bece"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x715d400f88c167884bbcc41c5fea407ed4d2f8a0"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x14a7b318fed66ffdcc80c1517c172c13852865de"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x7cd3d51bee45434dd80822c5d58b999333b69ffb"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13029/large/axie_infinity_logo.png?1696512817"
+    },
+    {
+        "id": "kucoin-shares",
+        "name": "KuCoin",
+        "symbol": "kcs",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/1047/large/sa9z79.png?1696502152"
+    },
+    {
+        "id": "the-sandbox",
+        "name": "The Sandbox",
+        "symbol": "sand",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x3845badade8e6dff049820680d1f14bd3903a5d0"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x35de8649e1e4fd1a7bd3b14f7e24e5e7887174ed"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0xbbba073c31bf03b8acf7c28ef0738decf3695683"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x73a4ac88c12d66ad08c1cfc891bf47883919ba74"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12129/large/sandbox_logo.jpg?1696511971"
+    },
+    {
+        "id": "tokenize-xchange",
+        "name": "Tokenize Xchange",
+        "symbol": "tkx",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0x667102bd3413bfeaa3dffb48fa8288819e480a88"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/4984/large/TKX_-_Logo_-_RGB-15.png?1696505519"
+    },
+    {
+        "id": "pendle",
+        "name": "Pendle",
+        "symbol": "pendle",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x808507121b80c02388fad14726482e061b8da827"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0xfb98b335551a418cd0737375a2ea0ded62ea213b"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xbc7b1ff1c6989f006a1185318ed4e7b5796e66e1"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x0c880f6761f1af8d9aa9c466984b80dab9a8c9e8"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xb3ed0a426155b79b898849803e3b36552f7ed507"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png?1696514728"
+    },
+    {
+        "id": "eos",
+        "name": "EOS",
+        "symbol": "eos",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/738/large/eos-eos-logo.png?1696501893"
+    },
+    {
+        "id": "ecash",
+        "name": "eCash",
+        "symbol": "xec",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/16646/large/Logo_final-22.png?1696516207"
+    },
+    {
+        "id": "starknet",
+        "name": "Starknet",
+        "symbol": "strk",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xca14007eff0db1f8135f4c25b34de49ab0d42766"
+            },
+            "starknet": {
+                "decimal_place": 18,
+                "contract_address": "0x4718f5a0fc34cc1af16a1cdee98ffb20c31f5cd61d6ab07201858f4287c938d"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/26433/large/starknet.png?1696525507"
+    },
+    {
+        "id": "tezos",
+        "name": "Tezos",
+        "symbol": "xtz",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/976/large/Tezos-logo.png?1696502091"
+    },
+    {
+        "id": "msol",
+        "name": "Marinade Staked SOL",
+        "symbol": "msol",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/17752/large/mSOL.png?1696517278"
+    },
+    {
+        "id": "jasmycoin",
+        "name": "JasmyCoin",
+        "symbol": "jasmy",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x7420b4b9a0110cdc71fb720908340c03f9bc03ec"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13876/large/JASMY200x200.jpg?1696513620"
+    },
+    {
+        "id": "mina-protocol",
+        "name": "Mina Protocol",
+        "symbol": "mina",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/15628/large/JM4_vQ34_400x400.png?1696515261"
+    },
+    {
+        "id": "conflux-token",
+        "name": "Conflux",
+        "symbol": "cfx",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13079/large/3vuYMbjN.png?1696512867"
+    },
+    {
+        "id": "havven",
+        "name": "Synthetix Network",
+        "symbol": "snx",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+            },
+            "huobi-token": {
+                "decimal_place": 18,
+                "contract_address": "0x777850281719d5a96c29812ab72f822e0e09f3da"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x7b9c523d59aefd362247bd5601a89722e3774dd2"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0xbec243c995409e6520d7c41e404da5deba4b209b"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "c011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f.factory.bridge.near"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x8700daec35af8ff88c16bdf0418774cb3d7599b4"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a"
+            },
+            "fantom": {
+                "decimal_place": 18,
+                "contract_address": "0x56ee926bd8c72b2d5fa1af4d9e4cbb515a1e3adc"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xa255461ff545d6ece153283f421d67d2de5d0e29"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/3406/large/SNX.png?1696504103"
+    },
+    {
+        "id": "ronin",
+        "name": "Ronin",
+        "symbol": "ron",
+        "detail_platforms": {
+            "ronin": {
+                "decimal_place": 18,
+                "contract_address": "0xe514d9deb7966c8be0ca922de8a064264ea6bcd4"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/20009/large/photo_2024-04-06_22-52-24.jpg?1712415367"
+    },
+    {
+        "id": "aioz-network",
+        "name": "AIOZ Network",
+        "symbol": "aioz",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x626e8036deb333b408be468f951bdb42433cbf18"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x33d08d8c7a168333a85285a68c0042b39fc3741d"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/14631/large/aioz-logo-200.png?1696514309"
+    },
+    {
+        "id": "helium",
+        "name": "Helium",
+        "symbol": "hnt",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 8,
+                "contract_address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/4284/large/Helium_HNT.png?1696504894"
+    },
+    {
+        "id": "safe",
+        "name": "Safe",
+        "symbol": "safe",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x5afe3855358e112b5647b952709e6165e1c1eeee"
+            },
+            "xdai": {
+                "decimal_place": 15,
+                "contract_address": "0x4d18815d14fe5c3304e87b3fa18318baa5c23820"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/27032/large/Artboard_1_copy_8circle-1.png?1696526084"
+    },
+    {
+        "id": "kelp-dao-restaked-eth",
+        "name": "Kelp DAO Restaked ETH",
+        "symbol": "rseth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xa1290d69c65a6fe4df752f95823fae25cb99e5a7"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/33800/large/Icon___Dark.png?1702991855"
+    },
+    {
+        "id": "decentraland",
+        "name": "Decentraland",
+        "symbol": "mana",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/878/large/decentraland-mana.png?1696502010"
+    },
+    {
+        "id": "ordinals",
+        "name": "ORDI",
+        "symbol": "ordi",
+        "detail_platforms": {
+            "ordinals": {
+                "decimal_place": null,
+                "contract_address": "b61b0172d95e266c18aea0c624db987e971a5d6d4ebc2aaed85da4642d635735i0"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/30162/large/ordi.png?1696529082"
+    },
+    {
+        "id": "apecoin",
+        "name": "ApeCoin",
+        "symbol": "ape",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x4d224452801aced8b2f0aebe155379bb5d594381"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0xb7b31a6bc18e48888545ce79e83e06003be70930"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/24383/large/apecoin.jpg?1696523566"
+    },
+    {
+        "id": "gnosis",
+        "name": "Gnosis",
+        "symbol": "gno",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x6810e776880c02933d47db1b9fc05908e5386b96"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xa0b862f60edef4452f25b4160f177db44deb6cf1"
+            },
+            "xdai": {
+                "decimal_place": 18,
+                "contract_address": "0x9c58bacc331c9aa871afd802db6379a98e80cedb"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xf452bff8e958c6f335f06fc3aac427ee195366fe"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1696501854"
+    },
+    {
+        "id": "usdd",
+        "name": "USDD",
+        "symbol": "usdd",
+        "detail_platforms": {
+            "tron": {
+                "decimal_place": 18,
+                "contract_address": "TPYmHEhy5n8TCEfYGqW2rPxsghSfzghPDn"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "0c10bf8fcb7bf5412187a595ab97a3609160b5c6.factory.bridge.near"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0xb514cabd09ef5b169ed3fe0fa8dbd590741e81c2"
+            },
+            "bittorrent": {
+                "decimal_place": 18,
+                "contract_address": "0x17f235fd5974318e4e2a5e37919a209f7c37a6d1"
+            },
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x0c10bf8fcb7bf5412187a595ab97a3609160b5c6"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x680447595e8b7b3aa1b43beb9f6098c79ac2ab3f"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xd17479997f34dd9156deef8f95a52d81d265be9c"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/25380/large/UUSD.jpg?1696524513"
+    },
+    {
+        "id": "book-of-meme",
+        "name": "BOOK OF MEME",
+        "symbol": "bome",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "ukHH6c7mMyiWCf1b9pnWe25TSpkDDt3H5pQZgZ74J82"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/36071/large/bome.png?1710407255"
+    },
+    {
+        "id": "dexe",
+        "name": "DeXe",
+        "symbol": "dexe",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xde4ee8057785a7e8e800db58f9784845a5c2cbd6"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x6e88056e8376ae7709496ba64d37fa2f8015ce3e"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12713/large/DEXE_token_logo.png?1696512514"
+    },
+    {
+        "id": "pancakeswap-token",
+        "name": "PancakeSwap",
+        "symbol": "cake",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+            },
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x152649ea73beab28c5b49b26eb48f7ead6d4c898"
+            },
+            "aptos": {
+                "decimal_place": 8,
+                "contract_address": "0x159df6b7689437016108a019fd5bef736bac692b6d4a1f10c941f6fbb9a74ca6::oft::CakeOFT"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440"
+    },
+    {
+        "id": "nexo",
+        "name": "NEXO",
+        "symbol": "nexo",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x04640dc771edd73cbeb934fb5461674830baea11"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e"
+            },
+            "fantom": {
+                "decimal_place": 18,
+                "contract_address": "0x7c598c96d02398d89fbcb9d41eab3df0c16f227d"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x003005b2417b5046455e73f7fc39779a013f1a33b4518bcd83a790900dca49ff"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/3695/large/nexo.png?1696504370"
+    },
+    {
+        "id": "nervos-network",
+        "name": "Nervos Network",
+        "symbol": "ckb",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/9566/large/Nervos_White.png?1696509646"
+    },
+    {
+        "id": "kava",
+        "name": "Kava",
+        "symbol": "kava",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/9761/large/kava.png?1696509822"
+    },
+    {
+        "id": "iota",
+        "name": "IOTA",
+        "symbol": "iota",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/692/large/IOTA_Swirl.png?1696501881"
+    },
+    {
+        "id": "axelar",
+        "name": "Axelar",
+        "symbol": "axl",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 6,
+                "contract_address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3"
+            },
+            "avalanche": {
+                "decimal_place": 6,
+                "contract_address": "0x44c784266cf024a60e8acf2427b9857ace194c5d"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 6,
+                "contract_address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f"
+            },
+            "arbitrum-one": {
+                "decimal_place": 6,
+                "contract_address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f"
+            },
+            "base": {
+                "decimal_place": 6,
+                "contract_address": "0x23ee2343b892b1bb63503a4fabc840e0e2c6810f"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 6,
+                "contract_address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65"
+            },
+            "secret": {
+                "decimal_place": 6,
+                "contract_address": "secret1vcau4rkn7mvfwl8hf0dqa9p0jr59983e3qqe3z"
+            },
+            "moonbeam": {
+                "decimal_place": 6,
+                "contract_address": "0x467719ad09025fcc6cf6f8311755809d45a5e5f3"
+            },
+            "fantom": {
+                "decimal_place": 6,
+                "contract_address": "0x8b1f4432f943c465a973fedc6d7aa50fc96f1f65"
+            },
+            "osmosis": {
+                "decimal_place": null,
+                "contract_address": "ibc/903A61A498756EA560B85A85132D3AEE21B5DEDD41213725D22ABF276EA6945E"
+            },
+            "polygon-pos": {
+                "decimal_place": 6,
+                "contract_address": "0x6e4e624106cb12e168e6533f8ec7c82263358940"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg?1696526329"
+    },
+    {
+        "id": "frax",
+        "name": "Frax",
+        "symbol": "frax",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x853d955acef822db058eb8505911ed77f175b99e"
+            },
+            "moonbeam": {
+                "decimal_place": 18,
+                "contract_address": "0x322e86852e492a7ee17f28a78c663da38fb33bfb"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64"
+            },
+            "polygon-zkevm": {
+                "decimal_place": 18,
+                "contract_address": "0xff8544fed5379d9ffa8d47a74ce6b91e632ac44d"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x2e3d870790dc77a83dd1d18184acc7439a53f475"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "853d955acef822db058eb8505911ed77f175b99e.factory.bridge.near"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x90c97f71e18723b0cf0dfa30ee176ab653e89f40"
+            },
+            "fantom": {
+                "decimal_place": 18,
+                "contract_address": "0xdc301622e621166bd8e82f2ca0a26c13ad0be355"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0xfa7191d292d5633f702b0bd7e3e3bccc0e633200"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89"
+            },
+            "evmos": {
+                "decimal_place": 18,
+                "contract_address": "0xe03494d0033687543a80c9b1ca7d6237f2ea8bd8"
+            },
+            "solana": {
+                "decimal_place": 18,
+                "contract_address": "FR87nWEUxVgerFGhZM8Y4AggKGLnaXswr1Pd8wZ4kZcp"
+            },
+            "moonriver": {
+                "decimal_place": 18,
+                "contract_address": "0x1a93b23281cc1cde4c4741353f3064709a16197d"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13422/large/FRAX_icon.png?1696513182"
+    },
+    {
+        "id": "lido-staked-sol",
+        "name": "Lido Staked SOL",
+        "symbol": "stsol",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/18369/large/logo_-_2021-09-15T100934.765.png?1696517862"
+    },
+    {
+        "id": "pyth-network",
+        "name": "Pyth Network",
+        "symbol": "pyth",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "HZ1JovNiVvGrGNiiYvEozEVgZ58xaU3RKwX8eACQBCt3"
+            },
+            "manta-pacific": {
+                "decimal_place": 6,
+                "contract_address": "0x90e95735378a31bfad2dcd87128fbb80ffeb6917"
+            },
+            "neon-evm": {
+                "decimal_place": 6,
+                "contract_address": "0x0575dd4afd93b7522fee4e0179f243eca3856137"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/31924/large/pyth.png?1701245725"
+    },
+    {
+        "id": "theta-fuel",
+        "name": "Theta Fuel",
+        "symbol": "tfuel",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/8029/large/1_0YusgngOrriVg4ZYx4wOFQ.png?1696508251"
+    },
+    {
+        "id": "ether-fi-staked-eth",
+        "name": "ether.fi Staked ETH",
+        "symbol": "eeth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x35fa164735182de50811e8e2e824cfb9b6118ac2"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/33049/large/ether.fi_eETH.png?1700473063"
+    },
+    {
+        "id": "fasttoken",
+        "name": "Fasttoken",
+        "symbol": "ftn",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xaedf386b755465871ff874e3e37af5976e247064"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28478/large/lightenicon_200x200.png?1696527472"
+    },
+    {
+        "id": "terra-luna",
+        "name": "Terra Luna Classic",
+        "symbol": "lunc",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/8284/large/01_LunaClassic_color.png?1696508486"
+    },
+    {
+        "id": "klay-token",
+        "name": "Klaytn",
+        "symbol": "klay",
+        "detail_platforms": {
+            "klay-token": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/9672/large/klaytn.png?1696509742"
+    },
+    {
+        "id": "frax-ether",
+        "name": "Frax Ether",
+        "symbol": "frxeth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x5e8422345238f34275888049021821e8e08caa1f"
+            },
+            "moonbeam": {
+                "decimal_place": 18,
+                "contract_address": "0x82bbd1b6f6de2b7bb63d3e1546e6b1553508be99"
+            },
+            "fantom": {
+                "decimal_place": 18,
+                "contract_address": "0x9e73f99ee061c8807f69f9c6ccc44ea3d8c373ee"
+            },
+            "polygon-zkevm": {
+                "decimal_place": 18,
+                "contract_address": "0xcf7ecee185f19e2e970a301ee37f93536ed66179"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x6806411765af15bddd26f8f544a34cc40cb9838b"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x178412e79c25968a32e89b11f63b33f733770c2a"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0xee327f889d5947c1dc1934bb208a1e792f953e96"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x64048a7eecf3a2f1ba9e144aac3d7db6e58f555e"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28284/large/frxETH_icon.png?1696527284"
+    },
+    {
+        "id": "tether-gold",
+        "name": "Tether Gold",
+        "symbol": "xaut",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 6,
+                "contract_address": "0x68749665ff8d2d112fa859aa293f07a622782f38"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/10481/large/Tether_Gold.png?1696510471"
+    },
+    {
+        "id": "ocean-protocol",
+        "name": "Ocean Protocol",
+        "symbol": "ocean",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x967da4048cd07ab37855c090aaf366e4ce1b9f48"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x99a17fb61fbdc4e42f6b0f496fe92ba820ce5d2b"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x2561aa2bb1d2eb6629edd7b0938d7679b8b49f9e"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x282d8efce846a88b159800bd4130ad77443fa1a1"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x002ca40397c794e25dba18cf807910eeb69eb8e81b3f07bb54f7c5d1d8ab76b9"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/3687/large/ocean-protocol-logo.jpg?1696504363"
+    },
+    {
+        "id": "echelon-prime",
+        "name": "Echelon Prime",
+        "symbol": "prime",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xb23d80f5fefcddaa212212f028021b41ded428cf"
+            },
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0xfa980ced6895ac314e7de34ef1bfae90a5add21b"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/29053/large/prime-logo-small-border_%282%29.png?1696528020"
+    },
+    {
+        "id": "blur",
+        "name": "Blur",
+        "symbol": "blur",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x5283d291dbcf85356a21ba090e6db59121208b44"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28453/large/blur.png?1696527448"
+    },
+    {
+        "id": "sweth",
+        "name": "Swell Ethereum",
+        "symbol": "sweth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xf951e335afb289353dc249e82926178eac7ded78"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xbc011a12da28e8f0f528d9ee5e7039e22f91cf18"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/30326/large/_lB7zEtS_400x400.jpg?1696529227"
+    },
+    {
+        "id": "bitcoin-gold",
+        "name": "Bitcoin Gold",
+        "symbol": "btg",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/1043/large/bitcoin-gold-logo.png?1696502150"
+    },
+    {
+        "id": "oasis-network",
+        "name": "Oasis Network",
+        "symbol": "rose",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xf00600ebc7633462bc4f9c61ea2ce99f5aaebd4a"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13162/large/rose.png?1696512946"
+    },
+    {
+        "id": "mantra-dao",
+        "name": "MANTRA",
+        "symbol": "om",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x3593d125a4f7849a1b059e64f4517a86dd60c95d"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0xc3ec80343d2bae2f8e680fdadde7c17e71e114ea"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xf78d2e7936f5fe18308a3b2951a93b6c4a41f5e2"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12151/large/OM_Token.png?1696511991"
+    },
+    {
+        "id": "livepeer",
+        "name": "Livepeer",
+        "symbol": "lpt",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x58b6a8a3302369daec383334672404ee733ab239"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x289ba1701c2f088cf0faf8b3705246331cb8a839"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0xbd3e698b51d340cc53b0cc549b598c13e0172b7c"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/7137/large/logo-circle-green.png?1696507437"
+    },
+    {
+        "id": "wemix-token",
+        "name": "WEMIX",
+        "symbol": "wemix",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12998/large/wemixcoin_color_200.png?1696512788"
+    },
+    {
+        "id": "dydx",
+        "name": "dYdX",
+        "symbol": "ethdydx",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x92d6c1e31e14520e676a687f0a93788b716beff5"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/17500/large/hjnIm9bV.jpg?1696517040"
+    },
+    {
+        "id": "osmosis",
+        "name": "Osmosis",
+        "symbol": "osmo",
+        "detail_platforms": {
+            "osmosis": {
+                "decimal_place": null,
+                "contract_address": "uosmo"
+            },
+            "evmos": {
+                "decimal_place": 6,
+                "contract_address": "0xfa3c22c069b9556a4b2f7ece1ee3b467909f4864"
+            },
+            "secret": {
+                "decimal_place": 6,
+                "contract_address": "secret150jec8mc2hzyyqak4umv6cfevelr0x9p0mjxgg"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/16724/large/osmo.png?1696516298"
+    },
+    {
+        "id": "arkham",
+        "name": "Arkham",
+        "symbol": "arkm",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x6e2a43be0b1d33b726f0ca3b8de60b3482b8b050"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/30929/large/Arkham_Logo_CG.png?1696529771"
+    },
+    {
+        "id": "coinbase-wrapped-staked-eth",
+        "name": "Coinbase Wrapped Staked ETH",
+        "symbol": "cbeth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xbe9895146f7af43049ca1c1ae358b0541ea49704"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xaddb6a0412de1ba0f936dcaeb8aaa24578dcf3b2"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x4b4327db1600b8b1440163f667e199cef35385f5"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x1debd73e752beaf79865fd6446b0c970eae7732f"
+            },
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png?1709186989"
+    },
+    {
+        "id": "sats-ordinals",
+        "name": "SATS (Ordinals)",
+        "symbol": "sats",
+        "detail_platforms": {
+            "ordinals": {
+                "decimal_place": 18,
+                "contract_address": "9b664bdd6f5ed80d8d88957b63364c41f3ad4efb8eee11366aa16435974d9333i0"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/30666/large/_dD8qr3M_400x400.png?1702913020"
+    },
+    {
+        "id": "golem",
+        "name": "Golem",
+        "symbol": "glm",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x7dd9c5cba05e151c895fde1cf355c9a1d5da6429"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xf3ff3bf1d1afcbebd98a304482c4099dc953e9a8"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/542/large/Golem_Submark_Positive_RGB.png?1696501761"
+    },
+    {
+        "id": "illuvium",
+        "name": "Illuvium",
+        "symbol": "ilv",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x767fe9edc9e0df98e07454847909b5e959d7ca0e"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xa4ecf6d10b8d61d4a022821a6ff8b9536a47c70d"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/14468/large/logo-200x200.png?1696514154"
+    },
+    {
+        "id": "xdce-crowd-sale",
+        "name": "XDC Network",
+        "symbol": "xdc",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/2912/large/xdc-icon.png?1696503661"
+    },
+    {
+        "id": "true-usd",
+        "name": "TrueUSD",
+        "symbol": "tusd",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x0000000000085d4780b73119b644ae5ecd22b376"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x1c20e891bab6b1727d14da358fae2984ed9b59eb"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x40af3827f39d0eacbf4a168f8d4ee67c121d11c9"
+            },
+            "tron": {
+                "decimal_place": 18,
+                "contract_address": "TUpMhErZL2fhh4sVNULAbNKLokS4GjC1F4"
+            },
+            "binancecoin": {
+                "decimal_place": 8,
+                "contract_address": "TUSDB-888"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/3449/large/tusd.png?1696504140"
+    },
+    {
+        "id": "curve-dao-token",
+        "name": "Curve DAO",
+        "symbol": "crv",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xd533a949740bb3306d119cc777fa900ba034cd52"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x0994206dfe8de6ec6920ff4d779b0d950605fb53"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x172370d5cd63279efa6d502dab29171933a610af"
+            },
+            "fantom": {
+                "decimal_place": 18,
+                "contract_address": "0x1e4f97b9f9f913c46f1632781732927b9019c68b"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x002ead91a2de57b8855b53d4a62c25277073fd7f65f7e5e79f4936ed747fcad0"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xd3319eaf3c4743ac75aace77befcfa445ed6e69e"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12124/large/Curve.png?1696511967"
+    },
+    {
+        "id": "woo-network",
+        "name": "WOO",
+        "symbol": "woo",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
+            },
+            "fantom": {
+                "decimal_place": 18,
+                "contract_address": "0x6626c47c00f1d87902fc13eecfac3ed06d5e8d8a"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0xabc9547b534519ff73921b1fba6e672b5f58d083"
+            },
+            "huobi-token": {
+                "decimal_place": 18,
+                "contract_address": "0x3befb2308bce92da97264077faf37dcd6c8a75e6"
+            },
+            "zksync": {
+                "decimal_place": 18,
+                "contract_address": "0x9e22d758629761fc5708c171d06c2fabb60b5159"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xcafcd85d8ca7ad1e1c6f82f651fa15e33aefd07b"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x4691937a7508860f876c9c0a2a617e7d9e945d4b"
+            },
+            "okex-chain": {
+                "decimal_place": null,
+                "contract_address": "0x5427a224e50a9af4d030aeecd2a686d41f348dfe"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x1b815d120b3ef02039ee11dc2d33de7aa4a8c603"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "4691937a7508860f876c9c0a2a617e7d9e945d4b.factory.bridge.near"
+            },
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "E5rk3nmgLUuKUiS94gg4bpWwWwyjCMtddsAXkTFLtHEy"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12921/large/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709"
+    },
+    {
+        "id": "astar",
+        "name": "Astar",
+        "symbol": "astr",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/22617/large/astr.png?1696521933"
+    },
+    {
+        "id": "apenft",
+        "name": "APENFT",
+        "symbol": "nft",
+        "detail_platforms": {
+            "tron": {
+                "decimal_place": 6,
+                "contract_address": "TFczxzPhnThNSqr5by8tvxsdCFRRz6cPNq"
+            },
+            "ethereum": {
+                "decimal_place": 6,
+                "contract_address": "0x198d14f2ad9ce69e76ea330b374de4957c3f850a"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 6,
+                "contract_address": "0x20ee7b720f4e4c4ffcb00c4065cdae55271aecca"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/15687/large/apenft.jpg?1696515316"
+    },
+    {
+        "id": "dymension",
+        "name": "Dymension",
+        "symbol": "dym",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            },
+            "cosmos": {
+                "decimal_place": null,
+                "contract_address": "ibc/9A76CDF0CBCEF37923F32518FA15E5DC92B9F56128292BC4D63C4AEA76CBB110"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/34182/large/dym.png?1704253006"
+    },
+    {
+        "id": "mx-token",
+        "name": "MX",
+        "symbol": "mx",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x11eef04c884e24d9b7b4760e7476d06ddf797f36"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/8545/large/MEXC_GLOBAL_LOGO.jpeg?1696508719"
+    },
+    {
+        "id": "jito-governance-token",
+        "name": "Jito",
+        "symbol": "jto",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/33228/large/jto.png?1701137022"
+    },
+    {
+        "id": "staked-frax-ether",
+        "name": "Staked Frax Ether",
+        "symbol": "sfrxeth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xac3e018457b222d93114458476f3e3416abbe38f"
+            },
+            "moonbeam": {
+                "decimal_place": 18,
+                "contract_address": "0xecf91116348af1cffe335e9807f0051332be128d"
+            },
+            "fantom": {
+                "decimal_place": 18,
+                "contract_address": "0xb90ccd563918ff900928dc529aa01046795ccb4a"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x484c2d6e3cdd945a8b2df735e079178c1036578c"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x95ab45875cffdba1e5f451b950bc2e42c0053f39"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x6d1fdbb266fcc09a16a22016369210a15bb95761"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x3cd55356433c89e50dc51ab07ee0fa0a95623d53"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28285/large/sfrxETH_icon.png?1696527285"
+    },
+    {
+        "id": "radix",
+        "name": "Radix",
+        "symbol": "xrd",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/4374/large/Radix.png?1696504973"
+    },
+    {
+        "id": "iotex",
+        "name": "IoTeX",
+        "symbol": "iotx",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x6fb3e0a217407efff7ca062d46c26e5d60a14d69"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/3334/large/iotex-logo.png?1696504041"
+    },
+    {
+        "id": "trust-wallet-token",
+        "name": "Trust Wallet",
+        "symbol": "twt",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x4b0f1812e5df2a09796481ff14017e6005508003"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xfaa02b262130431b44c929fdd960e202ffeabfe3"
+            },
+            "binancecoin": {
+                "decimal_place": 8,
+                "contract_address": "TWT-8C2"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/11085/large/Trust.png?1696511026"
+    },
+    {
+        "id": "venom",
+        "name": "Venom",
+        "symbol": "venom",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28660/large/Venom_Icon.png?1696527645"
+    },
+    {
+        "id": "superfarm",
+        "name": "SuperVerse",
+        "symbol": "super",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xe53ec727dbdeb9e2d5456c3be40cff031ab40a55"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0xa1428174f516f527fafdd146b883bb4428682737"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x51ba0b044d96c3abfca52b64d733603ccc4f0d4d"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x8b2ed0247a3fd9706ac033dd7e926161e5c4753b"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/14040/large/SV-Logo-200x200.png?1706880312"
+    },
+    {
+        "id": "pax-gold",
+        "name": "PAX Gold",
+        "symbol": "paxg",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x45804880de22913dafe09f4980848ece6ecbaf78"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x7afb0e2eba6dc938945fe0f42484d3b8f442d0ac"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xbf8afa4663b30c621a5f7497a972fc63c1a06c66"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/9519/large/paxgold.png?1696509604"
+    },
+    {
+        "id": "ethereum-name-service",
+        "name": "Ethereum Name Service",
+        "symbol": "ens",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/19785/large/acatxTm8_400x400.jpg?1696519207"
+    },
+    {
+        "id": "altlayer",
+        "name": "AltLayer",
+        "symbol": "alt",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x8457ca5040ad67fdebbcc8edce889a335bc0fbfb"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/34608/large/Logomark_200x200.png?1715107868"
+    },
+    {
+        "id": "ankr",
+        "name": "Ankr Network",
+        "symbol": "ankr",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x8290333cef9e6d528dd5618fb97a76f268f3edd4"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x20cf1b6e9d856321ed4686877cf4538f2c84b4de"
+            },
+            "polygon-zkevm": {
+                "decimal_place": 18,
+                "contract_address": "0xdf474b7109b73b7d57926d43598d5934131136b2"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xaeaeed23478c3a4b798e4ed40d8b7f41366ae861"
+            },
+            "linea": {
+                "decimal_place": 18,
+                "contract_address": "0xa8ae6365383eb907e6b4b1b7e82a35752cc5ef8c"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x101a023270368c0d50bffb62780f4afd4ea79c35"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xaeaeed23478c3a4b798e4ed40d8b7f41366ae861"
+            },
+            "mode": {
+                "decimal_place": 18,
+                "contract_address": "0xdf474b7109b73b7d57926d43598d5934131136b2"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xf307910a4c7bbc79691fd374889b36d8531b08e3"
+            },
+            "fantom": {
+                "decimal_place": 18,
+                "contract_address": "0xdf474b7109b73b7d57926d43598d5934131136b2"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/4324/large/U85xTl2.png?1696504928"
+    },
+    {
+        "id": "memecoin-2",
+        "name": "Memecoin",
+        "symbol": "meme",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xb131f4a55907b10d1f0a50d8ab8fa09ec342cd74"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/32528/large/memecoin_%282%29.png?1698912168"
+    },
+    {
+        "id": "ether-fi",
+        "name": "Ether.fi",
+        "symbol": "ethfi",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xfe0c30065b384f05761f15d0cc899d4f9f9cc0eb"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562"
+    },
+    {
+        "id": "corgiai",
+        "name": "CorgiAI",
+        "symbol": "corgiai",
+        "detail_platforms": {
+            "cronos": {
+                "decimal_place": 18,
+                "contract_address": "0x6b431b8a964bfcf28191b07c91189ff4403957d0"
+            },
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x6b431b8a964bfcf28191b07c91189ff4403957d0"
+            },
+            "solana": {
+                "decimal_place": 18,
+                "contract_address": "79F32BvHBE49gPsvypYTGzcpWGvt66mgvenQow3mJjXu"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/30933/large/Token.png?1696529775"
+    },
+    {
+        "id": "stepn",
+        "name": "GMT",
+        "symbol": "gmt",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "7i5KKsX2weiTkry7jA4ZwSuXGhs5eJBEjY8vVxR4pfRx"
+            },
+            "polygon-pos": {
+                "decimal_place": 8,
+                "contract_address": "0x714db550b574b3e927af3d93e26127d15721d4c2"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 8,
+                "contract_address": "0x3019bf2a2ef8040c242c9a4c5c4bd4c81678b2a1"
+            },
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0xe3c408bd53c31c085a1746af401a4042954ff740"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/23597/large/token-gmt-200x200.png?1703153841"
+    },
+    {
+        "id": "aerodrome-finance",
+        "name": "Aerodrome Finance",
+        "symbol": "aero",
+        "detail_platforms": {
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0x940181a94a35a4569e4529a3cdfb74e38fd98631"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/31745/large/token.png?1696530564"
+    },
+    {
+        "id": "zilliqa",
+        "name": "Zilliqa",
+        "symbol": "zil",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            },
+            "binance-smart-chain": {
+                "decimal_place": 12,
+                "contract_address": "0xb86abcb37c3a4b64f74f59301aff131a1becc787"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/2687/large/Zilliqa-logo.png?1696503475"
+    },
+    {
+        "id": "1inch",
+        "name": "1inch",
+        "symbol": "1inch",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x111111111117dc0aa78b770fa6a738034120c302"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0xd501281565bf7789224523144fe5d98e8b28f267"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x58f1b044d8308812881a1433d9bbeff99975e70c"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "111111111117dc0aa78b770fa6a738034120c302.factory.bridge.near"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x111111111117dc0aa78b770fa6a738034120c302"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xdda6205dc3f47e5280eb726613b27374eee9d130"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13469/large/1inch-token.png?1696513230"
+    },
+    {
+        "id": "raydium",
+        "name": "Raydium",
+        "symbol": "ray",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13928/large/PSigc4ie_400x400.jpg?1696513668"
+    },
+    {
+        "id": "celo",
+        "name": "Celo",
+        "symbol": "celo",
+        "detail_platforms": {
+            "celo": {
+                "decimal_place": 18,
+                "contract_address": "0x471ece3750da237f93b8e339c536989b8978a438"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/11090/large/InjXBNx9_400x400.jpg?1696511031"
+    },
+    {
+        "id": "enjincoin",
+        "name": "Enjin Coin",
+        "symbol": "enj",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0xadbd41bfb4389de499535c14a8a3a12fead8f66a"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x204a90b57d15417864080df1cd6e907831c206a6"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/1102/large/Symbol_Only_-_Purple.png?1709725966"
+    },
+    {
+        "id": "manta-network",
+        "name": "Manta Network",
+        "symbol": "manta",
+        "detail_platforms": {
+            "manta-pacific": {
+                "decimal_place": 18,
+                "contract_address": "0x95cef13441be50d20ca4558cc0a27b601ac544e5"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/34289/large/manta.jpg?1704468717"
+    },
+    {
+        "id": "terra-luna-2",
+        "name": "Terra",
+        "symbol": "luna",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            },
+            "osmosis": {
+                "decimal_place": null,
+                "contract_address": "ibc/785AFEC6B3741100D15E7AF01374E3C4C36F24888E96479B1C33F5C71F364EF9"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/25767/large/01_Luna_color.png?1696524851"
+    },
+    {
+        "id": "polymesh",
+        "name": "Polymesh",
+        "symbol": "polyx",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/23496/large/Polymesh-symbol.png?1696522706"
+    },
+    {
+        "id": "amp-token",
+        "name": "Amp",
+        "symbol": "amp",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "ff20817765cb7f73d4bde2e66e067e58d11095c2.factory.bridge.near"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xad7abe6f12f1059bdf48ae67bff92b00438ced95"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/12409/large/amp-200x200.png?1696512231"
+    },
+    {
+        "id": "rocket-pool",
+        "name": "Rocket Pool",
+        "symbol": "rpl",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xd33526068d116ce69f19a9ee46f0bd304f21a51f"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x7205705771547cf79201111b4bd8aaf29467b9ec"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xb766039cc6db368759c1e56b79affe831d0cc507"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/2090/large/rocket_pool_%28RPL%29.png?1696503058"
+    },
+    {
+        "id": "popcat",
+        "name": "Popcat",
+        "symbol": "popcat",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/33760/large/image.jpg?1702964227"
+    },
+    {
+        "id": "holotoken",
+        "name": "Holo",
+        "symbol": "hot",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x6c6ee5e31d828de241282b9606c8e98ea48526e2"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x5dfeadcdd2d4eb29ac5ae876daa07ffd07bf6483"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x004baaeb9bf0d5210a51fab72d10c84a34f53bea4e0e102d794d531a45ec50f9"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x34b97eeab6fd9bbe95a5eaf4645307c5a6f3d4d0"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/3348/large/Holologo_Profile.png?1696504052"
+    },
+    {
+        "id": "ravencoin",
+        "name": "Ravencoin",
+        "symbol": "rvn",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/3412/large/ravencoin.png?1696504108"
+    },
+    {
+        "id": "0x",
+        "name": "0x Protocol",
+        "symbol": "zrx",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xe41d2489571d322189246dafa5ebde1f4699f498"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x596fa47043f99a4e0f122243b841e55375cde0d2"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x8143e2a1085939caa9cef6665c2ff32f7bc08435"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x591c19dc0821704bedaa5bbc6a66fee277d9437e"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/863/large/0x.png?1696501996"
+    },
+    {
+        "id": "safepal",
+        "name": "SafePal",
+        "symbol": "sfp",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x12e2b8033420270db2f3b328e32370cb5b2ca134"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xd41fdb03ba84762dd66a0af1a6c8540ff1ba5dfb"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x12490d720747e312be64029dfd475837ed285cfe"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13905/large/sfp.png?1696513647"
+    },
+    {
+        "id": "paypal-usd",
+        "name": "PayPal USD",
+        "symbol": "pyusd",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 6,
+                "contract_address": "0x6c3ea9036406852006290770bedfcaba0e23a0e8"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1696530039"
+    },
+    {
+        "id": "siacoin",
+        "name": "Siacoin",
+        "symbol": "sc",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/289/large/siacoin.png?1696501638"
+    },
+    {
+        "id": "compound-governance-token",
+        "name": "Compound",
+        "symbol": "comp",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xc00e94cb662c3520282e6f5717214004a7f26888"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0xc3048e19e76cb9a3aa9d77d8c03c29fc906e2437"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "c00e94cb662c3520282e6f5717214004a7f26888.factory.bridge.near"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x32137b9275ea35162812883582623cd6f6950958"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x354a6da3fcde098f8389cad84b0182725c6c91de"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x52ce071bd9b1c4b00a0b92d298c512478cad67e8"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x00dbd45af9f2ea406746f9025110297469e9d29efc60df8d88efb9b0179d6c2c"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x66bc411714e16b6f0c68be12bd9c666cc4576063"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/10775/large/COMP.png?1696510737"
+    },
+    {
+        "id": "project-galaxy",
+        "name": "Galxe",
+        "symbol": "gal",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x5faa989af96af85384b8a938c2ede4a7378d9875"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xe4cc45bb5dbda06db6183e8bf016569f40497aa5"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/24530/large/galaxy.jpg?1696523708"
+    },
+    {
+        "id": "aelf",
+        "name": "aelf",
+        "symbol": "elf",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xbf2179859fc6d5bee9bf9158632dc51678a4100e"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xa3f020a5c92e15be13caf0ee5c95cf79585eecc9"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/1371/large/aelf-logo.png?1696502429"
+    },
+    {
+        "id": "stader-ethx",
+        "name": "Stader ETHx",
+        "symbol": "ethx",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xa35b1b31ce002fbf2058d22f30f95d405200a15b"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/30870/large/staderx.png?1696529717"
+    },
+    {
+        "id": "nosana",
+        "name": "Nosana",
+        "symbol": "nos",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "nosXBVoaCTtYdLvKY6Csb4AC8JCdQKKAaWYtx2ZMoo7"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/22553/large/POfb_I4u_400x400.jpg?1696521873"
+    },
+    {
+        "id": "zetachain",
+        "name": "ZetaChain",
+        "symbol": "zeta",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xf091867ec603a6628ed83d274e835539d82e9cc8"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x0000028a2eb8346cd5c0267856ab7594b7a55308"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/26718/large/Twitter_icon.png?1696525788"
+    },
+    {
+        "id": "compound-wrapped-btc",
+        "name": "cWBTC",
+        "symbol": "cwbtc",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0xccf4429db6322d5c611ee964527d42e5d685dd6a"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/10823/large/cwbtc.png?1696510780"
+    },
+    {
+        "id": "qtum",
+        "name": "Qtum",
+        "symbol": "qtum",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/684/large/Qtum_Logo_blue_CG.png?1696501874"
+    },
+    {
+        "id": "skale",
+        "name": "SKALE",
+        "symbol": "skl",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x00c83aecc790e8a4453e5dd3b0b4b3680501a7a7"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13245/large/SKALE_token_300x300.png?1696513021"
+    },
+    {
+        "id": "tellor",
+        "name": "Tellor Tributes",
+        "symbol": "trb",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x88df592f8eb5d7bd38bfef7deb0fbc02cf3778a0"
+            },
+            "manta-pacific": {
+                "decimal_place": 18,
+                "contract_address": "0x8d7090ddda057f48fdbbb2abcea22d1113ab566a"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xaf8ca653fa2772d58f4368b0a71980e9e3ceb888"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xd58d345fd9c82262e087d2d0607624b410d88242"
+            },
+            "xdai": {
+                "decimal_place": 18,
+                "contract_address": "0xaad66432d27737ecf6ed183160adc5ef36ab99f2"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0xe3322702bedaaed36cddab233360b939775ae5f1"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/9644/large/Blk_icon_current.png?1696509713"
+    },
+    {
+        "id": "ethereum-pow-iou",
+        "name": "EthereumPoW",
+        "symbol": "ethw",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/26997/large/logo-clear.png?1696526049"
+    },
+    {
+        "id": "zcash",
+        "name": "Zcash",
+        "symbol": "zec",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/486/large/circle-zcash-color.png?1696501740"
+    },
+    {
+        "id": "uma",
+        "name": "UMA",
+        "symbol": "uma",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x04fa0d235c4abf4bcf4787af4cf447de572ef828"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x3bd2b1c7ed8d396dbb98ded3aebb41350a5b2339"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/10951/large/UMA.png?1696510900"
+    },
+    {
+        "id": "basic-attention-token",
+        "name": "Basic Attention",
+        "symbol": "bat",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x2875b4cfab0a4cc4bdc7fbdf94b6e376826a4332"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x98443b96ea4b0858fdf3219cd13e98c7a4690588"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "0d8775f648430679a709e98d2b0cb6250d2887ef.factory.bridge.near"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x3cef98bb43d732e2f285ee605a8158cde967d219"
+            },
+            "solana": {
+                "decimal_place": 8,
+                "contract_address": "EPeUFDgHRxs9xxEPVaL6kfGQvCon7jmAWKVUHuux1Tpz"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xe8ba8d7765bd33ba7ff3b19b9020c15bf14123b6"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/677/large/basic-attention-token.png?1696501867"
+    },
+    {
+        "id": "threshold-network-token",
+        "name": "Threshold Network",
+        "symbol": "t",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xcdf7028ceab81fa0c6971208e83fa7872994bee5"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/22228/large/nFPNiSbL_400x400.jpg?1696521570"
+    },
+    {
+        "id": "casper-network",
+        "name": "Casper Network",
+        "symbol": "cspr",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/15279/large/CSPR_Token_Logo_CoinGecko.png?1709518377"
+    },
+    {
+        "id": "maga",
+        "name": "MAGA",
+        "symbol": "trump",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 9,
+                "contract_address": "0x576e2bed8f7b46d34016198911cdf9886f78bea7"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 9,
+                "contract_address": "0x4ea98c1999575aaadfb38237dd015c5e773f75a2"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/31498/large/Maga-Trump-Logo-200px.png?1696530309"
+    },
+    {
+        "id": "centrifuge",
+        "name": "Centrifuge",
+        "symbol": "cfg",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/15380/large/centrifuge.PNG?1696515027"
+    },
+    {
+        "id": "dash",
+        "name": "Dash",
+        "symbol": "dash",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/19/large/dash-logo.png?1696501423"
+    },
+    {
+        "id": "chia",
+        "name": "Chia",
+        "symbol": "xch",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/15174/large/zV5K5y9f_400x400.png?1696514829"
+    },
+    {
+        "id": "origintrail",
+        "name": "OriginTrail",
+        "symbol": "trac",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/1877/large/TRAC.jpg?1696502873"
+    },
+    {
+        "id": "frax-share",
+        "name": "Frax Share",
+        "symbol": "fxs",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x3432b6a60d23ca0dfca7761b7ab56459d9c964d0"
+            },
+            "fantom": {
+                "decimal_place": 18,
+                "contract_address": "0x7d016eec9c25232b01f23ef992d98ca97fc2af5a"
+            },
+            "polygon-zkevm": {
+                "decimal_place": 18,
+                "contract_address": "0x6b856a14cea1d7dcfaf80fa6936c0b75972ccace"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x214db107654ff987ad859f34125307783fc8e387"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xe48a3d7d0bc88d552f730b62c006bc925eadb9ee"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x0767d8e1b05efa8d6a301a65b324b6b66a1cc14c"
+            },
+            "evmos": {
+                "decimal_place": 18,
+                "contract_address": "0xd8176865dd0d672c6ab4a427572f80a72b4b4a9c"
+            },
+            "solana": {
+                "decimal_place": 18,
+                "contract_address": "6LX8BhMQ4Sy2otmAWj7Y5sKd9YTVVUgfMsBzT6B9W7ct"
+            },
+            "moonriver": {
+                "decimal_place": 18,
+                "contract_address": "0x6f1d1ee50846fcbc3de91723e61cb68cfa6d0e98"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13423/large/Frax_Shares_icon.png?1696513183"
+    },
+    {
+        "id": "compound-ether",
+        "name": "cETH",
+        "symbol": "ceth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/10643/large/ceth.png?1696510617"
+    },
+    {
+        "id": "metis-token",
+        "name": "Metis",
+        "symbol": "metis",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x9e32b13ce7f2e80a01932b42553652e053d6ed8e"
+            },
+            "metis-andromeda": {
+                "decimal_place": 18,
+                "contract_address": "0xdeaddeaddeaddeaddeaddeaddeaddeaddead0000"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/15595/large/Metis_Black_Bg.png?1702968192"
+    },
+    {
+        "id": "biconomy",
+        "name": "Biconomy",
+        "symbol": "bico",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xf17e65822b568b3903685a7c9f496cf7656cc6c2"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xa68ec98d7ca870cf1dd0b00ebbb7c4bf60a8e74d"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/21061/large/biconomy_logo.jpg?1696520444"
+    },
+    {
+        "id": "just",
+        "name": "JUST",
+        "symbol": "jst",
+        "detail_platforms": {
+            "tron": {
+                "decimal_place": 18,
+                "contract_address": "TCFLL5dx5ZJdKnWuesXxi1VPwjLVmWZZy9"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/11095/large/JUST.jpg?1696511035"
+    },
+    {
+        "id": "gas",
+        "name": "Gas",
+        "symbol": "gas",
+        "detail_platforms": {
+            "neo": {
+                "decimal_place": 8,
+                "contract_address": "602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/858/large/GAS_512_512.png?1696501992"
+    },
+    {
+        "id": "nem",
+        "name": "NEM",
+        "symbol": "xem",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/242/large/NEM_WC_Logo_200px.png?1696501595"
+    },
+    {
+        "id": "mask-network",
+        "name": "Mask Network",
+        "symbol": "mask",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x746514e2c7d91e1e84c20c54d1f6f537b28a7d8e"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x2ed9a5c8c13b93955103b9a7c167b67ef4d568a3"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/14051/large/Mask_Network.jpg?1696513776"
+    },
+    {
+        "id": "cat-in-a-dogs-world",
+        "name": "cat in a dogs world",
+        "symbol": "mew",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 5,
+                "contract_address": "MEW1gQWJ3nEXg2qgERiKu7FAFj79PHvQVREQUzScPP5"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/36440/large/MEW.png?1711442286"
+    },
+    {
+        "id": "loopring",
+        "name": "Loopring",
+        "symbol": "lrc",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x46d0ce7de6247b0a95f67b43b589b4041bae7fbe"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x193da10f8a969d4c081b9097b15337b1488cbbec"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/913/large/LRC.png?1696502034"
+    },
+    {
+        "id": "aragon",
+        "name": "Aragon",
+        "symbol": "ant",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0x4b3686eec98b2b89102f2830003097c7d4e1f691"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/681/large/Avatar_Circle_x6.png?1696501871"
+    },
+    {
+        "id": "space-id",
+        "name": "SPACE ID",
+        "symbol": "id",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x2dff88a56767223a5529ea5960da7a3f5f766406"
+            },
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x2dff88a56767223a5529ea5960da7a3f5f766406"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/29468/large/sid_token_logo_%28green2%29.png?1696528413"
+    },
+    {
+        "id": "zelcash",
+        "name": "Flux",
+        "symbol": "flux",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/5163/large/Flux_symbol_blue-white.png?1696505679"
+    },
+    {
+        "id": "reserve-rights-token",
+        "name": "Reserve Rights",
+        "symbol": "rsr",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x320623b8e4ff03373931769a31fc52a4e78b5d70"
+            },
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0xab36452dbac151be02b16ca17d8919826072f64a"
+            },
+            "energi": {
+                "decimal_place": 18,
+                "contract_address": "0xfce13bb63b60f6e20ed846ae73ed242d29129800"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/8365/large/rsr.png?1696508558"
+    },
+    {
+        "id": "decred",
+        "name": "Decred",
+        "symbol": "dcr",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/329/large/decred.png?1696501665"
+    },
+    {
+        "id": "arcblock",
+        "name": "Arcblock",
+        "symbol": "abt",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xb98d4c97425d9908e66e53a6fdf673acca0be986"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/2341/large/arcblock.png?1696503220"
+    },
+    {
+        "id": "m2-global-wealth-limited-mmx",
+        "name": "MMX",
+        "symbol": "mmx",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x614da3b37b6f66f7ce69b4bbbcf9a55ce6168707"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/33161/large/mmx.png?1700830276"
+    },
+    {
+        "id": "goldfinch",
+        "name": "Goldfinch",
+        "symbol": "gfi",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xdab396ccf3d84cf2d07c4454e10c8a6f5b008d2b"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/19081/large/GOLDFINCH.png?1696518531"
+    },
+    {
+        "id": "based-brett",
+        "name": "Brett",
+        "symbol": "brett",
+        "detail_platforms": {
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0x532f27101965dd16442e59d40670faf5ebb142e4"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/35529/large/1000050750.png?1709031995"
+    },
+    {
+        "id": "ontology",
+        "name": "Ontology",
+        "symbol": "ont",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/3447/large/ONT.png?1696504138"
+    },
+    {
+        "id": "lisk",
+        "name": "Lisk",
+        "symbol": "lsk",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/385/large/Lisk_Symbol_-_Blue.png?1696501687"
+    },
+    {
+        "id": "0x0-ai-ai-smart-contract",
+        "name": "0x0.ai: AI Smart Contract",
+        "symbol": "0x0",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 9,
+                "contract_address": "0x5a3e6a77ba2f983ec0d371ea3b475f8bc0811ad5"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28880/large/0x0.png?1696527857"
+    },
+    {
+        "id": "yield-guild-games",
+        "name": "Yield Guild Games",
+        "symbol": "ygg",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x25f8087ead173b73d6e8b84329989a8eea16cf73"
+            },
+            "ronin": {
+                "decimal_place": 18,
+                "contract_address": "0x1c306872bc82525d72bf3562e8f0aa3f8f26e857"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x82617aa52dddf5ed9bb7b370ed777b3182a30fd1"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 18,
+                "contract_address": "0x63cf309500d8be0b9fdb8f1fb66c821236c0438c"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/17358/large/Shield_Mark_-_Colored_-_Iridescent.png?1696516909"
+    },
+    {
+        "id": "black-phoenix",
+        "name": "Black Phoenix",
+        "symbol": "bpx",
+        "detail_platforms": {
+            "tron": {
+                "decimal_place": 18,
+                "contract_address": "TXBcx59eDVndV5upFQnTR2xdvqFd5reXET"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x4e22ab2bbcb3e7f74249c87f62bb35ef92c3d964"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/16948/large/photo_2021-05-11_01-35-19.jpg?1696516516"
+    },
+    {
+        "id": "pixels",
+        "name": "Pixels",
+        "symbol": "pixel",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x3429d03c6f7521aec737a0bbf2e5ddcef2c3ae31"
+            },
+            "ronin": {
+                "decimal_place": null,
+                "contract_address": "0x7eae20d11ef8c779433eb24503def900b9d28ad7"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/35100/large/pixel-icon.png?1708339519"
+    },
+    {
+        "id": "gmx",
+        "name": "GMX",
+        "symbol": "gmx",
+        "detail_platforms": {
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x62edc0692bd897d2295872a9ffcac5425011c661"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/18323/large/arbit.png?1696517814"
+    },
+    {
+        "id": "kamino",
+        "name": "Kamino",
+        "symbol": "kmno",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/35801/large/tP0Lcgwp_400x400.jpg?1709824189"
+    },
+    {
+        "id": "telcoin",
+        "name": "Telcoin",
+        "symbol": "tel",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 2,
+                "contract_address": "0x467bccd9d29f223bce8043b84e8c8b282827790f"
+            },
+            "polygon-pos": {
+                "decimal_place": 2,
+                "contract_address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x008f925e3e422218604fac1cc2f06f3ef9c1e244e0d2a9a823e5bd8ce9778434"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/1899/large/tel.png?1696502892"
+    },
+    {
+        "id": "paal-ai",
+        "name": "PAAL AI",
+        "symbol": "paal",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 9,
+                "contract_address": "0x14fee680690900ba0cccfc76ad70fd1b95d10e16"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/30815/large/PaalX.jpg?1696529671"
+    },
+    {
+        "id": "api3",
+        "name": "API3",
+        "symbol": "api3",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x0b38210ea11411557c13457d4da7dc6ea731b88a"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13256/large/api3.jpg?1696513031"
+    },
+    {
+        "id": "coin98",
+        "name": "Coin98",
+        "symbol": "c98",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xaec945e04baf28b135fa7c640f624f8d90f1c3a6"
+            },
+            "tomochain": {
+                "decimal_place": 18,
+                "contract_address": "0x0fd0288aaae91eaf935e2ec14b23486f86516c8c"
+            },
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xae12c5930881c53715b369cec7606b70d8eb229f"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x77f56cf9365955486b12c4816992388ee8606f0e"
+            },
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "C98A4nkJXhpVZNAZdHUA95RpTF3T4whtQubL3YobiUX9"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/17117/large/logo.png?1696516677"
+    },
+    {
+        "id": "liquid-staked-ethereum",
+        "name": "Liquid Staked ETH",
+        "symbol": "lseth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x8c1bed5b9a0928467c9b1341da1d7bd5e10b6549"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/28848/large/LsETH-receipt-token-circle.png?1696527824"
+    },
+    {
+        "id": "ssv-network",
+        "name": "SSV Network",
+        "symbol": "ssv",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x9d65ff81a3c488d585bbfb0bfe3c7707c7917f54"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/19155/large/ssv.png?1696518606"
+    },
+    {
+        "id": "nxm",
+        "name": "Nexus Mutual",
+        "symbol": "nxm",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xd7c49cee7e9188cca6ad8ff264c1da2e69d4cf3b"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/11810/large/NXMmain.png?1696511684"
+    },
+    {
+        "id": "aleph-zero",
+        "name": "Aleph Zero",
+        "symbol": "azero",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/17212/large/azero-logo_coingecko.png?1698147162"
+    },
+    {
+        "id": "kusama",
+        "name": "Kusama",
+        "symbol": "ksm",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/9568/large/m4zRhP5e_400x400.jpg?1696509648"
+    },
+    {
+        "id": "swissborg",
+        "name": "SwissBorg",
+        "symbol": "borg",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x64d0f55cd8c7133a9d7102b13987235f486f2224"
+            },
+            "energi": {
+                "decimal_place": 8,
+                "contract_address": "0x5666444647f4fd66decf411d69f994b8244ebee3"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/2117/large/YJUrRy7r_400x400.png?1696503083"
+    },
+    {
+        "id": "benqi-liquid-staked-avax",
+        "name": "BENQI Liquid Staked AVAX",
+        "symbol": "savax",
+        "detail_platforms": {
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0x2b2c81e08f1af8835a78bb2a90ae924ace0ea4be"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/23657/large/savax_blue.png?1696522860"
     }
 ]
