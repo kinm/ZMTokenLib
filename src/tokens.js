@@ -184,8 +184,8 @@ async function main() {
 
         // 当循环完成时保存代币索引
         if (i === marketTokensData.length - 1) {
-            await fs.writeJson(path.join(__dirname, '../data/PlatformsIndex.json'),
-                PLATFORMS_INDEX, { spaces: 4 }); 
+            console.log('Save platforms index:' + PLATFORMS_INDEX);
+            // await fs.writeJson(path.join(__dirname, '../data/PlatformsIndex.json'), PLATFORMS_INDEX, { spaces: 4 }); 
         }
     }
 }
