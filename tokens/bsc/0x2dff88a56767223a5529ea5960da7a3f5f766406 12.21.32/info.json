@@ -1,0 +1,11 @@
+{
+    "name": "SPACE ID",
+    "symbol": "id",
+    "contractAddress": "0x2dff88a56767223a5529ea5960da7a3f5f766406",
+    "decimals": 18,
+    "website": "https://space.id/",
+    "description": "SPACE ID is building a universal name service network with a one-stop identity platform to discover, register, trade, manage web3 domains. It also includes a Web3 Name SDK & API for developers across blockchains and provides a multi-chain name service for everyone to easily build and create a web3 identity.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/29468/large/sid_token_logo_%28green2%29.png?1696528413"
+}

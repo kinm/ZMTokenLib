@@ -1,4 +1,5 @@
 const axios = require('axios');
+const { log } = require('console');
 const fs = require('fs-extra');
 const path = require('path');
 
@@ -19,18 +20,38 @@ const PLATFORMS = [
     },
 ];
 
-// 各平台代币索引
-const PLATFORMS_INDEX = async function () {
-    return await fs.readJson(path.join(__dirname, '../data/PlatformsIndex.json'));
-}
-
 // 定义获取代币列表的参数
 const MarketPrams = {
     vs_currency: 'usd',
     order: 'market_cap_desc',
-    per_page: 100000,
+    per_page: 10,
     page: 1,
     sparkline: false
+}
+
+// 找出MarketTokens.json中没有detail_platforms和logo的代币
+async function findTokensWithoutDetails() {
+    const marketTokens = await readMarketTokens();
+    const tokensWithoutDetails = marketTokens.filter(token => !token.detail_platforms || !token.logo);
+    return tokensWithoutDetails
+}
+
+// 为tokensWithoutDetails中的代币添加detail_platforms和logo,并将结果写入MarketTokens.json
+async function addDetailsAndLogoToTokens(tokensWithoutDetails) {
+    if (tokensWithoutDetails.length === 0) {
+        return;
+    }
+    for (const token of tokensWithoutDetails) {
+        const tokenDetails = await fetchTokenDetails(token.id);
+        if (tokenDetails === null) {
+            // 当请求失败时，等待半分钟后重试
+            await sleep(30000);
+            continue;
+        }
+        token.detail_platforms = tokenDetails.platforms;
+        token.logo = tokenDetails.logo;
+    }
+    await fs.writeJson(path.join(__dirname, '../data/MarketTokens.json'), tokensWithoutDetails, { spaces: 4 });
 }
 
 // 等待指定时间
@@ -99,27 +120,6 @@ async function processTokenData(data) {
                 chain: platform.pm_chain,
                 logo: data.image.large
             });
-            // 检查代币平台在索引中是否存在
-            if (!PLATFORMS_INDEX[platform.pm_chain]) {
-                PLATFORMS_INDEX[platform.pm_chain] = [];
-            }
-            // 检查代币是否已经存在
-            const tokenIndex = PLATFORMS_INDEX[platform.pm_chain].findIndex(token => token.id === data.id);
-            if (tokenIndex !== -1) {
-                continue;
-            }else{
-                // 添加代币索引
-                PLATFORMS_INDEX[platform.pm_chain].push(
-                    {
-                        "id": data.id,
-                        "name": data.name,
-                        "symbol": data.symbol,
-                        "chain": platform.pm_chain,
-                        "contract": data.detail_platforms[platform.pm_name].contract_address,
-                        "logo": data.image.large,
-                    }
-                );
-            }
         }
     }
     // 返回处理后的结果
@@ -129,10 +129,15 @@ async function processTokenData(data) {
 // 获取新数据中代币的详细信息
 async function fetchTokenDetails(tokenId) {
     try {
+        await sleep(2000);
         const url = `https://api.coingecko.com/api/v3/coins/${tokenId}`;
         const response = await axios.get(url);
         const data = response.data;
-        return await processTokenData(data);
+        return {
+            processTokenData:await processTokenData(data),
+            platforms: data.detail_platforms,
+            logo: data.image.large
+        }
     } catch (error) {
         console.error(`Failed to fetch details for ${tokenId}:`, error);
         return null;
@@ -161,33 +166,36 @@ async function addNewToken(tokenDetails) {
 
 // 主函数
 async function main() {
+    // 获取没有detail_platforms和logo的代币
+    const tokensWithoutDetails = await findTokensWithoutDetails();
+    // 为tokensWithoutDetails中的代币添加detail_platforms和logo,并将结果写入MarketTokens.json
+    await addDetailsAndLogoToTokens(tokensWithoutDetails);
+    // 从MarketTokens.json中读取代币数据
     let startIndex = await fetchMarketTokens();
     let marketTokensData = await readMarketTokens();
     for (let i = startIndex; i < marketTokensData.length; i++) {
         const token = marketTokensData[i];
-        console.log(token);
         const tokenDetails = await fetchTokenDetails(token.id);
         if (tokenDetails === null ) {
-            // 当请求失败时，等待一分钟后重试
-            await sleep(60000);
+            // 当请求失败时，等待半分钟后重试
+            await sleep(30000);
             i--;
             continue;
         }
 
-        if(tokenDetails.length === 0){
+        marketTokensData[i].detail_platforms = tokenDetails.platforms;
+        marketTokensData[i].logo = tokenDetails.logo;
+
+        if(tokenDetails.processTokenData.length === 0){
             continue;
         }
 
-        for (const tokenDetail of tokenDetails) {
+        for (const tokenDetail of tokenDetails.processTokenData) {
             await addNewToken(tokenDetail);
         }
-
-        // 当循环完成时保存代币索引
-        if (i === marketTokensData.length - 1) {
-            console.log('Save platforms index:' + PLATFORMS_INDEX);
-            // await fs.writeJson(path.join(__dirname, '../data/PlatformsIndex.json'), PLATFORMS_INDEX, { spaces: 4 }); 
-        }
     }
+    // 保存最终的代币数据
+    await fs.writeJson(path.join(__dirname, '../data/MarketTokens.json'), marketTokensData, { spaces: 4 });
 }
 
 // 运行主函数
