@@ -1,5 +1,4 @@
 const axios = require('axios');
-const { log } = require('console');
 const fs = require('fs-extra');
 const path = require('path');
 
