@@ -45,7 +45,7 @@ async function addDetailsAndLogoToTokens(tokensWithoutDetails) {
         const tokenDetails = await fetchTokenDetails(token.id);
         if (tokenDetails === null) {
             // 当请求失败时，等待半分钟后重试
-            await sleep(30000);
+            await sleep(60000);
             continue;
         }
         token.detail_platforms = tokenDetails.platforms;
@@ -178,7 +178,7 @@ async function main() {
         const tokenDetails = await fetchTokenDetails(token.id);
         if (tokenDetails === null ) {
             // 当请求失败时，等待半分钟后重试
-            await sleep(30000);
+            await sleep(60000);
             i--;
             continue;
         }
