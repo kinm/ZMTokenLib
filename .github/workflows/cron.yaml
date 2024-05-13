@@ -18,6 +18,8 @@ jobs:
       run: npm install
     - name: Run tokens.js
       run: node src/tokens.js
+    - name: Pull latest changes from remote
+      run: git pull origin <branch-name>
     - name: Commit and push if changes
       run: |
         git config --global user.email "${{ secrets.MAIL }}"
