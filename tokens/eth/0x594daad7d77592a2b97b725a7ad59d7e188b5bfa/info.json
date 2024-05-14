@@ -1,0 +1,11 @@
+{
+    "name": "Apu Apustaja",
+    "symbol": "apu",
+    "contractAddress": "0x594daad7d77592a2b97b725a7ad59d7e188b5bfa",
+    "decimals": 18,
+    "website": "https://apu.club/",
+    "description": "Apu, also known as Peepo or Helper, is a pepe-variant that is used to represent a much younger, kinder and more naive anthropomorphic frog. Fed up with low-effort memecoins, more often than not led by deceptive developers, Apu decided to create his own fairly launched, fully transparent coin: $APU – the one and only coin for all frens.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/35986/large/200x200.png?1710308147"
+}

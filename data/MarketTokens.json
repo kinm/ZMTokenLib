@@ -4682,5 +4682,65 @@
             }
         },
         "logo": "https://assets.coingecko.com/coins/images/23657/large/savax_blue.png?1696522860"
+    },
+    {
+        "id": "apu-s-club",
+        "name": "Apu Apustaja",
+        "symbol": "apu",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x594daad7d77592a2b97b725a7ad59d7e188b5bfa"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/35986/large/200x200.png?1710308147"
+    },
+    {
+        "id": "ampleforth",
+        "name": "Ampleforth",
+        "symbol": "ampl",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 9,
+                "contract_address": "0xd46ba6d942050d489dbd938a2c909a5d5039a161"
+            },
+            "avalanche": {
+                "decimal_place": 9,
+                "contract_address": "0x027dbca046ca156de9622cd1e2d907d375e53aa7"
+            },
+            "near-protocol": {
+                "decimal_place": 18,
+                "contract_address": "77fba179c79de5b7653f68b5039af940ada60ce0.factory.bridge.near"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 9,
+                "contract_address": "0xf2f5bf00cd952f3f980a02f5dce278cbff4dae05"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 9,
+                "contract_address": "0xdb021b1b247fe2f1fa57e0a87c748cc1e321f07f"
+            },
+            "energi": {
+                "decimal_place": 9,
+                "contract_address": "0x79786ed8a70ccec6c7a31debc7fefc5119f9dc95"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/4708/large/Ampleforth.png?1696505273"
+    },
+    {
+        "id": "baby-doge-coin",
+        "name": "Baby Doge Coin",
+        "symbol": "babydoge",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 9,
+                "contract_address": "0xc748673057861a797275cd8a068abb95a902e8de"
+            },
+            "ethereum": {
+                "decimal_place": 9,
+                "contract_address": "0xac57de9c1a09fec648e93eb98875b212db0d460b"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/16125/large/babydoge.jpg?1696515731"
     }
 ]
