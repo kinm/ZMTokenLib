@@ -19,6 +19,15 @@ const PLATFORMS = [
     },
 ];
 
+// 定义请求选项
+const options = {
+    method: 'GET',
+    headers: {
+        'accept': 'application/json',
+        'x-cg-demo-api-key': process.env.coingeckoKey // 替换为你的实际 API 密钥
+    }
+};
+
 // 定义获取代币列表的参数
 const MarketPrams = {
     vs_currency: 'usd',
@@ -63,11 +72,12 @@ async function readMarketTokens() {
     return await fs.readJson(path.join(__dirname, '../data/MarketTokens.json'));
 }
 
+
 // 获取 CoinGecko 上的热门代币列表
 async function fetchMarketTokens() {
     try {
         const url = `https://api.coingecko.com/api/v3/coins/markets?${new URLSearchParams(MarketPrams)}`;
-        const response = await axios.get(url);
+        const response = await axios.get(url,options);
         // 与本地数据对比，只保留新数据
         const localTokens = await readMarketTokens();
         const resData = await processMarketData(response.data);
@@ -109,6 +119,7 @@ async function processTokenData(data) {
         if (data.detail_platforms[platform.pm_name]) {
             // 添加代币信息
             result.push({
+                id: data.id,
                 name: data.name,
                 symbol: data.symbol,
                 contractAddress: data.detail_platforms[platform.pm_name].contract_address,
@@ -130,7 +141,7 @@ async function fetchTokenDetails(tokenId) {
     try {
         await sleep(2000);
         const url = `https://api.coingecko.com/api/v3/coins/${tokenId}`;
-        const response = await axios.get(url);
+        const response = await axios.get(url,options);
         const data = response.data;
         return {
             processTokenData:await processTokenData(data),
