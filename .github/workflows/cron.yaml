@@ -2,12 +2,6 @@ name: Update Token Information
 
 on:
   workflow_dispatch:
-    inputs:
-      job_to_run:
-        description: 'Specify the job to run'
-        required: true
-        default: 'update_tokens'
-        type: string
   schedule:
     - cron: '0 0 * * *'  # 每天执行一次
 
@@ -32,26 +26,4 @@ jobs:
         git config --global user.name "kinm"
         git add -A
         git commit -m "Updated token information" -a || echo "No changes to commit"
-        git push
-
-  update_ids:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - name: Set up Node.js
-      uses: actions/setup-node@v2
-      with:
-        node-version: '20'
-    - name: Install dependencies
-      run: npm install
-    - name: Pull latest changes from remote
-      run: git pull origin main
-    - name: Run ids.js
-      run: node src/ids.js
-    - name: Commit and push if changes
-      run: |
-        git config --global user.email "${{ secrets.MAIL }}"
-        git config --global user.name "kinm"
-        git add -A
-        git commit -m "Updated id information" -a || echo "No changes to commit"
         git push
