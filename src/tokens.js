@@ -24,7 +24,7 @@ const options = {
     method: 'GET',
     headers: {
         'accept': 'application/json',
-        'x-cg-demo-api-key': process.env.coingeckoKey // 替换为你的实际 API 密钥
+        'x-cg-demo-api-key': process.env.COINGECKOKEY // 替换为你的实际 API 密钥
     }
 };
 
