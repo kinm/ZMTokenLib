@@ -7,5 +7,6 @@
     "description": "",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1696501854"
+    "logo": "https://assets.coingecko.com/coins/images/662/large/logo_square_simple_300px.png?1696501854",
+    "id": "gnosis"
 }

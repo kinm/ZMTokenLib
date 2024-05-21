@@ -7,5 +7,6 @@
     "description": "We propose Crypto.com Chain, the next generation decentralized mobile payment protocol, the most efficient and secure way to pay and be paid in crypto, anywhere, any crypto\r\nwithout fees. Crypto.com Chain will deliver on its vision by developing innovative technology components and processes (inc. scalable encryption algorithm to protect users’ privacy, utilizing trusted execution environments, sustainable price stability mechanisms, user protection via PoGSD) catered specifically to cryptocurrency payment, while leveraging proven blockchain technology structural design elements. ",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/7310/large/cro_token_logo.png?1696507599"
+    "logo": "https://assets.coingecko.com/coins/images/7310/large/cro_token_logo.png?1696507599",
+    "id": "crypto-com-chain"
 }

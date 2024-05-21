@@ -7,5 +7,6 @@
     "description": "The NEXO Token is a utility token traded on the open market that unlocks exclusive benefits on the Nexo platform.\r\n\r\nNEXO Token holders enjoy preferential interest rates on their crypto-backed loans, enhanced yields for the Earn Interest Product, and additional perks such as cashback on transactions and free crypto withdrawals.",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/3695/large/nexo.png?1696504370"
+    "logo": "https://assets.coingecko.com/coins/images/3695/large/nexo.png?1696504370",
+    "id": "nexo"
 }

@@ -7,5 +7,6 @@
     "description": "Ether.fi's eETH is a decentralized, non-custodial liquid staking token that enables Ethereum holders to earn staking rewards while maintaining full liquidity and control over their assets. eETH along with its wrapped non-rebasing version, weETH, integrates seamlessly with the Ethereum ecosystem, offering users a flexible and secure way to contribute to network validation and participate in the DeFi space. ",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/33033/large/weETH.png?1701438396"
+    "logo": "https://assets.coingecko.com/coins/images/33033/large/weETH.png?1701438396",
+    "id": "wrapped-eeth"
 }

@@ -7,5 +7,6 @@
     "description": "",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png?1709186989"
+    "logo": "https://assets.coingecko.com/coins/images/27008/large/cbeth.png?1709186989",
+    "id": "coinbase-wrapped-staked-eth"
 }

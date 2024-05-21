@@ -7,5 +7,6 @@
     "description": "MAGA Movement on the Blockchain.",
     "type": "BEP20",
     "chain": "BSC",
-    "logo": "https://assets.coingecko.com/coins/images/31498/large/Maga-Trump-Logo-200px.png?1696530309"
+    "logo": "https://assets.coingecko.com/coins/images/31498/large/Maga-Trump-Logo-200px.png?1696530309",
+    "id": "maga"
 }

@@ -7,5 +7,6 @@
     "description": "Rocket Pool is a next generation decentralised staking pool protocol for Ethereum.\r\n\r\nRocket Pool ETH (rETH) is the Rocket Pool protocol's liquid staking token. The rETH token represents an amount of ETH that is being staked and earning rewards within Ethereum Proof-of-Stake. As Rocket Pool node operators, stake Ethereum on Proof-of-Stake the resulting rewards increase the value of rETH  relative to ETH. Rocket Pool's liquid staking token allows holders to benefit from the returns of the Ethereum Proof-of-Stake.\r\n\r\nMore information on Rocket Pool and rETH can be found at https://rocketpool.net.",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/20764/large/reth.png?1696520159"
+    "logo": "https://assets.coingecko.com/coins/images/20764/large/reth.png?1696520159",
+    "id": "rocket-pool-eth"
 }

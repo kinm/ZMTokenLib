@@ -7,5 +7,6 @@
     "description": "Decentralized StableCoin USDD on TRON\r\nThe TRON DAO Reserve manages USDD and guarantees its price stability",
     "type": "BEP20",
     "chain": "BSC",
-    "logo": "https://assets.coingecko.com/coins/images/25380/large/UUSD.jpg?1696524513"
+    "logo": "https://assets.coingecko.com/coins/images/25380/large/UUSD.jpg?1696524513",
+    "id": "usdd"
 }

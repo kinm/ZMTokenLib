@@ -7,5 +7,6 @@
     "description": "Staked Frax Ether is the vault token that accrues all proof of stake rewards of ETH validators run by Frax Finance protocol. sfrxETH is ERC4626 compliant and a non-rebasing, interest bearing token.",
     "type": "BEP20",
     "chain": "BSC",
-    "logo": "https://assets.coingecko.com/coins/images/28285/large/sfrxETH_icon.png?1696527285"
+    "logo": "https://assets.coingecko.com/coins/images/28285/large/sfrxETH_icon.png?1696527285",
+    "id": "staked-frax-ether"
 }

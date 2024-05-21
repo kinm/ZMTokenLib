@@ -7,5 +7,6 @@
     "description": "Blur is an NFT marketplace that  lets nft buyers and sellers to utilise a suite features to facilitate more open and liquid NFT marketplace.",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/28453/large/blur.png?1696527448"
+    "logo": "https://assets.coingecko.com/coins/images/28453/large/blur.png?1696527448",
+    "id": "blur"
 }

@@ -7,5 +7,6 @@
     "description": "PancakeSwap is an automated market maker (“AMM”) that allows two tokens to be exchanged on the Binance Smart Chain. It is fast, cheap, and allows anyone to participate.",
     "type": "BEP20",
     "chain": "BSC",
-    "logo": "https://assets.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440"
+    "logo": "https://assets.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo_%281%29.png?1696512440",
+    "id": "pancakeswap-token"
 }

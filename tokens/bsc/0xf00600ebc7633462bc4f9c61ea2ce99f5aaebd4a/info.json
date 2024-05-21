@@ -7,5 +7,6 @@
     "description": "",
     "type": "BEP20",
     "chain": "BSC",
-    "logo": "https://assets.coingecko.com/coins/images/13162/large/rose.png?1696512946"
+    "logo": "https://assets.coingecko.com/coins/images/13162/large/rose.png?1696512946",
+    "id": "oasis-network"
 }

@@ -7,5 +7,6 @@
     "description": "",
     "type": "BEP20",
     "chain": "BSC",
-    "logo": "https://assets.coingecko.com/coins/images/12882/large/Secondary_Symbol.png?1696512670"
+    "logo": "https://assets.coingecko.com/coins/images/12882/large/Secondary_Symbol.png?1696512670",
+    "id": "injective-protocol"
 }

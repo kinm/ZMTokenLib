@@ -7,5 +7,6 @@
     "description": "",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/10823/large/cwbtc.png?1696510780"
+    "logo": "https://assets.coingecko.com/coins/images/10823/large/cwbtc.png?1696510780",
+    "id": "compound-wrapped-btc"
 }

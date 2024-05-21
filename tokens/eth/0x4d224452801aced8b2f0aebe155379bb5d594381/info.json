@@ -7,5 +7,6 @@
     "description": "ApeCoin is an ERC-20 governance and utility token used within the APE ecosystem to empower a decentralized community building at the forefront of web3.\r\n\r\nAs the open-source protocol layer of the ecosystem, ApeCoin serves several purposes:\r\n\r\nGovernance - ApeCoin is the ecosystem’s governance token, allowing ApeCoin holders to participate in ApeCoin DAO.\r\nUnification of Spend - ApeCoin is the ecosystem’s utility token, giving all its participants a shared and open currency that can be used without centralized intermediaries.\r\nAccess - ApeCoin provides access to certain parts of the ecosystem that are otherwise unavailable, such as exclusive games, merch, events, and services.\r\nIncentivization - ApeCoin is a tool for third-party developers to participate in the ecosystem by incorporating APE into services, games, and other projects.\r\n",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/24383/large/apecoin.jpg?1696523566"
+    "logo": "https://assets.coingecko.com/coins/images/24383/large/apecoin.jpg?1696523566",
+    "id": "apecoin"
 }

@@ -7,5 +7,6 @@
     "description": "MakerDAO has launched Multi-collateral DAI (MCD). This token refers to the new DAI that is collaterized by multiple assets.\r\n",
     "type": "BEP20",
     "chain": "BSC",
-    "logo": "https://assets.coingecko.com/coins/images/9956/large/Badge_Dai.png?1696509996"
+    "logo": "https://assets.coingecko.com/coins/images/9956/large/Badge_Dai.png?1696509996",
+    "id": "dai"
 }

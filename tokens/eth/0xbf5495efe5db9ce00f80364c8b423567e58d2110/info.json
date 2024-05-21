@@ -7,5 +7,6 @@
     "description": "EigenLayer Liquid Restaking Hub",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/34753/large/Ezeth_logo_circle.png?1713496404"
+    "logo": "https://assets.coingecko.com/coins/images/34753/large/Ezeth_logo_circle.png?1713496404",
+    "id": "renzo-restaked-eth"
 }

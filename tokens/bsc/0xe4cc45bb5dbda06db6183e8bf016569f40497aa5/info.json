@@ -7,5 +7,6 @@
     "description": "Galxe is the leading web3 infrastructure and digital identity network, empowering seamless web3 experiences through modular AI, digital identity, and blockchain technologies.",
     "type": "BEP20",
     "chain": "BSC",
-    "logo": "https://assets.coingecko.com/coins/images/24530/large/galaxy.jpg?1696523708"
+    "logo": "https://assets.coingecko.com/coins/images/24530/large/galaxy.jpg?1696523708",
+    "id": "project-galaxy"
 }

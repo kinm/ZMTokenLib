@@ -7,5 +7,6 @@
     "description": "Wormhole is a cross-chain messaging protocol that enables secure transfers of data or tokens across different blockchain networks. It supports a variety of applications, including DeFi, NFTs, and governance, by allowing data to be moved between blockchains efficiently and securely. Wormhole employs multiple verification methods to ensure the integrity and validity of the data transmitted through its network. ",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/35087/large/womrhole_logo_full_color_rgb_2000px_72ppi_fb766ac85a.png?1708688954"
+    "logo": "https://assets.coingecko.com/coins/images/35087/large/womrhole_logo_full_color_rgb_2000px_72ppi_fb766ac85a.png?1708688954",
+    "id": "wormhole"
 }

@@ -7,5 +7,6 @@
     "description": "",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/36530/large/ethena.png?1711701436"
+    "logo": "https://assets.coingecko.com/coins/images/36530/large/ethena.png?1711701436",
+    "id": "ethena"
 }

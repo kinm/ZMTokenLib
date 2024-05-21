@@ -7,5 +7,6 @@
     "description": "",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562"
+    "logo": "https://assets.coingecko.com/coins/images/35958/large/etherfi.jpeg?1710254562",
+    "id": "ether-fi"
 }

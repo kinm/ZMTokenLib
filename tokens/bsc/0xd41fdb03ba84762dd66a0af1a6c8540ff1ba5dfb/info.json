@@ -7,5 +7,6 @@
     "description": "SafePal is a cryptocurrency wallet that aims to provide a secure and user-friendly crypto management platform for the masses. SafePal provides hardware wallet and software wallet product lines, all paired and managed through the SafePal App, where users can easily store, manage, swap, trade, and grow their crypto wealth.",
     "type": "BEP20",
     "chain": "BSC",
-    "logo": "https://assets.coingecko.com/coins/images/13905/large/sfp.png?1696513647"
+    "logo": "https://assets.coingecko.com/coins/images/13905/large/sfp.png?1696513647",
+    "id": "safepal"
 }

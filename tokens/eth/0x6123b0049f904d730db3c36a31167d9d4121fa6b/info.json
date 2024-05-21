@@ -7,5 +7,6 @@
     "description": "Ribbon Finance is a new protocol that helps users access crypto structured products for DeFi. It combines options, futures, and fixed income to improve a portfolio's risk-return profile.",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/15823/large/ribbon.png?1709186956"
+    "logo": "https://assets.coingecko.com/coins/images/15823/large/ribbon.png?1709186956",
+    "id": "ribbon-finance"
 }

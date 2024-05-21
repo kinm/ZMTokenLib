@@ -7,5 +7,6 @@
     "description": "",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/8418/large/leo-token.png?1696508607"
+    "logo": "https://assets.coingecko.com/coins/images/8418/large/leo-token.png?1696508607",
+    "id": "leo-token"
 }

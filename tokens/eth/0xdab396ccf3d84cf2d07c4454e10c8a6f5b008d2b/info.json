@@ -7,5 +7,6 @@
     "description": "Goldfinch is a DeFi protocol that brings crypto loans to the real world. ",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/19081/large/GOLDFINCH.png?1696518531"
+    "logo": "https://assets.coingecko.com/coins/images/19081/large/GOLDFINCH.png?1696518531",
+    "id": "goldfinch"
 }

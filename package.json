@@ -4,7 +4,8 @@
   "description": "",
   "main": "tokens.js",
   "scripts": {
-    "test": "node src/tokens.js"
+    "test": "node src/tokens.js",
+    "ids" : "node src/ids.js"
   },
   "author": "",
   "license": "ISC",

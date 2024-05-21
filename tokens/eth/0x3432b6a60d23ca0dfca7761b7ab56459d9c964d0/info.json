@@ -7,5 +7,6 @@
     "description": "The Frax Share token is the governance and value accrual token of the Frax Stablecoin Protocol",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/13423/large/Frax_Shares_icon.png?1696513183"
+    "logo": "https://assets.coingecko.com/coins/images/13423/large/Frax_Shares_icon.png?1696513183",
+    "id": "frax-share"
 }

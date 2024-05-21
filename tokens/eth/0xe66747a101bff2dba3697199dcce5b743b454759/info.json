@@ -7,5 +7,6 @@
     "description": "",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/8183/large/gate.png?1696508395"
+    "logo": "https://assets.coingecko.com/coins/images/8183/large/gate.png?1696508395",
+    "id": "gatechain-token"
 }

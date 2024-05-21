@@ -7,5 +7,6 @@
     "description": "AIOZ Network is a DePIN for Web3 AI, Storage and Streaming.\r\n\r\nAIOZ empowers a faster, secure and decentralized future. \r\n\r\nPowered by a global network of DePINs,  AIOZ rewards you for sharing your computational resources for storing, transcoding, and streaming digital media content and powering decentralized AI computation.",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/14631/large/aioz-logo-200.png?1696514309"
+    "logo": "https://assets.coingecko.com/coins/images/14631/large/aioz-logo-200.png?1696514309",
+    "id": "aioz-network"
 }

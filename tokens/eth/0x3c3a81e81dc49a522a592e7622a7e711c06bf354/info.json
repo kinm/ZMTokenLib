@@ -7,5 +7,6 @@
     "description": "",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/30980/large/token-logo.png?1696529819"
+    "logo": "https://assets.coingecko.com/coins/images/30980/large/token-logo.png?1696529819",
+    "id": "mantle"
 }

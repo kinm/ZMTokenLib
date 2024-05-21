@@ -7,5 +7,6 @@
     "description": "Render Network Foundation The Render Network® is the leading provider of decentralized GPU based rendering solutions, revolutionizing the digital creation process. The network connects node operators looking to monetize their idle GPU compute power with artists looking to scale intensive 3D rendering work and applications to the cloud. Through a decentralized peer-to-peer network, the Render Network achieves unprecedented levels of scale, speed, and economic efficiency. On top of a decentralized GPU computing network, Render provides a platform for artists and developers to build services and applications for the emerging digital economy, including next generation digital rights management (DRM), artificial intelligence (AI), and virtual assets (NFTs).\t",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/11636/large/rndr.png?1696511529"
+    "logo": "https://assets.coingecko.com/coins/images/11636/large/rndr.png?1696511529",
+    "id": "render-token"
 }

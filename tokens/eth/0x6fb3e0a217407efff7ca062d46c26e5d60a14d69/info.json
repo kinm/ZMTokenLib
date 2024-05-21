@@ -7,5 +7,6 @@
     "description": "IoTeX is the auto-scalable and privacy-centric blockchain infrastructure for the Internet of Things (IoT). IoTeX’s global team is comprised of Ph.Ds in Cryptography, Distributed Systems, and Machine Learning, top tier engineers, and experienced ecosystem builders. IoTeX is developing several in-house innovations to push the frontier of blockchain 3.0, including a blockchains-in-blockchain architecture for heterogeneous computing, lightning fast Roll-DPoS consensus mechanism, and lightweight privacy-preserving techniques. IoTeX is bringing autonomous device coordination to the masses by “connecting the physical world, block by block.”\r\n\r\nCheck out <a href=\"https://www.coinbureau.com/review/iotex-iotx/\">CoinBureau</a> for the complete review of IoTeX.",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/3334/large/iotex-logo.png?1696504041"
+    "logo": "https://assets.coingecko.com/coins/images/3334/large/iotex-logo.png?1696504041",
+    "id": "iotex"
 }

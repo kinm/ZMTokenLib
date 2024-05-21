@@ -7,5 +7,6 @@
     "description": "IMX is the native token for the Immutable X network, the first zk-rollup for NFT on Ethereum.",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/17233/large/immutableX-symbol-BLK-RGB.png?1696516787"
+    "logo": "https://assets.coingecko.com/coins/images/17233/large/immutableX-symbol-BLK-RGB.png?1696516787",
+    "id": "immutable-x"
 }

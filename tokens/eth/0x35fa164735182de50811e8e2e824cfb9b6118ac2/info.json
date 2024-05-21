@@ -7,5 +7,6 @@
     "description": "Ether.fi's eETH is a decentralized, non-custodial liquid staking token that enables Ethereum holders to earn staking rewards while maintaining full liquidity and control over their assets. eETH integrates seamlessly with the Ethereum ecosystem, offering users a flexible and secure way to contribute to network validation and participate in the DeFi space",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/33049/large/ether.fi_eETH.png?1700473063"
+    "logo": "https://assets.coingecko.com/coins/images/33049/large/ether.fi_eETH.png?1700473063",
+    "id": "ether-fi-staked-eth"
 }

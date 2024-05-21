@@ -7,5 +7,6 @@
     "description": "",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/878/large/decentraland-mana.png?1696502010"
+    "logo": "https://assets.coingecko.com/coins/images/878/large/decentraland-mana.png?1696502010",
+    "id": "decentraland"
 }

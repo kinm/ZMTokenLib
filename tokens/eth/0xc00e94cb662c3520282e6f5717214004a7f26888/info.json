@@ -7,5 +7,6 @@
     "description": "The Compound Governance Token is a governance token on the Compound Finance lending protocol, COMP allows the owner to delegate voting rights to the address of their choice; the owner’s wallet, another user, an application, or a DeFi expert. Anybody can participate in Compound governance by receiving delegation, without needing to own COMP.\r\n\r\nAnybody with 1% of COMP delegated to their address can propose a governance action; these are simple or complex sets of actions, such as adding support for a new asset, changing an asset’s collateral factor, changing a market’s interest rate model, or changing any other parameter or variable of the protocol that the current administrator can modify.",
     "type": "ERC20",
     "chain": "ETH",
-    "logo": "https://assets.coingecko.com/coins/images/10775/large/COMP.png?1696510737"
+    "logo": "https://assets.coingecko.com/coins/images/10775/large/COMP.png?1696510737",
+    "id": "compound-governance-token"
 }
