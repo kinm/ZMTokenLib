@@ -8,11 +8,11 @@ const tokenDirs = await fs.readdir(tokensDir);
 const tokens = await fs.readJson(path.join(__dirname, '../data/MarketTokens.json'));
 
 for (const tokenDir of tokenDirs) {
-    const tokenInfoPath = path.join(tokensDir, tokenDir, 'info.json');
-    const tokenInfo = await fs.readJson(tokenInfoPath);
+    let tokenInfoPath = path.join(tokensDir, tokenDir, 'info.json');
+    let tokenInfo = await fs.readJson(tokenInfoPath);
     if (!tokenInfo.id) {
         // 从MarketTokens.json中查找ID
-        const token = tokens.find(token => token.symbol === tokenInfo.symbol);
+        let token = tokens.find(token => token.symbol === tokenInfo.symbol);
         if (token) {
             tokenInfo.id = token.id;
             await fs.writeJson(tokenInfoPath, tokenInfo, { spaces: 4 });
