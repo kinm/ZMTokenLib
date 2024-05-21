@@ -32,7 +32,7 @@ const options = {
 const MarketPrams = {
     vs_currency: 'usd',
     order: 'market_cap_desc',
-    per_page: 100000,
+    per_page: 1000,
     page: 1,
     sparkline: false
 }
@@ -176,7 +176,7 @@ async function addNewToken(tokenDetails) {
 
 // 主函数
 async function main() {
-    // 获取没有detail_platforms和logo的代币
+    // 获取没有detail_platforms和logo的代币 (由于coins/markets没有提供detail_platforms和logo,所以需要获取并缓存这些数据)
     const tokensWithoutDetails = await findTokensWithoutDetails();
     // 为tokensWithoutDetails中的代币添加detail_platforms和logo,并将结果写入MarketTokens.json
     await addDetailsAndLogoToTokens(tokensWithoutDetails);

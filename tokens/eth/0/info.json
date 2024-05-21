@@ -1,4 +1,5 @@
 {
+    "id": "ethereum",
     "name": "ETH",
     "symbol": "eth",
     "contractAddress": "N/A",
