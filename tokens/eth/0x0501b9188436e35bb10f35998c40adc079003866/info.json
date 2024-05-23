@@ -1,0 +1,12 @@
+{
+    "id": "ai-analysis-token",
+    "name": "AI Analysis Token",
+    "symbol": "aiat",
+    "contractAddress": "0x0501b9188436e35bb10f35998c40adc079003866",
+    "decimals": 18,
+    "website": "https://aianalysis.group/token/",
+    "description": "Launched in 2023, AI Analysis was formed by a diverse team from around the world to create a Holistic ecosystem centred around the world of trading and the integration of cutting-edge artificial intelligence technology.\r\n\r\nThe origins of the project are rooted in the trading of financial instruments including the FOREX & Cryptocurrency markets. The concept of AI Analysis was created to provide a suite of services to synergistically enhance traders' capabilities across an array of markets with applications at both retail and institutional levels.\r\n\r\nThese services include the AI Signals service, which analyses financial instruments using a well-established and proven strategy to identify trading opportunities. The AI Analysis Exchange serves as the optimal platform for executing trades, offering low latency, deep liquidity, and tight spreads. The AI Analysis Mastercard provides user-friendly payment solutions, accepted worldwide, including at ATMs, ensuring seamless global transactions for a digital world.\r\n\r\nThese services are supported and underpinned by the AI Analysis Token (AIAT) providing critical utility across the ecosystem.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33672/large/aia-logo-icon200.png?1702702028"
+}

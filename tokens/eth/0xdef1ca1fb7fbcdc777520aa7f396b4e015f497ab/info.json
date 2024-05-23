@@ -1,0 +1,12 @@
+{
+    "id": "cow-protocol",
+    "name": "CoW Protocol",
+    "symbol": "cow",
+    "contractAddress": "0xdef1ca1fb7fbcdc777520aa7f396b4e015f497ab",
+    "decimals": 18,
+    "website": "https://cow.fi",
+    "description": "COW token allows its holders the right to govern and curate the infrastructure of the CoW Protocol ecosystem through the CowDAO. Additionally, COW token holders receive fee discounts when trading on CowSwap & some other perks.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/24384/large/cow.png?1696523567"
+}

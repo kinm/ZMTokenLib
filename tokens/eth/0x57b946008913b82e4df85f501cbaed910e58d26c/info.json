@@ -1,0 +1,12 @@
+{
+    "id": "marlin",
+    "name": "Marlin",
+    "symbol": "pond",
+    "contractAddress": "0x57b946008913b82e4df85f501cbaed910e58d26c",
+    "decimals": 18,
+    "website": "https://www.marlin.org/",
+    "description": "High-performance network infrastructure for modern decentralized networks\r\n\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/8903/large/200x200.png?1706115827"
+}

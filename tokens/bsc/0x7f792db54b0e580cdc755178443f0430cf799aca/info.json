@@ -1,0 +1,12 @@
+{
+    "id": "volt-inu-2",
+    "name": "Volt Inu",
+    "symbol": "volt",
+    "contractAddress": "0x7f792db54b0e580cdc755178443f0430cf799aca",
+    "decimals": 9,
+    "website": "https://voltinu.in/",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/25201/large/logo200.png?1696524344"
+}

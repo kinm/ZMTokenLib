@@ -1,0 +1,12 @@
+{
+    "id": "magic",
+    "name": "Magic",
+    "symbol": "magic",
+    "contractAddress": "0xb0c7a3ba49c7a6eaba6cd4a96c55a1391070ac9a",
+    "decimals": 18,
+    "website": "https://treasure.lol/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/18623/large/magic.png?1696518095"
+}

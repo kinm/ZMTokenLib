@@ -1,0 +1,12 @@
+{
+    "id": "forta",
+    "name": "Forta",
+    "symbol": "fort",
+    "contractAddress": "0x41545f8b9472d758bb669ed8eaeeecd7a9c4ec29",
+    "decimals": 18,
+    "website": "https://forta.org/",
+    "description": "The FORT token is an ERC-20 token running on the Ethereum network.\r\n\r\nThe use cases of the token are:\r\n\r\n1) Node Runner Staking. Node runners must deposit FORT Tokens to provide economic security for the work they are performing, since the staked FORT can be slashed if a node fails to execute their assigned work or performs their work maliciously. Once FORT is staked, it may only be withdrawn subject to a thawing period, which provides ample opportunity for verification and dispute resolution. Active node operators may earn rewards in FORT from the Network if they maintain the minimum stake and emit alerts and execute their assigned work correctly.\r\n\r\n2) Delegated staking: FORT holders have the possibility to delegate to scan node pools. This action improves the security of the network and enables delegators to participate in the rewards distribution. \r\n\r\n3) Minimum Bot Stake Requirement. The purpose is to protect the network from spam and malicious bots. Therefore there is a minimum stake required (100 FORT) for any detection bot to execute on the Forta network.\r\n\r\n4) Governance. While Forta is continuing to develop, including further evolution of community governance, it is crucial to maintain stability for Forta users that are relying on the Network’s real-time monitoring. For that reason, Forta intends to decentralize governance over the Network progressively, beginning with a period of Council governance, where FORT holders are able to participate and vote to express their opinion and shape the evolution of Forta via Snapshot Voting.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/25060/large/Forta_lgo_%281%29.png?1696524210"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "pandora",
+    "name": "Pandora",
+    "symbol": "pandora",
+    "contractAddress": "0x9e9fbde7c7a83c43913bddc8779158f1368f0413",
+    "decimals": 18,
+    "website": "https://www.pandora.build/",
+    "description": "Pandora is the first ERC404, an experimental mixed ERC20 / ERC721 implementation with native liquidity and fractionalization for non-fungible tokens.\r\n\r\nFor each token held, addresses receive one replicant from the corresponding NFT collection. This innovation enables persistent liquidity and semi-fungibility for all assets within the collection.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/34996/large/PandoraToken.png?1706954340"
+}

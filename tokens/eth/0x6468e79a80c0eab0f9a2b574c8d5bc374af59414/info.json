@@ -1,0 +1,12 @@
+{
+    "id": "e-radix",
+    "name": "e-Radix",
+    "symbol": "exrd",
+    "contractAddress": "0x6468e79a80c0eab0f9a2b574c8d5bc374af59414",
+    "decimals": 18,
+    "website": "https://www.radixdlt.com/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13145/large/exrd_logo.png?1696512931"
+}

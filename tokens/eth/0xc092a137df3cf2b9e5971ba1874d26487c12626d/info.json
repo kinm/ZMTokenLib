@@ -1,0 +1,12 @@
+{
+    "id": "ring-ai",
+    "name": "Ring AI",
+    "symbol": "ring",
+    "contractAddress": "0xc092a137df3cf2b9e5971ba1874d26487c12626d",
+    "decimals": 18,
+    "website": "https://www.tryring.ai/",
+    "description": "Ring AI is an advanced AI platform that revolutionizes customer support and sales through fully autonomous, phone-based agents.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/35995/large/Logo_PP_200x200_circle.png?1710315842"
+}

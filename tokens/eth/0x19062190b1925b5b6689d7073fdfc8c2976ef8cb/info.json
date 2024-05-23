@@ -1,0 +1,12 @@
+{
+    "id": "swarm-bzz",
+    "name": "Swarm",
+    "symbol": "bzz",
+    "contractAddress": "0x19062190b1925b5b6689d7073fdfc8c2976ef8cb",
+    "decimals": 16,
+    "website": "https://ethswarm.org/",
+    "description": "Swarm is a system of peer-to-peer networked nodes that create a decentralised storage and communication service. The system is economically self-sustaining due to a built-in incentive system enforced through smart contracts on the Ethereum blockchain and powered by the BZZ token.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/16509/large/Circle_Orange_onWhite.png?1696516071"
+}

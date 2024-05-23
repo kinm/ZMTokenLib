@@ -1,0 +1,12 @@
+{
+    "id": "frontier-token",
+    "name": "Frontier",
+    "symbol": "front",
+    "contractAddress": "0xf8c3527cc04340b208c854e985240c02f7b7793f",
+    "decimals": 18,
+    "website": "https://frontier.xyz",
+    "description": "Frontier is a chain-agnostic DeFi aggregation layer. With our applications, users can participate in protocol tracking and management, staking, liquidity provision, CDP creation & monitoring, and more.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12479/large/frontier_logo.png?1696512296"
+}

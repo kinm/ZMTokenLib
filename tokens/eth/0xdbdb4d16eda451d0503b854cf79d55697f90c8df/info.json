@@ -1,0 +1,12 @@
+{
+    "id": "alchemix",
+    "name": "Alchemix",
+    "symbol": "alcx",
+    "contractAddress": "0xdbdb4d16eda451d0503b854cf79d55697f90c8df",
+    "decimals": 18,
+    "website": "https://alchemix.fi/",
+    "description": "Alchemix token is the governance token for the Alchemix protocol. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14113/large/Alchemix.png?1696513834"
+}

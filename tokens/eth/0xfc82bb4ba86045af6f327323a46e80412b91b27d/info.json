@@ -1,0 +1,12 @@
+{
+    "id": "prometeus",
+    "name": "Prom",
+    "symbol": "prom",
+    "contractAddress": "0xfc82bb4ba86045af6f327323a46e80412b91b27d",
+    "decimals": 18,
+    "website": "https://prom.io/",
+    "description": "Prom is a modular ZkEVM Layer 2 that enables interoperability across various chains, including both EVM and non-EVM compatible networks. Prom submits its proof of transaction to the additional chains on top of the chosen Settlement chain, building the bridge between ecosystems.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/8825/large/Ticker.png?1696508978"
+}

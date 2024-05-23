@@ -1,0 +1,12 @@
+{
+    "id": "sidus",
+    "name": "Sidus",
+    "symbol": "sidus",
+    "contractAddress": "0x549020a9cb845220d66d3e9c6d9f9ef61c981102",
+    "decimals": 18,
+    "website": "https://sidusheroes.com/",
+    "description": "Next-generation browser gaming metaverse. Play to earn, rule the Sidus Station with your Guild, Fight for Victory with others",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/21401/large/SIDUS_coin_logo.png?1696520765"
+}

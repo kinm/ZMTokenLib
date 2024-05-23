@@ -1,0 +1,12 @@
+{
+    "id": "gods-unchained",
+    "name": "Gods Unchained",
+    "symbol": "gods",
+    "contractAddress": "0xccc8cb5229b0ac8069c51fd58367fd1e622afd97",
+    "decimals": 18,
+    "website": "https://godsunchained.com",
+    "description": "GODS token is the currency used in the blockchain-based online trading card game, Gods Unchained. The token will act as a governance so players will be able to decide the development direction of the game. Players can also use the token to mint rare cards. Most importantly, the GODS token will be an integral part of the play to earn concept of the game.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/17139/large/10631.png?1696516698"
+}

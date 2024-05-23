@@ -1,0 +1,12 @@
+{
+    "id": "tribe-2",
+    "name": "Tribe",
+    "symbol": "tribe",
+    "contractAddress": "0xc7283b66eb1eb5fb86327f08e1b5816b0720212b",
+    "decimals": 18,
+    "website": "https://fei.money/",
+    "description": "TRIBE is the governance token which will allow community members to vote on the future direction / upgrades for the platform and control the DAO treasury.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14575/large/tribe.PNG?1696514256"
+}

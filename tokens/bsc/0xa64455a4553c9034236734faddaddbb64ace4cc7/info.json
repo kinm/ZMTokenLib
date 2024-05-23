@@ -1,0 +1,12 @@
+{
+    "id": "santos-fc-fan-token",
+    "name": "Santos FC Fan Token",
+    "symbol": "santos",
+    "contractAddress": "0xa64455a4553c9034236734faddaddbb64ace4cc7",
+    "decimals": 8,
+    "website": "https://www.santosfc.com.br/en/",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/21132/large/santos.png?1696520511"
+}

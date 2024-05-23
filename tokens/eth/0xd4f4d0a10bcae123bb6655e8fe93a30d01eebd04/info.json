@@ -1,0 +1,12 @@
+{
+    "id": "linqai",
+    "name": "LinqAI",
+    "symbol": "lnq",
+    "contractAddress": "0xd4f4d0a10bcae123bb6655e8fe93a30d01eebd04",
+    "decimals": 18,
+    "website": "https://www.linqai.com",
+    "description": "We automate all business worklflows from end-to-end with AI tools",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/35645/large/cmc-cg-linq-logo_%282%29.png?1709368877"
+}

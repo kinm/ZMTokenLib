@@ -1,0 +1,12 @@
+{
+    "id": "cobak-token",
+    "name": "Cobak",
+    "symbol": "cbk",
+    "contractAddress": "0xd85a6ae55a7f33b0ee113c234d2ee308edeaf7fd",
+    "decimals": 18,
+    "website": "https://cobak.co.kr/",
+    "description": "CBK is a ERC20-based utility token used on Cobak. Cobak is the largest app-based crypto platform with a DAU of 60,000, and cumulative app-download of 300,000. CBK token will serve (1) as an internal payment token used for payment for services, (2) as means to unlock non-monetary membership benefits on Cobak, (3) as a reward token for participating in and performing activities beneficial to the platform and community.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13459/large/cbk-128-128.png?1696513222"
+}

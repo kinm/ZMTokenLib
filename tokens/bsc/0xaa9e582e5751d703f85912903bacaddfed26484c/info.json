@@ -1,0 +1,12 @@
+{
+    "id": "hackenai",
+    "name": "Hacken",
+    "symbol": "hai",
+    "contractAddress": "0xaa9e582e5751d703f85912903bacaddfed26484c",
+    "decimals": 8,
+    "website": "https://hacken.ai",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/11081/large/hacken-symbol-with-bg.png?1696511022"
+}

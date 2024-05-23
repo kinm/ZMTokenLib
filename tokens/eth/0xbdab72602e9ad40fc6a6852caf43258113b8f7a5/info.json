@@ -1,0 +1,12 @@
+{
+    "id": "sovryn",
+    "name": "Sovryn",
+    "symbol": "sov",
+    "contractAddress": "0xbdab72602e9ad40fc6a6852caf43258113b8f7a5",
+    "decimals": 18,
+    "website": "https://Sovryn.com",
+    "description": "$SOV is the governance token of the Sovryn Protocol, home of the largest defi ecosystem on top of Bitcoin",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/16248/large/sovryn_logo_orange.png?1709174299"
+}

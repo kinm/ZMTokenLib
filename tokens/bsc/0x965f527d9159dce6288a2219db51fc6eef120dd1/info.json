@@ -1,0 +1,12 @@
+{
+    "id": "biswap",
+    "name": "Biswap",
+    "symbol": "bsw",
+    "contractAddress": "0x965f527d9159dce6288a2219db51fc6eef120dd1",
+    "decimals": 18,
+    "website": "https://biswap.org/",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/16845/large/biswap.png?1696516413"
+}

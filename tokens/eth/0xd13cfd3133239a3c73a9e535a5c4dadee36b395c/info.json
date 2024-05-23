@@ -1,0 +1,12 @@
+{
+    "id": "vaiot",
+    "name": "Vaiot",
+    "symbol": "vai",
+    "contractAddress": "0xd13cfd3133239a3c73a9e535a5c4dadee36b395c",
+    "decimals": 18,
+    "website": "https://vaiot.ai",
+    "description": "VAIOT offers a portfolio of blockchain-based AI Assistants for businesses and consumers to provide automated services and transactions. Easier, cheaper and faster.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13981/large/VAIOT_logo.png?1696513714"
+}

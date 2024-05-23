@@ -1,0 +1,12 @@
+{
+    "id": "verasity",
+    "name": "Verasity",
+    "symbol": "vra",
+    "contractAddress": "0xf411903cbc70a74d22900a5de66a2dda66507255",
+    "decimals": 18,
+    "website": "https://verasity.io/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14025/large/VRA.jpg?1696513752"
+}

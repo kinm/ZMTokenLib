@@ -1,0 +1,12 @@
+{
+    "id": "creditcoin-2",
+    "name": "Creditcoin",
+    "symbol": "ctc",
+    "contractAddress": "0xa3ee21c306a700e682abcdfe9baa6a08f3820419",
+    "decimals": 18,
+    "website": "https://creditcoin.org/",
+    "description": "Creditcoin is a foundational L1 blockchain designed to match and record credit transactions, and by extension, the credit history of transacting partners. By design, Creditcoin is intended to facilitate an inter-blockchain lending market with loan cycle history recorded on Creditcoin, but with loan payments and repayments occurring on other blockchains; with Bitcoin and Ethereum being the currently supported networks, and support for other blockchains in the pipeline. \r\nBy recording the on-chain credit history of transacting partners, Creditcoin creates an objective public ledger of credit history and loan performance, enabling parties to easily verify and trust the credit history and creditworthiness of potential lenders/borrowers, etc. \r\nIn the case of lending institutions or other partners in the developing world, building an objective record of on-chain credit history and loan book performance will increase trust and enable a more efficient and transparent allocation of capital into global developing credit markets, with the ultimate goal of democratizing global credit market access for retail investors.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/10569/large/ctc.png?1696510552"
+}

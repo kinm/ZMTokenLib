@@ -1,0 +1,12 @@
+{
+    "id": "metahero",
+    "name": "Metahero",
+    "symbol": "hero",
+    "contractAddress": "0xd40bedb44c081d2935eeba6ef5a3c8a31a1bbe13",
+    "decimals": 18,
+    "website": "https://metahero.io/",
+    "description": "Have you ever wanted to ready-player one yourself? Metahero is creating a global network of top end photogrammetry scanners to allow you to do just that. Visit one of our locations, get scanned and receive an ultra-HD avatar of yourself and take a step into the digital world.\r\n\r\nMetahero brings to the market 3D scanning and modeling technology that generates ultra-realistic 3D avatars and virtual items to be used across games, VR, social media, and online fashion. The tech also allows users to own the rights to their data and even the potential to monetize it.\r\n\r\nBacked by leading 3D experts Wolf Group Their cutting-edge technology was extensively tested and used by big industry names; Having been used multiple times by CD Projekt to create characters for their smash hit game: CyberPunk 2077.\r\n\r\nWe're merging this powerful tech with a marketplace to offer users, gamers, studios, entrepreneurs and all, direct access to virtual opportunities of the future.\r\n\r\nWolf Studios’ history and next-generation technology coupled with and expert dedicated management team, position Metahero as one to watch in the Gaming/E-commerce and Metaverse sector.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/16911/large/AVATAR2.png?1696516482"
+}

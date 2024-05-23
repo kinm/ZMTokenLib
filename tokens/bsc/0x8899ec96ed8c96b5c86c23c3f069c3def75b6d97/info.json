@@ -1,0 +1,12 @@
+{
+    "id": "openfabric",
+    "name": "Openfabric AI",
+    "symbol": "ofn",
+    "contractAddress": "0x8899ec96ed8c96b5c86c23c3f069c3def75b6d97",
+    "decimals": 18,
+    "website": "https://openfabric.ai/",
+    "description": "Openfabric is a decentralized AI platform where the collaboration between AI innovators, data providers, businesses, and infrastructure providers will facilitate the creation and use of new intelligent algorithms and services.\r\nOpenfabric AI is revolutionizing AI-Apps with its decentralized Layer 1 AI protocol, powered by blockchain and advanced cryptography.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/32171/large/IMG_20231005_191903_018.jpg?1696741847"
+}

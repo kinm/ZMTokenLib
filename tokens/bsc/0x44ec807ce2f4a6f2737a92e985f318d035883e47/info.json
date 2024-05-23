@@ -1,0 +1,12 @@
+{
+    "id": "hashflow",
+    "name": "Hashflow",
+    "symbol": "hft",
+    "contractAddress": "0x44ec807ce2f4a6f2737a92e985f318d035883e47",
+    "decimals": 18,
+    "website": "https://hashflow.com/",
+    "description": "Hashflow is a multichain decentralized exchange (DEX) that enables users to trade digital assets on leading blockchains including Ethereum, Arbitrum, Avalanche, BNB Chain, Optimism, Polygon, and Solana in just a matter of seconds. Hashflow leverages an intent-based smart order routing architecture to offer traders the best prices, access to over $8B in liquidity, and the ability to trade every token. Since launching in April 2021, Hashflow has facilitated over $18B in total trade volume, making it a top 10 DEX.\t",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/26136/large/hashflow-icon-cmc.png?1696525224"
+}

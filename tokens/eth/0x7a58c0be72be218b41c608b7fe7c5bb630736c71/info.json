@@ -1,0 +1,12 @@
+{
+    "id": "constitutiondao",
+    "name": "ConstitutionDAO",
+    "symbol": "people",
+    "contractAddress": "0x7a58c0be72be218b41c608b7fe7c5bb630736c71",
+    "decimals": 18,
+    "website": "https://www.constitutiondao.com/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/20612/large/GN_UVm3d_400x400.jpg?1696520017"
+}

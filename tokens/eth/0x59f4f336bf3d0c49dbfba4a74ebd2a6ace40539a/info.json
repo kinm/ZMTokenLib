@@ -1,0 +1,12 @@
+{
+    "id": "catcoin-cash",
+    "name": "Catcoin",
+    "symbol": "cat",
+    "contractAddress": "0x59f4f336bf3d0c49dbfba4a74ebd2a6ace40539a",
+    "decimals": 9,
+    "website": "https://catcoin.com/",
+    "description": "CATCOIN(CAT) is the only project that is build for community and will be managed by DAO.\r\nCat lover and Users can get CATCOIN by investing and Contributing to project\r\nEarn Reward on every Transaction just by Hodling Token in your wallet.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/25279/large/cat5.png?1696524419"
+}

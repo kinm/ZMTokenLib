@@ -1,0 +1,12 @@
+{
+    "id": "clover-finance",
+    "name": "Clover Finance",
+    "symbol": "clv",
+    "contractAddress": "0x80c62fe4487e1351b47ba49809ebd60ed085bf52",
+    "decimals": 18,
+    "website": "https://clv.org/",
+    "description": "CLV is a one-stop infrastructure platform for cross-chain and decentralized applications. The CLV chain is a Substrate-based specialized Layer-1 chain that is EVM compatible, cross-chain interoperable, and also functions as a Parachain in the Polkadot ecosystem. CLV wallet is a cross-chain all-in-one wallet, for Day-to-Day, DeFi, Metaverse and Gaming purposes. With multi-dimensional products lineup, including CLV Multi-Chain Wallets, CLV dApp Interaction Protocol, CLV Chain EVM and Universal Cross-Chain Support, CLV uniquely positioned itself as “Passport to the Omniverse.”",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/15278/large/photo_2022-03-24_10-22-33.jpg?1696514930"
+}

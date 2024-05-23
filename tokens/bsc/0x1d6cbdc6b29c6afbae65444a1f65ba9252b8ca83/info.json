@@ -1,0 +1,12 @@
+{
+    "id": "tor",
+    "name": "TOR",
+    "symbol": "tor",
+    "contractAddress": "0x1d6cbdc6b29c6afbae65444a1f65ba9252b8ca83",
+    "decimals": 18,
+    "website": "https://tor.cash/",
+    "description": "TOR is a truly Fully Collateralised stable coin built on the Fantom Opera Chain. It has a dynamic supply which is determined by supply and demand which ensures it is always worth $1.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/23609/large/tor.png?1696522816"
+}

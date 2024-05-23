@@ -1,0 +1,12 @@
+{
+    "id": "richquack",
+    "name": "Rich Quack",
+    "symbol": "quack",
+    "contractAddress": "0xd74b782e05aa25c50e7330af541d46e18f36661c",
+    "decimals": 9,
+    "website": "https://richquack.com/",
+    "description": "RichQuack is a Deflationary Token with a 5% automatic LP & 5% Auto Farm Feature. RichQuack is also Decentralized Launchpad Platform with MegaJackpot Raffle & Lottery features for Holders. QUACK is a stealth fair launched token that has passsed Security Audit by TechRate, LP Locked, Anti-Whale, RUG Proof & 100% community-driven project on the BSC.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/16356/large/57198446-0-Get-Rich-Quick-Gober.png?1696515955"
+}

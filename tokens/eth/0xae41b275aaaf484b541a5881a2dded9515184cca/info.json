@@ -1,0 +1,12 @@
+{
+    "id": "chainswap-3",
+    "name": "ChainSwap",
+    "symbol": "cswap",
+    "contractAddress": "0xae41b275aaaf484b541a5881a2dded9515184cca",
+    "decimals": 18,
+    "website": "https://www.chain-swap.org/",
+    "description": "ChainSwap emerges as a revolutionary solution, bridging the gap between blockchains and empowering a more interoperable future. We achieve this by pioneering an innovative and pioneering layer 5 security cross-chain swap protocol, built upon the groundbreaking ChainLink CCIP (Cross Chain Interoperability Protocol) architecture combined with Circle’s CCTP (Cross Chain Transfer Protocol). This innovative approach boasts an unrivaled level of security and decentralization.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/35888/large/ChainSwap.png?1710121063"
+}

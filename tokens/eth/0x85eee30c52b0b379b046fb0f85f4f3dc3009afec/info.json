@@ -1,0 +1,12 @@
+{
+    "id": "keep-network",
+    "name": "Keep Network",
+    "symbol": "keep",
+    "contractAddress": "0x85eee30c52b0b379b046fb0f85f4f3dc3009afec",
+    "decimals": 18,
+    "website": "https://keep.network/",
+    "description": "A keep is an off-chain container for private data. Keeps help contracts harness the full power of the public blockchain — enabling deep interactivity with private data.\r\n\r\nKeep Network aims to provide an off-chain “containers” — called keeps — that should keep private data safe from the public blockchain, thereby enabling smart contracts to maximize the full potential of blockchain tech without compromising on transparency or privacy. Keeps will be used to encrypt and store private data, and the keeps are to be protected by secure multi-party computation (sMPC) that allows generating, storing, encrypting and transmitting of data among different users.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/3373/large/IuNzUb5b_400x400.jpg?1696504072"
+}

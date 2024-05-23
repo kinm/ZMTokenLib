@@ -1,0 +1,12 @@
+{
+    "id": "parsiq",
+    "name": "PARSIQ",
+    "symbol": "prq",
+    "contractAddress": "0xd21d29b38374528675c34936bf7d5dd693d2a577",
+    "decimals": 18,
+    "website": "https://www.parsiq.net/",
+    "description": "Go-to backend for Web3 applications 🌊\r\n\r\nFull-suite data network used to build the backend for all Web3 dApps & protocols.\r\n",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/11973/large/DsNgK0O.png?1696511831"
+}

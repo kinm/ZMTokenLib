@@ -1,0 +1,12 @@
+{
+    "id": "sappy-seals-pixl",
+    "name": "PIXL",
+    "symbol": "pixl",
+    "contractAddress": "0x427a03fb96d9a94a6727fbcfbba143444090dd64",
+    "decimals": 18,
+    "website": "https://thepixlverse.com/",
+    "description": "What is the project about?\r\nPixl is a gaming utility token for The Pixlverse.\r\nIt will be used for all gaming related transactions (breeding, leveling up, buying in game assets, paying to battle opponents etc etc.\r\n\r\nWhat makes your project unique?\r\nThe Pixlverse is one of the first Web3 native games being released with 100% playability on mobile. It is a pet battler style game with extremely in depth game mechanics to keep players coming back for more.\r\n\r\nHistory of your project.\r\nThe Pixlverse is an NFT project founded by the creators of Sappy Seals. These projects come under the banner of Pixl Labs who have an in house industry leading team of game designers, developers, tokenomics experts and marketers. \r\n\r\nWhat’s next for your project?\r\nPublic launch of The Pixlverse and years of developing the game until it is respected in the competitive and casual gaming scene.\r\n\r\nWhat can your token be used for?\r\nAll Pixlverse in game purchases as well as other Pixl Lab related promotions.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33045/large/20220531_190522.jpg?1700450022"
+}

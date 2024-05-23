@@ -1,0 +1,12 @@
+{
+    "id": "hackenai",
+    "name": "Hacken",
+    "symbol": "hai",
+    "contractAddress": "0x05fb86775fd5c16290f1e838f5caaa7342bd9a63",
+    "decimals": 8,
+    "website": "https://hacken.ai",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/11081/large/hacken-symbol-with-bg.png?1696511022"
+}

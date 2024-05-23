@@ -1,0 +1,12 @@
+{
+    "id": "parsiq",
+    "name": "PARSIQ",
+    "symbol": "prq",
+    "contractAddress": "0x362bc847a3a9637d3af6624eec853618a43ed7d2",
+    "decimals": 18,
+    "website": "https://www.parsiq.net/",
+    "description": "Go-to backend for Web3 applications 🌊\r\n\r\nFull-suite data network used to build the backend for all Web3 dApps & protocols.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/11973/large/DsNgK0O.png?1696511831"
+}

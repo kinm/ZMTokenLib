@@ -1,0 +1,12 @@
+{
+    "id": "karate-combat",
+    "name": "Karate Combat",
+    "symbol": "karate",
+    "contractAddress": "0x80008bcd713c38af90a9930288d446bc3bd2e684",
+    "decimals": 18,
+    "website": "https://www.karate.com/",
+    "description": "The KARATE token is the official digital currency in the KarateDAO and it gives fans the power to vote to support their favorite fighters, vote on upcoming fights, take part in prize pools, and join exclusive events via Karate Combat's Up Only Gaming App. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/30384/large/karate.jpg?1696529274"
+}

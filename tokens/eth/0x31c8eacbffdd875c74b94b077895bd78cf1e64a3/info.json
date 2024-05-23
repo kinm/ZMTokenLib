@@ -1,0 +1,12 @@
+{
+    "id": "radicle",
+    "name": "Radworks",
+    "symbol": "rad",
+    "contractAddress": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+    "decimals": 18,
+    "website": "https://radworks.org/",
+    "description": "<a href=\"https://radworks.org/\"target=\"_blank\">Radworks</a> is building a sovereign developer stack that enables developers to securely host, collaborate, and reward open-source code. It’s composed of <a href=\"https://radicle.xyz/\"target=\"_blank\">Radicle</a>, an open source, peer-to-peer code collaboration stack, and <a href=\"https://www.drips.network/\"target=\"_blank\">Drips</a>, a decentralized toolkit for continuously funding critical software dependencies.\r\n​​​​​​​\r\n$RAD is the native token of the Radworks Network, used as the primary means to coordinate all actors, govern the treasury, and reward infrastructure providers on top of the Radicle network.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14013/large/radicle.png?1696513741"
+}

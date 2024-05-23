@@ -1,0 +1,12 @@
+{
+    "id": "btu-protocol",
+    "name": "BTU Protocol",
+    "symbol": "btu",
+    "contractAddress": "0xb683d83a532e2cb7dfa5275eed3698436371cc9f",
+    "decimals": 18,
+    "website": "https://www.btu-protocol.com/",
+    "description": "BTU Protocol solution helps companies get closer to consumers and build new distribution channels with better margins",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/3697/large/logo-btu-white-background_%281%29.png?1707407754"
+}

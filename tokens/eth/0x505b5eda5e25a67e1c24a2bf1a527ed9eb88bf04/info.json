@@ -1,0 +1,12 @@
+{
+    "id": "coinweb",
+    "name": "Coinweb",
+    "symbol": "cweb",
+    "contractAddress": "0x505b5eda5e25a67e1c24a2bf1a527ed9eb88bf04",
+    "decimals": 18,
+    "website": "https://coinweb.io/",
+    "description": "Coinweb fixes blockchain’s biggest problems. We’re making usable blockchain technology that’s more collaborative, better connected, and accessible for everyone.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/21607/large/Logo_200x200.png?1696520967"
+}

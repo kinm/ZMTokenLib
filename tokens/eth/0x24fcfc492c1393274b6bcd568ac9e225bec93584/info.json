@@ -1,0 +1,12 @@
+{
+    "id": "heroes-of-mavia",
+    "name": "Heroes of Mavia",
+    "symbol": "mavia",
+    "contractAddress": "0x24fcfc492c1393274b6bcd568ac9e225bec93584",
+    "decimals": 18,
+    "website": "https://mavia.com",
+    "description": "Heroes of Mavia is a mobile Web3 MMO Strategy game developed by Skrice Studios. The game takes place in a fantasy-themed island called Mavia, where players build bases on plots of land and battle neighboring bases and armies to earn in-game resources, such as Ruby. Ruby can be used to craft and trade Legendary Items (NFTs) such as skins, statues, consumables and more. \r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33895/large/2023-12-20_21.21.41_%281%29.jpg?1703230771"
+}

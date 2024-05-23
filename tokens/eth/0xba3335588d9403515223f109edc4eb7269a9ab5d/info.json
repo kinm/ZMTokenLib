@@ -1,0 +1,12 @@
+{
+    "id": "gearbox",
+    "name": "Gearbox",
+    "symbol": "gear",
+    "contractAddress": "0xba3335588d9403515223f109edc4eb7269a9ab5d",
+    "decimals": 18,
+    "website": "https://gearbox.fi",
+    "description": "Gearbox is a generalized leverage protocol: it allows you to take leverage in one place and then use it across various DeFi protocols and platforms in a composable way. The protocol has two sides to it: passive liquidity providers who earn higher APY by providing liquidity; active traders, farmers, or even other protocols who can borrow those assets to trade or farm with x4+ leverage.\r\n\r\nThe core vision is to become a backend composable leverage protocol that all kinds of users have but don’t even need to interact directly with any interface. You can envision building your own DeFi protocol and just making a “take leverage with Gearbox” as a button. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/21630/large/gear.png?1696520990"
+}

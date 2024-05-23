@@ -1,0 +1,12 @@
+{
+    "id": "smart-layer-network",
+    "name": "Smart Layer Network",
+    "symbol": "sln",
+    "contractAddress": "0xdb82c0d91e057e05600c8f8dc836beb41da6df14",
+    "decimals": 18,
+    "website": "https://www.smartlayer.network/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/35397/large/sln.jpeg?1708488815"
+}

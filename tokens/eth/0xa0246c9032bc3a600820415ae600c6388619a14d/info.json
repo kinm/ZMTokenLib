@@ -1,0 +1,12 @@
+{
+    "id": "harvest-finance",
+    "name": "Harvest Finance",
+    "symbol": "farm",
+    "contractAddress": "0xa0246c9032bc3a600820415ae600c6388619a14d",
+    "decimals": 18,
+    "website": "https://harvest.finance/",
+    "description": "Harvest automatically farms the highest yields in DeFi\r\n\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12304/large/FARM_200x200.png?1696512134"
+}

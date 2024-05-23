@@ -1,0 +1,12 @@
+{
+    "id": "ait-protocol",
+    "name": "AIT Protocol",
+    "symbol": "ait",
+    "contractAddress": "0x89d584a1edb3a70b3b07963f9a3ea5399e38b136",
+    "decimals": 18,
+    "website": "https://ait.tech/",
+    "description": "World's first AI data infrastructure. Providing #Web3 AI solutions & creating millions of jobs with the Train-To-Earn model",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33962/large/ait-logo-200x200.png?1703567800"
+}

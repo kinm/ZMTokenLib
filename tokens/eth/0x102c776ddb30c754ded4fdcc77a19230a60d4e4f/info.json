@@ -1,0 +1,12 @@
+{
+    "id": "flooring-lab-credit",
+    "name": "Floor Protocol",
+    "symbol": "flc",
+    "contractAddress": "0x102c776ddb30c754ded4fdcc77a19230a60d4e4f",
+    "decimals": 18,
+    "website": "https://fp.io",
+    "description": "The $FLC token is the native currency that powers the Floor Protocol ecosystem. It unlocks and fuels customized platform utilities for all users.\r\n\r\nEnabling Safeboxes\r\nBy staking $FLC in their Floor Account, users can create personalized Safeboxes to reserve NFTs for custom time periods. Higher $FLC stakes allow longer max durations and greater benefits.\r\nUnlocking VIP Perks\r\nStaking $FLC also determines a user's VIP status tier. Higher tiers unlock exclusive perks tailored to strategies from swift cash-outs to long-term stability and collector retention.\r\n\r\nIncentivizing Liquidity Providers\r\nThe protocol rewards liquidity providers who add to $FLC and μToken exchange pools with $FLC mining rewards proportional to their share of the pool. These incentives robust liquidity vital for ecosystem growth.\r\n\r\n\r\nManaging the Treasury Reserve\r\nThe protocol treasury accumulates a portion of all $FLC expenditures like fees and bids. These reserves help fund ongoing development, provide collateral, and maintain $FLC value stability. \r\n\r\nThe treasury may also provide Eco-system contributor grants to worthy contributors and projects.\r\n\r\nMaintaining Protocol Stability\r\nRandom Vault redemptions normally have no fees. But if reserves dip too low, a redemption fees in $FLC applies. This disincentivizes excessive withdrawals during periods of volatility.\r\n\r\nIn summary, $FLC constructs Floor Protocol's economic framework by incentivizing beneficial platform interactions. This enables a dynamic, utility-driven marketplace.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/32433/large/Floor_Protocol_browser_logo_mark.png?1702379738"
+}

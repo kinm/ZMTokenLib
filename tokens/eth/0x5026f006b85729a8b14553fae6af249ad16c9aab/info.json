@@ -1,0 +1,12 @@
+{
+    "id": "wojak",
+    "name": "Wojak",
+    "symbol": "wojak",
+    "contractAddress": "0x5026f006b85729a8b14553fae6af249ad16c9aab",
+    "decimals": 18,
+    "website": "https://linktr.ee/wojaketh",
+    "description": "WOJAK is a cryptoasset project that aims to create a decentralized platform for connecting people through the power of memes. The project is inspired by the popular internet meme of the same name, which represents a cartoonish face expressing a range of emotions.\r\n\r\nThe WOJAK cryptoasset will serve as the native currency of the platform, enabling users to engage in a variety of activities, including buying, selling, and trading memes, participating in community-driven events, and connecting with like-minded individuals across the globe.\r\n\r\nThe project will leverage blockchain technology to create a secure and transparent ecosystem for meme enthusiasts, allowing them to showcase their creativity and express themselves freely. The platform will feature a user-friendly interface, intuitive navigation, and robust security protocols to ensure that users can interact with each other in a safe and seamless manner.\r\n\r\nBy creating a decentralized platform for meme enthusiasts, WOJAK aims to empower individuals to connect with others who share their interests, forge new relationships, and build communities based on shared values and common experiences. With WOJAK, anyone can become a part of the meme revolution and join the movement towards a more decentralized and connected world.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29856/large/wojak.png?1696528782"
+}

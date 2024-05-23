@@ -1,0 +1,12 @@
+{
+    "id": "mobox",
+    "name": "Mobox",
+    "symbol": "mbox",
+    "contractAddress": "0x3203c9e46ca618c8c1ce5dc67e7e9d75f5da2377",
+    "decimals": 18,
+    "website": "https://www.mobox.io/",
+    "description": "The world's first ever FAIR LAUNCH optimized yield farming and NFT platform is now LIVE on Binance Smart Chain.\r\nMOBOX Platform combines DeFi and Gaming NFT, creating a truly free to play play to earn ecosystem.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/14751/large/mobox.PNG?1696514420"
+}

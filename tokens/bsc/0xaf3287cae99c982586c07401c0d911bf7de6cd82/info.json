@@ -1,0 +1,12 @@
+{
+    "id": "h2o-dao",
+    "name": "H2O Dao",
+    "symbol": "h2o",
+    "contractAddress": "0xaf3287cae99c982586c07401c0d911bf7de6cd82",
+    "decimals": 18,
+    "website": "https://h2o.homes/home",
+    "description": "H2O DAO is the world's first decentralized community organization dedicated to providing community members with the latest and most popular blockchain industry information and industry benefits.\r\nH2O is the world's first decentralized community organization dedicated to providing community members with the latest and most popular blockchain information as well as industry benefits. Established by community members on their own initiative to help others enjoy industry development dividends, spread the spirit of decentralization, and shape brand value while helping the growth of the blockchain space.\r\n\r\n\r\n",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/24588/large/M5-QvqZ8_400x400.jpg?1696523762"
+}

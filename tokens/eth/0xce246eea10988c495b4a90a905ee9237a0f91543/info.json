@@ -1,0 +1,12 @@
+{
+    "id": "vaultcraft",
+    "name": "VaultCraft",
+    "symbol": "vcx",
+    "contractAddress": "0xce246eea10988c495b4a90a905ee9237a0f91543",
+    "decimals": 18,
+    "website": "https://vaultcraft.io/",
+    "description": "VaultCraft is your no-code, DeFi toolkit for building automated, non-custodial yield strategies on any evm-chain.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33237/large/VCX_Token_200x200.png?1701147660"
+}

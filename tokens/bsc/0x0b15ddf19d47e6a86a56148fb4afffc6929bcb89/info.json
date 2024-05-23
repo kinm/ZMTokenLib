@@ -1,0 +1,12 @@
+{
+    "id": "idia",
+    "name": "Impossible Finance Launchpad",
+    "symbol": "idia",
+    "contractAddress": "0x0b15ddf19d47e6a86a56148fb4afffc6929bcb89",
+    "decimals": 18,
+    "website": "https://impossible.finance/",
+    "description": "Impossible Finance is a builder-focused multichain ecosystem featuring decentralized incubator, launchpad, and swap. \r\n\r\nThe IDIA token is the core governance and access token for allocation into our launchpad sales. Users can stake the IDIA token into a variety of sectors and categories to secure allocation into the top project teams launching on Impossible.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/17803/large/IDIA.png?1696517325"
+}

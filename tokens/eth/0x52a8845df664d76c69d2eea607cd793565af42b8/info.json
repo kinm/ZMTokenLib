@@ -1,0 +1,12 @@
+{
+    "id": "apex-token-2",
+    "name": "ApeX",
+    "symbol": "apex",
+    "contractAddress": "0x52a8845df664d76c69d2eea607cd793565af42b8",
+    "decimals": 18,
+    "website": "https://apex.exchange/",
+    "description": "ApeX Protocol (APEX) — Decentralized Derivatives Protocol\r\n\r\nAPEX is the native token of the ApeX protocol, which facilitates the creation of perpetual swap markets for any token pair.\r\n\r\n- Key features of the ApeX protocol include:\r\n- Permissionless cryptocurrency perpetual contract trading with leverage\r\n- Elastic Automated Market Maker (eAMM)\r\n- Protocol Controlled Value (PCV)\r\n\r\nApeX enables users to create any token pairs on ApeX Protocol as long as they are supported on decentralized exchanges such as Uniswap and SushiSwap.\r\n\r\nUsers can earn APEX tokens by participating in liquidity mining, NFT trading, AMA, bug bounty, and more. By staking APEX tokens on the protocol, APEX holders can take part in protocol governance or earn additional APEX tokens, transaction fees, trading fee discounts and other perks.\r\n\r\nHolders of ApeX NFTs can play the ApeX game and earn APEX tokens or allocations, trading fee cashbacks and other rewards.\r\n\r\nApeX has raised seed funds from backers including Dragonfly Capital Partners, Jump Crypto, Tiger Global, Mirana Ventures, CyberX, Kronos and M77 Ventures.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/25266/large/CxpMECpk_400x400_%281%29.png?1696524406"
+}

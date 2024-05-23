@@ -1,0 +1,12 @@
+{
+    "id": "unifi-protocol-dao",
+    "name": "Unifi Protocol DAO",
+    "symbol": "unfi",
+    "contractAddress": "0x441761326490cacf7af299725b6292597ee822c2",
+    "decimals": 18,
+    "website": "https://unifiprotocol.com/",
+    "description": "Unifi Protocol DAO is a group of non-custodial, interoperable multi-chain smart contracts that aims to provide the tools for Decentralized Finance (DeFi) product development.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13152/large/logo-2.png?1696512937"
+}

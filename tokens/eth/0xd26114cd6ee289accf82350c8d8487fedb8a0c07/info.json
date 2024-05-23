@@ -1,0 +1,12 @@
+{
+    "id": "omisego",
+    "name": "OMG Network",
+    "symbol": "omg",
+    "contractAddress": "0xd26114cd6ee289accf82350c8d8487fedb8a0c07",
+    "decimals": 18,
+    "website": "https://omg.network/",
+    "description": "The OMG Network is the value transfer network for ETH and ERC20 tokens.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/776/large/OMG_Network.jpg?1696501928"
+}

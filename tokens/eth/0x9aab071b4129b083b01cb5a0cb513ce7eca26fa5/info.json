@@ -1,0 +1,12 @@
+{
+    "id": "hunt-token",
+    "name": "Hunt",
+    "symbol": "hunt",
+    "contractAddress": "0x9aab071b4129b083b01cb5a0cb513ce7eca26fa5",
+    "decimals": 18,
+    "website": "https://hunt.town",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/7989/large/HUNT.png?1696508215"
+}

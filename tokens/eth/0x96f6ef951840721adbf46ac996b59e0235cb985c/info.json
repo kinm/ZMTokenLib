@@ -1,0 +1,12 @@
+{
+    "id": "ondo-us-dollar-yield",
+    "name": "Ondo US Dollar Yield",
+    "symbol": "usdy",
+    "contractAddress": "0x96f6ef951840721adbf46ac996b59e0235cb985c",
+    "decimals": 18,
+    "website": "https://ondo.finance/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/31700/large/usdy_%281%29.png?1696530524"
+}

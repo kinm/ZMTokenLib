@@ -1,0 +1,12 @@
+{
+    "id": "gho",
+    "name": "GHO",
+    "symbol": "gho",
+    "contractAddress": "0x40d16fc0246ad3160ccc09b8d0d3a2cd28ae6c2f",
+    "decimals": 18,
+    "website": "https://gho.xyz/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/30663/large/ghoaave.jpeg?1696529533"
+}

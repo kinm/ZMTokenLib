@@ -1,0 +1,12 @@
+{
+    "id": "vite",
+    "name": "Vite",
+    "symbol": "vite",
+    "contractAddress": "0x2794dad4077602ed25a88d03781528d1637898b4",
+    "decimals": 18,
+    "website": "https://www.vite.org/",
+    "description": "Vite has built the world’s first DAG (Directed Acyclic Graph) based smart-contract platform, with a Snapshot Chain structure to facilitate zero-fee transactions and optimize transaction speed, reliability, and security. The Snapshot Chain of Vite utilizes Hierarchical Delegated Proof of Stake (“HDPoS”) to achieve network consensus. \r\n\r\nVite’s current products include a truly trustless DEX (ViteX), a wallet-centric super-app (Vite App) and a Vite-based payment rail (VitePay).\r\n\r\nVite’s next ambition is ViteBridge, a universal cross-chain solution that allows easy asset transfer between any two chains in a decentralized manner.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/4513/large/VITE_new_logo_200px.png?1709175957"
+}

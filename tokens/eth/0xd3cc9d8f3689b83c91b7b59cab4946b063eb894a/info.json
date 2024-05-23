@@ -1,0 +1,12 @@
+{
+    "id": "venus",
+    "name": "Venus",
+    "symbol": "xvs",
+    "contractAddress": "0xd3cc9d8f3689b83c91b7b59cab4946b063eb894a",
+    "decimals": 18,
+    "website": "https://venus.io/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12677/large/download.jpg?1696512482"
+}

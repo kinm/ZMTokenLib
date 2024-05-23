@@ -1,0 +1,12 @@
+{
+    "id": "entangle",
+    "name": "Entangle",
+    "symbol": "ngl",
+    "contractAddress": "0x12652c6d93fdb6f4f37d48a8687783c782bb0d10",
+    "decimals": 18,
+    "website": "https://entangle.fi/",
+    "description": "Entangle is the first fully customizable & Interoperable Data Infrastructure Built for Web3 and Institutions.\r\n\r\nEntangle provides builders & dApps universal data pathways with full configurability in executing operations across any blockchain network.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/34522/large/entangle.jpeg?1705302451"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "keep3rv1",
+    "name": "Keep3rV1",
+    "symbol": "kp3r",
+    "contractAddress": "0x1ceb5cb57c4d4e2b2433641b95dd330a33185a44",
+    "decimals": 18,
+    "website": "https://keep3r.network/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12966/large/kp3r_logo.jpg?1696512754"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "dimo",
+    "name": "DIMO",
+    "symbol": "dimo",
+    "contractAddress": "0x5fab9761d60419c9eeebe3915a8fa1ed7e8d2e1b",
+    "decimals": 18,
+    "website": "https://dimo.zone",
+    "description": "DIMO is an open vehicle connectivity platform. You can connect your car to DIMO, store your own data, share that data for discounts or new services, and earn $DIMO tokens. Developers can build applications on DIMO that work on any car.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/28383/large/Token_Logo.png?1696527383"
+}

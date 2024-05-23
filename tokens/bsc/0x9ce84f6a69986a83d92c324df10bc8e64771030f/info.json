@@ -1,0 +1,12 @@
+{
+    "id": "chex-token",
+    "name": "CHEX Token",
+    "symbol": "chex",
+    "contractAddress": "0x9ce84f6a69986a83d92c324df10bc8e64771030f",
+    "decimals": 18,
+    "website": "https://chintai.io/",
+    "description": "Chintai is a Real World Asset (RWA) platform with licenses in Singapore to create digital assets, including securities. The CHEX token is a utility token that is used for handling transactions on the Chintai blockchain and is also used to incentivise liquidity to the platform.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/10349/large/logo-dark-200.png?1701121978"
+}

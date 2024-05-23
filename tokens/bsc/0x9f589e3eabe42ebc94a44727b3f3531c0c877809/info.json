@@ -1,0 +1,12 @@
+{
+    "id": "tokocrypto",
+    "name": "Tokocrypto",
+    "symbol": "tko",
+    "contractAddress": "0x9f589e3eabe42ebc94a44727b3f3531c0c877809",
+    "decimals": 18,
+    "website": "https://www.tokocrypto.com/",
+    "description": "Tokocrypto will be undergoing IEO via Binance Launchpad: more info at https://www.binance.com/en/support/announcement/4620c8a2a87c42978519750964af7aa4",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/14577/large/tko-logo.png?1696514258"
+}

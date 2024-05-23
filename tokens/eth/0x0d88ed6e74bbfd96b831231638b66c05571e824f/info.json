@@ -1,0 +1,12 @@
+{
+    "id": "aventus",
+    "name": "Aventus",
+    "symbol": "avt",
+    "contractAddress": "0x0d88ed6e74bbfd96b831231638b66c05571e824f",
+    "decimals": 18,
+    "website": "https://aventus.io/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/901/large/1673958879448.jpeg?1696502024"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "kishu-inu",
+    "name": "Kishu Inu",
+    "symbol": "kishu",
+    "contractAddress": "0xa2b4c0af19cc16a6cfacce81f192b024d625817d",
+    "decimals": 9,
+    "website": "https://kishu.com/",
+    "description": "\"KISHU INU was created in April 2021 with the goal of being a decentralized meme project with true purpose.\r\n\r\nKISHU’s mission is to bring popular cryptocurrency concepts to the mainstream. Unlike older, comparable projects, KISHU introduces holders to next-gen concepts such as participation rewards, NFTs, decentralized exchanges, and more.\r\n\r\nWithin the first month of its launch, KISHU made history by surpassing a $2 billion market cap and over 100,000 holders. This was an unprecedented milestone for a project of its kind, and proved the world’s belief in the project.\"",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14890/large/uVLzCoP.png?1696514553"
+}

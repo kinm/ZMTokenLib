@@ -1,0 +1,12 @@
+{
+    "id": "chain-2",
+    "name": "Onyxcoin",
+    "symbol": "xcn",
+    "contractAddress": "0xa2cd3d43c775978a96bdbf12d733d5a1ed94fb18",
+    "decimals": 18,
+    "website": "http://www.onyx.org",
+    "description": "Onyx Protocol, a decentralized platform that facilitates an all-in-1 peer-to-peer lending protocol!\r\n\r\nThe Onyx Protocol represents a significant step towards supporting abroader segment of the digital assets, such as Ether (ETH), ERC-20 tokens, ERC-721 tokens, and ERC-1155 tokens. These can be supplied or borrowed through an aggregated and unified balance, supported by non-custodial custody via decentralized smart contracts.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/24210/large/onyxlogo.jpg?1696523397"
+}

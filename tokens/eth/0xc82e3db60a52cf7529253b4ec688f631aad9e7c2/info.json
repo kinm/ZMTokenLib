@@ -1,0 +1,12 @@
+{
+    "id": "arc",
+    "name": "Arc",
+    "symbol": "arc",
+    "contractAddress": "0xc82e3db60a52cf7529253b4ec688f631aad9e7c2",
+    "decimals": 18,
+    "website": "https://helloarc.ai/",
+    "description": "$ARC is your all in one solution for Web3 and AI... In fact it's your ticket to one of the world's top 5 AI models!\r\n\r\nInstead of paying for a subscription with $ARC tokens, you unlock this powerful tool and enter a unique ecosystem designed for learning and earning.\r\n\r\nOur suite of products includes Reactor, the AI model itself, plus a mobile app and dapp for talking to the AI 24/7. These tools allow you to leverage AI for live token audits, personal wallet news feeds, and even AI-powered suggestions for trading!",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/24235/large/arc.png?1696523420"
+}

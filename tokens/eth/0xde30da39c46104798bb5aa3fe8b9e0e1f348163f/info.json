@@ -1,0 +1,12 @@
+{
+    "id": "gitcoin",
+    "name": "Gitcoin",
+    "symbol": "gtc",
+    "contractAddress": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+    "decimals": 18,
+    "website": "https://gitcoin.co/",
+    "description": "Gitcoin is a platform to fund builders looking for meaningful, open source work.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/15810/large/gitcoin.png?1696515429"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "flex-usd",
+    "name": "flexUSD",
+    "symbol": "flexusd",
+    "contractAddress": "0xa774ffb4af6b0a91331c084e1aebae6ad535e6f3",
+    "decimals": 18,
+    "website": "https://coinflex.com",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13323/large/flexUSD_2x.png?1696513092"
+}

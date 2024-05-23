@@ -1,0 +1,12 @@
+{
+    "id": "melon",
+    "name": "Enzyme",
+    "symbol": "mln",
+    "contractAddress": "0xec67005c4e498ec7f55e092bd1d35cbc47c91892",
+    "decimals": 18,
+    "website": "https://enzyme.finance/",
+    "description": "A fast & cost-effective way to build, scale and monetize investment strategies in DeFi. Enzyme is powered by MLN token",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/605/large/Enzyme_Icon_Secondary.png?1696501803"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "mog-coin",
+    "name": "Mog Coin",
+    "symbol": "mog",
+    "contractAddress": "0xaaee1a9723aadb7afa2810263653a34ba2c21c7a",
+    "decimals": 18,
+    "website": "https://www.mogcoin.xyz",
+    "description": "What makes MOG an absolute game-changer is our relentless dedication to memes and viral brilliance! We don't settle for mediocrity; we plunge into the realm of sheer awesomeness! Our community is a powerhouse of meme warriors, unleashing an unstoppable onslaught of viral memes that'll leave you in awe and stitches!\r\n\r\nWe're not here to play games; we're here to dominate! MOG is all about pushing the boundaries, smashing through barriers, and leaving our competitors eating our dust! Our passion for humor burns like an inferno, and we won't rest until the entire internet bows down to our meme supremacy!\r\n\r\nAnd our community? It's a brotherhood, an unyielding powerhouse of support and camaraderie! When you're part of MOG, you're part of an unstoppable force, a family forged by the fire of meme revolution!\r\n\r\nSo, if you're ready to be part of the most intense, mind-bending memecoin movement ever conceived, then buckle up, strap in, and brace yourself! MOG is here to claim the throne, and we're taking no prisoners! Get ready to witness meme history in the making!\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/31059/large/MOG_LOGO_200x200.png?1696529893"
+}

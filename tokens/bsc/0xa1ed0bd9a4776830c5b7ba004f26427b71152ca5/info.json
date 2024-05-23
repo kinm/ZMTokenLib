@@ -1,0 +1,12 @@
+{
+    "id": "gamegpt",
+    "name": "GameGPT",
+    "symbol": "duel",
+    "contractAddress": "0xa1ed0bd9a4776830c5b7ba004f26427b71152ca5",
+    "decimals": 18,
+    "website": "https://gamegpt.gg",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/34491/large/duel.jpeg?1705056819"
+}

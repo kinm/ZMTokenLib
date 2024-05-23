@@ -1,0 +1,12 @@
+{
+    "id": "bluzelle",
+    "name": "Bluzelle",
+    "symbol": "blz",
+    "contractAddress": "0x5732046a883704404f284ce41ffadd5b007fd668",
+    "decimals": 18,
+    "website": "https://bluzelle.com/",
+    "description": "Bluzelle is a decentralized storage network for the creator economy.\r\n\r\nBluzelle delivers high security, un-matched availability, and is censorship resistant. Whether you are an artist, musician, scientist, publisher, or developer, Bluzelle protects the intellectual property of all creators. Bluzelle is data storage, file storage, oracles and specifically for NFTs and DeFi.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/2848/large/ColorIcon_3x.png?1696503607"
+}

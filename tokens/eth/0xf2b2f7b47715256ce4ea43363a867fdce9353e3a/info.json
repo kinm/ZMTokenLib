@@ -1,0 +1,12 @@
+{
+    "id": "bitrise-token",
+    "name": "Bitgert",
+    "symbol": "brise",
+    "contractAddress": "0xf2b2f7b47715256ce4ea43363a867fdce9353e3a",
+    "decimals": 9,
+    "website": "https://bitgert.com/",
+    "description": "Bitrise Token Holders benefit through static rewards in BNB into their wallet for holding and also through the automatic Buy-Back process built into the contract.\r\nWhen the Buy-Back function is turned on, the contract automatically Buys Back and Burns Tokens after each sell.\r\nFor the first time ever, you don’t need to claim your earned BNB. It’s automatically sent to your wallet every 60 minutes.\r\nThe biggest BNB reflection token and the only one with auto-claim feature. Simply hold $BRISE tokens in your wallet and you’ll earn BNB.\r\n\r\nBitRise Payment System ( Under Development )\r\nBitRise Token will be used as peer-to-peer (P2P) service for payment systems using our dApp wallet in the local currency with zero transaction fees, faster & secure transactions, whereby two individuals interact directly with each other, without intermediation by a third party. Instead, the buyer and the seller transact directly with each other via the P2P service.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/17388/large/200x200.png?1696516937"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "alchemix-usd",
+    "name": "Alchemix USD",
+    "symbol": "alusd",
+    "contractAddress": "0xbc6da0fe9ad5f3b0d58160288917aa56653660e9",
+    "decimals": 18,
+    "website": "https://alchemix.fi/",
+    "description": "alUSD is a yield-backed synthetic stablecoin powered by the Alchemix protocol",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14114/large/Alchemix_USD.png?1696513835"
+}

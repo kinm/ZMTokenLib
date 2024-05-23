@@ -1,0 +1,12 @@
+{
+    "id": "cream-2",
+    "name": "Cream",
+    "symbol": "cream",
+    "contractAddress": "0x2ba592f78db6436527729929aaf6c908497cb200",
+    "decimals": 18,
+    "website": "https://cream.finance/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/11976/large/Cream.png?1696511834"
+}

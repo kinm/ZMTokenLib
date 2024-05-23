@@ -1,0 +1,12 @@
+{
+    "id": "thorswap",
+    "name": "THORSwap",
+    "symbol": "thor",
+    "contractAddress": "0xa5f2211b9b8170f694421f2046281775e8468044",
+    "decimals": 18,
+    "website": "https://thorswap.finance/",
+    "description": "Swap Layer 1 assets, earn yield and bond nodes on the leading DEX powered by THORChain.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/19292/large/THORSwap_Logo-removebg-preview.png?1696518735"
+}

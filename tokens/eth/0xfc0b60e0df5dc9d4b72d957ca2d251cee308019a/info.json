@@ -1,0 +1,12 @@
+{
+    "id": "land-of-conquest-slg",
+    "name": "SLG.GAMES",
+    "symbol": "slg",
+    "contractAddress": "0xfc0b60e0df5dc9d4b72d957ca2d251cee308019a",
+    "decimals": 18,
+    "website": "https://slg.games/",
+    "description": "SLG.GAMES is a next-generation blockchain game infrastructure provider. Consisting of an industry grade SDK that simplifies blockchain integration, a publisher management dashboard, multiple blockchain native modules as well as security safeguards, SLG.GAMES attempts to lower technical threshold for developers, help web2/traditional game studio enter the space and thus enhance playability for gamers.\r\n$SLG token is the governance token of SLG.GAMES.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/26436/large/SLG_LOGO18.jpg?1706730326"
+}

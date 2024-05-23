@@ -1,0 +1,12 @@
+{
+    "id": "osaka-protocol",
+    "name": "Osaka Protocol",
+    "symbol": "osak",
+    "contractAddress": "0x11cd72f7a4b699c67f225ca8abb20bc9f8db90c7",
+    "decimals": 18,
+    "website": "https://osaka.win",
+    "description": "Osaka protocol is a decentralized project that started with an airdrop for 30% of total supply to all people that sold SHIB before it went to moon. The purpose of Osaka Phase 1 is to establish a distributed community that works together to propagate the ecosystem.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/30911/large/osak_logo.png?1696529756"
+}

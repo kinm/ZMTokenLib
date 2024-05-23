@@ -1,0 +1,12 @@
+{
+    "id": "safemoon-2",
+    "name": "SafeMoon",
+    "symbol": "sfm",
+    "contractAddress": "0x42981d0bfbaf196529376ee702f2a9eb9092fcb5",
+    "decimals": 9,
+    "website": "https://safemoon.com/",
+    "description": "SafeMoon - Auto-generating liquidity protocol / Static farming.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/21863/large/photo_2021-12-22_14.43.36.jpeg?1696521217"
+}

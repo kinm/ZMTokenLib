@@ -1,0 +1,12 @@
+{
+    "id": "zentry",
+    "name": "Zentry",
+    "symbol": "zent",
+    "contractAddress": "0xdbb7a34bf10169d6d2d0d02a6cbb436cf4381bfa",
+    "decimals": 18,
+    "website": "https://zentry.com",
+    "description": "Zentry aims to become the superlayer of gaming. It used to be known as GuildFi as part of a rebranding with a new vision.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/36979/large/Zentry-rebrand-Primary_200px.png?1713743277"
+}

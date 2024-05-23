@@ -1,0 +1,12 @@
+{
+    "id": "gamercoin",
+    "name": "GamerCoin",
+    "symbol": "ghx",
+    "contractAddress": "0xbd7b8e4de08d9b01938f7ff2058f110ee1e0e8d4",
+    "decimals": 18,
+    "website": "https://gamercoin.com/",
+    "description": "GamerCoin is a token of GamerHash platform - it's the last puzzle of gaming ecosystem and fuel which makes 500.000 users life easier.\r\nGamers will have many ways to earn GHX trough mining or entertainment on the platform. Keeping tokens in the wallet will bring many benefits & spending GHX in the Marketplace will open special offers.\r\nIt's a game changer for gaming generation!",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/14714/large/ghx_icon.png?1696514385"
+}

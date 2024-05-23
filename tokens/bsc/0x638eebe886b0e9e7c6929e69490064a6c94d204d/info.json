@@ -1,0 +1,12 @@
+{
+    "id": "hector-dao",
+    "name": "Hector Network",
+    "symbol": "hec",
+    "contractAddress": "0x638eebe886b0e9e7c6929e69490064a6c94d204d",
+    "decimals": 9,
+    "website": "https://hector.finance/",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/19832/large/logo-final.png?1696519255"
+}

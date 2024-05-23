@@ -1,0 +1,12 @@
+{
+    "id": "nkyc-token",
+    "name": "NKYC Token",
+    "symbol": "nkyc",
+    "contractAddress": "0x59769630b236398c2471eb26e6a529448030d94f",
+    "decimals": 18,
+    "website": "https://nonkyc.io",
+    "description": "Pay trade fees with NonKYC Token (NKYC) on Nonkyc.io Exchange and get a 25% discount. \r\n\r\nFounded in 2023, NonKYC.io strives to provide its users with the best trading experience and give small and medium market cap assets a reliable trading hub. Our goal is to maintain a fast and user friendly system while also concentrating on security to keep users, data, and assets safe. Security of our users' data & assets is always our top priority and we are focused on building an easy to use digital asset trading platform for everyone to enjoy.\r\n\r\nThe NonKYC platform system is NOT from some predesigned script package or preexisting codebase. It has been created from the ground up by professional developers who are well experienced in Cryptocurrency. NonKYC has been designed to scale horizontally as we grow to become a top tier exchange.\r\n\r\n",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/30337/large/NKYC-Logo.png?1696529238"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "rocketx",
+    "name": "RocketX Exchange",
+    "symbol": "rvf",
+    "contractAddress": "0x2fb652314c3d850e9049057bbe9813f1eee882d3",
+    "decimals": 18,
+    "website": "https://app.rocketx.exchange",
+    "description": "RocketX is the most advanced hybrid CEX & DEX aggregator that makes it easy to compare prices across 250+ exchanges to help traders with best prices with every Swap.\r\nFor dapps & institutions, we act as a middleware by simplifying access to global crypto liquidity via a single API for in-app crypto swaps with best prices and 1-click cross chain capabilities.\r\nWe are on a mission to enhance interoperability between blockchains and drive mass adoption of crypto by simplifying access to all leading blockchains via single UI and API.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14728/large/avatar-correct-size-official.png?1696514397"
+}

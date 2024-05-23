@@ -1,0 +1,12 @@
+{
+    "id": "pepecoin-2",
+    "name": "PepeCoin",
+    "symbol": "pepecoin",
+    "contractAddress": "0xa9e8acf069c58aec8825542845fd754e41a9489a",
+    "decimals": 18,
+    "website": "https://www.pepecoin.io",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/30219/large/pepecoin.jpeg?1696529130"
+}

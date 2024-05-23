@@ -1,0 +1,12 @@
+{
+    "id": "virtual-protocol",
+    "name": "Virtuals Protocol",
+    "symbol": "virtual",
+    "contractAddress": "0x44ff8620b8ca30902395a7bd3f2407e1a091bf73",
+    "decimals": 18,
+    "website": "https://www.virtuals.io/",
+    "description": "An AI x Metaverse Protocol that is building the future of virtual interactions.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/34057/large/LOGOMARK.png?1708356054"
+}

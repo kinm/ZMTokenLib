@@ -1,0 +1,12 @@
+{
+    "id": "sleepless-ai",
+    "name": "Sleepless AI",
+    "symbol": "ai",
+    "contractAddress": "0xbda011d7f8ec00f66c1923b049b94c67d148d8b2",
+    "decimals": 18,
+    "website": "https://www.sleeplessai.net/home",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/34011/large/z5d4nRDO_400x400.jpg?1704362731"
+}

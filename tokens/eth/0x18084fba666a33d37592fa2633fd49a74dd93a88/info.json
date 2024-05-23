@@ -1,0 +1,12 @@
+{
+    "id": "tbtc",
+    "name": "tBTC",
+    "symbol": "tbtc",
+    "contractAddress": "0x18084fba666a33d37592fa2633fd49a74dd93a88",
+    "decimals": 18,
+    "website": "https://threshold.network/",
+    "description": "What is tBTC?\r\ntBTC allows you to unlock your Bitcoin’s value to borrow and lend, mint stablecoins, provide liquidity, and much more.\r\n\r\ntBTC is a decentralized wrapped Bitcoin that is 1:1 backed by main-net BTC. Existing solutions bringing Bitcoin to Ethereum require you to send your Bitcoin to an intermediary, who then issues you an Ethereum token representing your original asset. \r\n\r\nThis centralized model requires you to trust a third party and is prone to censorship, sacrificing Bitcoin's promise of secure, permissionless decentralization.\r\n\r\nHow does tBTC solve this issue?\r\nInstead of centralized intermediaries, tBTC uses a randomly selected group of operators running nodes on the Threshold Network to secure deposited Bitcoin through threshold cryptography. \r\n\r\nThat means tBTC requires a threshold majority agreement before operators perform any action with your Bitcoin. By rotating the selection of operators weekly, tBTC protects against any individual or group of operators colluding to fraudulently seize the underlying deposits. \r\n\r\nBy relying on an honest-majority-assumption, we can calculate the likelihood any wallet comprised of a quorum of dishonest operators. An insurance backstop (the coverage pools), serves as an emergency fallback in the event a wallet is compromised.\r\n\r\nWhat is Threshold Network?\r\nThreshold.network stems from the merger of NuCypher and Keep networks into a single decentralized network — it delivers a suite of threshold cryptography services for web3 applications through a decentralized network of staking nodes. The whole community is governed by a DAO.\r\n\r\nFlagship services of Threshold Network include Threshold Access Control (TACo) – which enables end-to-end encrypted data sharing and communication without the need to trust a centralized authority, tBTC v2 - the only decentralized and permissionless Bitcoin-to-Ethereum asset bridge and thUSD - an overcollateralized and decentralized USD stablecoin that uses both ETH and tBTC as collateral.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/11224/large/0x18084fba666a33d37592fa2633fd49a74dd93a88.png?1696511155"
+}

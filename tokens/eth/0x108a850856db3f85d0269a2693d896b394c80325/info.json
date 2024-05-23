@@ -1,0 +1,12 @@
+{
+    "id": "thorwallet",
+    "name": "THORWallet DEX",
+    "symbol": "tgt",
+    "contractAddress": "0x108a850856db3f85d0269a2693d896b394c80325",
+    "decimals": 18,
+    "website": "https://www.thorwallet.org/",
+    "description": "THORWallet is the super app you’ve been waiting for. A non-custodial wallet that gives you full control over your keys. Swap coins across different native blockchains with no intermediary. Earn yield through providing liquidity or investing in the multi-chain savings-account.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/21843/large/tgt_logo.png?1696521198"
+}

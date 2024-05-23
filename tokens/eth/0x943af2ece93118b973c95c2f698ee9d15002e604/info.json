@@ -1,0 +1,12 @@
+{
+    "id": "gamegpt",
+    "name": "GameGPT",
+    "symbol": "duel",
+    "contractAddress": "0x943af2ece93118b973c95c2f698ee9d15002e604",
+    "decimals": 18,
+    "website": "https://gamegpt.gg",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/34491/large/duel.jpeg?1705056819"
+}

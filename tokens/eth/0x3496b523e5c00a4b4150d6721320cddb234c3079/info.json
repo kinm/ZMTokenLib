@@ -1,0 +1,12 @@
+{
+    "id": "numbers-protocol",
+    "name": "Numbers Protocol",
+    "symbol": "num",
+    "contractAddress": "0x3496b523e5c00a4b4150d6721320cddb234c3079",
+    "decimals": 18,
+    "website": "https://www.numbersprotocol.io/",
+    "description": "NUM token is the native protocol token of Numbers Protocol. Numbers Protocol is building a Decentralized Photo Network for Web 3.0 For creating community, value, and trust in digital media. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/20495/large/NP_Social_media_profile_pic.png?1696519902"
+}

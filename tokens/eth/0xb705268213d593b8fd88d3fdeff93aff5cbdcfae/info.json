@@ -1,0 +1,12 @@
+{
+    "id": "aurora-dao",
+    "name": "IDEX",
+    "symbol": "idex",
+    "contractAddress": "0xb705268213d593b8fd88d3fdeff93aff5cbdcfae",
+    "decimals": 18,
+    "website": "https://idex.io/",
+    "description": "\r\n\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/2565/large/idexlogo.png?1696503371"
+}

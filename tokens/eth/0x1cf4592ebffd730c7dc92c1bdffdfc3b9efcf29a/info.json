@@ -1,0 +1,12 @@
+{
+    "id": "waves",
+    "name": "Waves",
+    "symbol": "waves",
+    "contractAddress": "0x1cf4592ebffd730c7dc92c1bdffdfc3b9efcf29a",
+    "decimals": 18,
+    "website": "https://waves.tech/",
+    "description": "Waves is an open blockchain protocol and development toolset for Web 3.0 applications and decentralized solutions, aiming to raise security, reliability and speed of IT systems. It enables anyone to build their apps, fostering mass adoption of blockchain.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/425/large/waves.png?1696501700"
+}

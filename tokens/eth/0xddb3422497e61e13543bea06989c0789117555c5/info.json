@@ -1,0 +1,12 @@
+{
+    "id": "coti",
+    "name": "COTI",
+    "symbol": "coti",
+    "contractAddress": "0xddb3422497e61e13543bea06989c0789117555c5",
+    "decimals": 18,
+    "website": "https://coti.io/",
+    "description": "COTI is the first enterprise-grade digital fintech platform, which eliminates all intermediaries and empowers any organization to build their own private payment solution and digitize any currency using our proprietary Trustchain protocol.\r\n\r\nCOTI provides functionality as robust as Paypal and Alipay, while allowing enterprises to create their own unique rules and finally own their payment system to save time, data and money.\r\n\r\nCOTI’s platform enables companies to effortlessly create advanced fintech products — ranging from payment networks and stable coins to loyalty programs, remittance services and more.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/2962/large/Coti.png?1696503705"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "universal-eth",
+    "name": "Universal ETH",
+    "symbol": "unieth",
+    "contractAddress": "0xf1376bcef0f78459c0ed0ba5ddce976f1ddf51f4",
+    "decimals": 18,
+    "website": "https://unieth.rockx.com",
+    "description": "Bedrock's native tokenized version of staked Ether is known as uniETH.\r\n\r\nuniETH represents the staked ETH in Bedrock plus all future staking rewards. uniETH is non-rebasing, i.e. does not grow in quantity over time but grows in value instead. In other words, 1 uniETH will be worth more than 1 ETH as time goes on, and its value will continue to increase as more time passes.\r\n\r\nLaunched by RockX, Bedrock is a non-custodial solution that satisfies the requirements of institutions seeking a basis for large-scale liquid staking. By bringing new levels of transparency and security to liquid staking, Bedrock allows institutions to unlock liquidity safely by adhering to regulations while leveraging a true crypto-native solution.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/28477/large/uniETH_200.png?1696527471"
+}

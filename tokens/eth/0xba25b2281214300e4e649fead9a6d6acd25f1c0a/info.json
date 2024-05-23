@@ -1,0 +1,12 @@
+{
+    "id": "tree-capital",
+    "name": "Tree",
+    "symbol": "tree",
+    "contractAddress": "0xba25b2281214300e4e649fead9a6d6acd25f1c0a",
+    "decimals": 18,
+    "website": "http://news.treeofalpha.com",
+    "description": "Utility token for Tree News. The token can be used for a new subscription tier that lets users unlock all advantages that only TreeNFT holders could get until now.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33727/large/circle_green.png?1709894067"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "tenset",
+    "name": "Tenset",
+    "symbol": "10set",
+    "contractAddress": "0x1ae369a6ab222aff166325b7b87eb9af06c86e57",
+    "decimals": 18,
+    "website": "https://tenset.io/",
+    "description": "10set token has been launched in January 2021, using Ethereum erc20 protocol. \r\n\r\nIt's a new generation etf 2.0 deflationary token with a smart staking system, that bridges cryptocurrencies with the stock market. Tenset adds a 2% transaction fee to every transfer. \r\n\r\nHalf of the fee is burned creating a deflationary effect and another half is automatically distributed to all token holders. No need to freeze it or hold it any special wallet.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/14629/large/PNG_Tenset_Sign-back_RGB.png?1696514307"
+}

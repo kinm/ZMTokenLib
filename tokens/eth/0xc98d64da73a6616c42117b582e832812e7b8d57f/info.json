@@ -1,0 +1,12 @@
+{
+    "id": "rss3",
+    "name": "RSS3",
+    "symbol": "rss3",
+    "contractAddress": "0xc98d64da73a6616c42117b582e832812e7b8d57f",
+    "decimals": 18,
+    "website": "https://rss3.io",
+    "description": "RSS3 is a next-generation feed protocol that powers decentralized social, content, and e-commerce applications.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/23575/large/RSS3.png?1696522783"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "ideachain",
+    "name": "IdeaChain",
+    "symbol": "ich",
+    "contractAddress": "0xf8483e2d6560585c02d46bf7b3186bf154a96166",
+    "decimals": 8,
+    "website": "https://ideachaincoin.com/",
+    "description": "CH It is a digital currency to support inventors and preserve their rights with smart and innovative solutions .",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/11053/large/4fJlFzca_400x400.jpg?1696510995"
+}

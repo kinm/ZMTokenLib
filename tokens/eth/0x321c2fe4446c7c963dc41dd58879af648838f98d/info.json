@@ -1,0 +1,12 @@
+{
+    "id": "cryptex-finance",
+    "name": "Cryptex Finance",
+    "symbol": "ctx",
+    "contractAddress": "0x321c2fe4446c7c963dc41dd58879af648838f98d",
+    "decimals": 18,
+    "website": "https://cryptex.finance/",
+    "description": "CTX is a governance token that powers and secures the Cryptex protocol. Holders of CTX can vote on protocol upgrades for TCAP as well as all future products within the Cryptex ecosystem.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14932/large/glossy_icon_-_C200px.png?1696514592"
+}

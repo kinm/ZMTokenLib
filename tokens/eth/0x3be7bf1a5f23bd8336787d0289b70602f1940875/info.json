@@ -1,0 +1,12 @@
+{
+    "id": "vidt-dao",
+    "name": "VIDT DAO",
+    "symbol": "vidt",
+    "contractAddress": "0x3be7bf1a5f23bd8336787d0289b70602f1940875",
+    "decimals": 18,
+    "website": "https://www.vidt-dao.com",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/27552/large/VIDTDAO_logo.png?1696526588"
+}

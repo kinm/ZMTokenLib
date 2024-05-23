@@ -1,0 +1,12 @@
+{
+    "id": "tectum",
+    "name": "Tectum",
+    "symbol": "tet",
+    "contractAddress": "0x68a47fe1cf42eba4a030a10cd4d6a1031ca3ca0a",
+    "decimals": 8,
+    "website": "http://tectum.io",
+    "description": "What is the project about?\r\nTectum is the world’s fastest blockchain - a lightning-fast payment solution to transfer ownership of bitcoin with minimal fee’s and resilient security. The SoftNote is the first ever ‘transactionless’ product with instant payment zero-fee processing for an end-user. The SoftNote has ‘physical cash’ elements, for example, a Bitcoin SoftNote bill can be printed on paper, does not require a confirmation from the Bitcoin network, incurs no fees, and has no geographical boundaries.\r\n\r\nWhat makes your project unique?\r\nThe idea how to transfer crypto assets is unique.\r\n\r\nHistory of your project.\r\nWe launched Tectum Wallet and started ICO last year. For now SoftNote is ready to launch. You can check tectum.io\r\n\r\nWhat’s next for your project?\r\nBitmart Listing\r\n\r\nWhat can your token be used for?\r\nCryptopayments with a SoftNote\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29575/large/Icon_TET.png?1696528514"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "ampleforth-governance-token",
+    "name": "Ampleforth Governance",
+    "symbol": "forth",
+    "contractAddress": "0x77fba179c79de5b7653f68b5039af940ada60ce0",
+    "decimals": 18,
+    "website": "https://www.ampleforth.org/",
+    "description": "FORTH is the native governance token that powers Ampleforth, a protocol that automatically adjusts the supply of its native token, AMPL, in response to demand. FORTH holders can vote on proposed changes to the Ampleforth protocol or delegate their votes to representatives who vote on their behalf.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14917/large/photo_2021-04-22_00.00.03.jpeg?1696514579"
+}

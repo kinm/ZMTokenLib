@@ -1,0 +1,12 @@
+{
+    "id": "onbuff",
+    "name": "ONBUFF",
+    "symbol": "onit",
+    "contractAddress": "0x410e731c2970dce3add351064acf5ce9e33fdbf0",
+    "decimals": 18,
+    "website": "http://onbuff.com/",
+    "description": "ONBUFF uses blockchain technology to increase the transparency of Intellecutal Property business and lower the barrier to entry for IP utilization. Companies that own IP will be able to expand their IP customers globally. Businesses searching for IP will alsobe able to do efficiently and economically. This will lead to creating added value where all IP-owned companies, IP users, and gamers can coexist in an all-winning ecosystem.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12252/large/d4suDHSzEZjDXc0uxFGPZXfDFp0L1tfoEusBx03zB1bvMLLbxa7Yq5naXAOutkirIlLXacFRRebX_hF2Ez69_fIPUfr2LuN0Z_UrXTLYds4aT95C6eHGXsZnezMHKAaOmjLpKto0xPTiYkXExvEvXrqL7O_J1wecb4eJsgwCoVprMLpm89BdKO9IyMmpNsfbW7JJFMiHgL8vq9fPhaeEi.jpg?1696512083"
+}

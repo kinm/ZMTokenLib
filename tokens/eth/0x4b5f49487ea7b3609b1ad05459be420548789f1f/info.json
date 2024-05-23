@@ -1,0 +1,12 @@
+{
+    "id": "lever",
+    "name": "LeverFi",
+    "symbol": "lever",
+    "contractAddress": "0x4b5f49487ea7b3609b1ad05459be420548789f1f",
+    "decimals": 18,
+    "website": "https://www.leverfi.io/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/26205/large/WI72SpBl_400x400.jpeg?1696525291"
+}

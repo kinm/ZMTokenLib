@@ -1,0 +1,12 @@
+{
+    "id": "opsec",
+    "name": "OpSec",
+    "symbol": "opsec",
+    "contractAddress": "0x6a7eff1e2c355ad6eb91bebb5ded49257f3fed98",
+    "decimals": 18,
+    "website": "https://opsec.software/",
+    "description": "OpSec - AI and Decentralized Cloud Computing Unleashed.Elevate Your Decentralized Applications with AI-Powered Security Innovations \r\n\r\nThe mission is to explore, implement, and guide the creation of a secure, efficient, and decentralized digital ecosystem. OpSec addresses the limitations of current infrastructure, aiming to foster a more democratic, resilient, and secure internet.\r\n\r\nAs a Decentralized physical infrastructure networks provider, OpSec utilizes the most advanced AI technology to build, maintain, and operate blockchain infrastructure that ensures the security and privacy of your blockchain applications.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/34284/large/IMG_8108.jpeg?1704453267"
+}

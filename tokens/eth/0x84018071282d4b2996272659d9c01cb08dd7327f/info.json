@@ -1,0 +1,12 @@
+{
+    "id": "blendr-network",
+    "name": "Blendr Network",
+    "symbol": "blendr",
+    "contractAddress": "0x84018071282d4b2996272659d9c01cb08dd7327f",
+    "decimals": 18,
+    "website": "https://www.blendr.network/",
+    "description": "Revolutionizing GPU Computing: Unleashing Scalability, Security, and Efficiency.\r\n\r\nElevate your AI, rendering, and simulations with Blendr. Say goodbye to pricey centralized farms and hello to scalable, secure computing.\r\n\r\nElevate your AI, rendering, and simulations with Blendr. Say goodbye to pricey centralized farms and hello to scalable, secure computing.\r\n\r\nFor AI, rendering, and simulations, Blendr offers high-performance computing sans centralized costs and scalability limits. Optimize resource usage, minimize expenses, and maintain uninterrupted productivity.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/35765/large/Blendr_Network.png?1709752266"
+}

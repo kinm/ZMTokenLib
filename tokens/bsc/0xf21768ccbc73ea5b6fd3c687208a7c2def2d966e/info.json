@@ -1,0 +1,12 @@
+{
+    "id": "reef",
+    "name": "Reef",
+    "symbol": "reef",
+    "contractAddress": "0xf21768ccbc73ea5b6fd3c687208a7c2def2d966e",
+    "decimals": 18,
+    "website": "https://reef.io",
+    "description": "Reef aims to be the future blockchain for DeFi, NFTs, and gaming. Our layer 1 blockchain is fast, scalable, has low transaction costs and does no wasteful mining. Reef features next-gen blockchain technology, utilizing Nominated Proof of Stake, extensible EVM, on-chain upgradability, libp2p networking and state of the art cryptography.\r\n",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/13504/large/Group_10572.png?1696513266"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "rally-2",
+    "name": "Rally",
+    "symbol": "rly",
+    "contractAddress": "0xf1f955016ecbcd7321c7266bccfb96c68ea5e49b",
+    "decimals": 18,
+    "website": "https://rly.network/",
+    "description": "The RLY token is an ERC-20 native token that powers the RLY Network. RLY is multi-chain and can also be obtained on other blockchains through official bridges and canonical swaps maintained by the RLY Network Association. \r\n\r\nRLY is utilized by consumer applications to enable a token economy in order to drive growth, adopt community, and reward engagement. \r\n\r\nRLY Network is an ecosystem of consumer apps powered by RLY Protocol, a token-enabled software suite for developers that facilitates token launching, instant pricing, immediate liquidity, and the opportunity to earn weekly RLY Rewards. \r\n\r\nRLY Protocol is managed by the RLY Network Association, a Swiss-based non-profit. Learn more at rly.network. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12843/large/image.png?1696512633"
+}

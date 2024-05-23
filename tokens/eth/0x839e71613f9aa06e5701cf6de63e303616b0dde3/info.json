@@ -1,0 +1,12 @@
+{
+    "id": "vvs-finance",
+    "name": "VVS Finance",
+    "symbol": "vvs",
+    "contractAddress": "0x839e71613f9aa06e5701cf6de63e303616b0dde3",
+    "decimals": 18,
+    "website": "https://vvs.finance/",
+    "description": "VVS Finance is a decentralized finance and automated market making platform on the Cronos network by Crypto.com",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/20210/large/8glAYOTM_400x400.jpg?1696519620"
+}

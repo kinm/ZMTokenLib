@@ -1,0 +1,12 @@
+{
+    "id": "chromaway",
+    "name": "Chromia",
+    "symbol": "chr",
+    "contractAddress": "0xf9cec8d50f6c8ad3fb6dccec577e05aa32b224fe",
+    "decimals": 6,
+    "website": "https://chromia.com/",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/5000/large/Chromia.png?1696505533"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "the-virtua-kolect",
+    "name": "Virtua",
+    "symbol": "tvk",
+    "contractAddress": "0xd084b83c305dafd76ae3e1b4e1f1fe2ecccb3988",
+    "decimals": 18,
+    "website": "https://virtua.com/",
+    "description": "Virtua is a gamified metaverse which provides immersive social, web3 gaming, digital collectible and interactive experiences.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13330/large/virtua_original.png?1696513099"
+}

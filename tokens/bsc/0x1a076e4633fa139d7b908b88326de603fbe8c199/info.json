@@ -1,0 +1,12 @@
+{
+    "id": "football-at-alphaverse",
+    "name": "Football at AlphaVerse",
+    "symbol": "fav",
+    "contractAddress": "0x1a076e4633fa139d7b908b88326de603fbe8c199",
+    "decimals": 18,
+    "website": "https://alphaverse.com/blog/items/category/blog/fav/",
+    "description": "What is the project about?\r\nFootball at AlphaVerse (FAV) is an AI-Powered 3D Interactive Entertainment Platform dedicated to Football, where fans can deeply engage with their favorite football clubs. It is open to everyone and free to play. Key pillars include accessibility, personalized experiences, digital rewards, and fan engagement.\r\n\r\nWhat makes your project unique?\r\nAlphaVerse is the first metaverse on the blockchain to move beyond a single-universe experience by combining many different universes. Each of them offers a different look and feel and a different experience for the user. It’s literally a universe of universes. Some universes are fully developed and operated by AlphaVerse. Others are developed and operated by third parties. Players can move seamlessly from one universe to another, using the same username and wallet.\r\nPartnership with Top Tier Clubs\r\nReal Bétis Balompié\r\nSporting Clube de Braga\r\nSpezia Calcio\r\nSão Paulo Futebol Clube\r\nCardiff City FC\r\nDeportivo Cali\r\nand many more.\r\n\r\nHistory of your project.\r\nFounded in 2021 by Frederic Chesnais, we have been working on FAV for the past 2 years now. \r\n\r\nWhat’s next for your project?\r\nContinuous launch of different fanzone for football clubs, as well as a poker game, a metacoaster world, launch of HorYou world, raveage and many more\r\n\r\nWhat can your token be used for?\r\nPurchase of NFTs: access to special content\r\nMicro-transactions in Football at AlphaVerse\r\nDAO in FAV Island (decisions to open new worlds/clubs and minor decisions)\r\nReferral Program\r\nMini Games\r\nStaking to compete in challenges\r\n",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/31974/large/fav.png?1704731064"
+}

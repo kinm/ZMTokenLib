@@ -1,0 +1,12 @@
+{
+    "id": "andy-the-wisguy",
+    "name": "ANDY ETH",
+    "symbol": "andy",
+    "contractAddress": "0x68bbed6a47194eff1cf514b50ea91895597fc91e",
+    "decimals": 18,
+    "website": "https://boysclubandy.com",
+    "description": "Andy. Pepe's best friend.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/35910/large/IMG_20240309_044840_797.jpg?1710179397"
+}

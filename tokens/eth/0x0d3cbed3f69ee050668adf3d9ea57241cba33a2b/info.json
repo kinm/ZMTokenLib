@@ -1,0 +1,12 @@
+{
+    "id": "playdapp",
+    "name": "PlayDapp",
+    "symbol": "pda",
+    "contractAddress": "0x0d3cbed3f69ee050668adf3d9ea57241cba33a2b",
+    "decimals": 18,
+    "website": "https://playdapp.io/",
+    "description": "PlayDapp token (PLA) is a digital asset used within the PlayDapp Blockchain gaming ecosystem to purchase and trade NFT items within games and with the global C2C marketplace 'playdapp.com'.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14316/large/PDA-symbol.png?1710234068"
+}

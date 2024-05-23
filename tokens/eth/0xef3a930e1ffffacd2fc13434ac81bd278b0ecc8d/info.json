@@ -1,0 +1,12 @@
+{
+    "id": "stafi",
+    "name": "Stafi",
+    "symbol": "fis",
+    "contractAddress": "0xef3a930e1ffffacd2fc13434ac81bd278b0ecc8d",
+    "decimals": 18,
+    "website": "https://www.stafi.io/",
+    "description": "Stafi is the first DeFi protocol unlocking liquidity of staked assets. Users can stake PoS tokens through Stafi and receive rTokens in return, which are available for trading while still earning staking rewards. FIS is the native token on Stafi Chain. FIS is required to provide security to the network by staking, pay for transaction fees on the Stafi chain, mint & redeem rTokens.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12423/large/FIS.png?1696512244"
+}

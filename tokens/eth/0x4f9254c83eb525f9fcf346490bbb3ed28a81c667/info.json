@@ -1,0 +1,12 @@
+{
+    "id": "celer-network",
+    "name": "Celer Network",
+    "symbol": "celr",
+    "contractAddress": "0x4f9254c83eb525f9fcf346490bbb3ed28a81c667",
+    "decimals": 18,
+    "website": "https://www.celer.network/",
+    "description": "\r\n\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/4379/large/Celr.png?1696504978"
+}

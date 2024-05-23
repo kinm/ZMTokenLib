@@ -1,0 +1,12 @@
+{
+    "id": "maverick-protocol",
+    "name": "Maverick Protocol",
+    "symbol": "mav",
+    "contractAddress": "0x7448c7456a97769f6cd04f1e83a4a23ccdc46abd",
+    "decimals": 18,
+    "website": "https://www.mav.xyz/",
+    "description": "What is the project about?\r\nMaverick Protocol is a next-generation DeFi infrastructure focused on increasing industry efficiency, powered by Maverick AMM.\r\n\r\nWhat makes your project unique?\r\nMaverick AMM eliminates this complexity by letting users select a movement mode that will move their liquidity for them. Some other innovative features of Maverick AMM are:\r\n- Customized Liquidity Distributions\r\n- Fee Auto-compounding\r\n- Liquidity Shaping Using Boosted Positions\r\n- Native LST Support with Price Following function and Protocol Support.\r\n\r\nHistory of your project.\r\n- Maverick raised 3 rounds of funding with a total $18 million raised. Investors including Founders Fund, Pantera Capital, Coinbase Ventures, Binance Labs, Circle Ventures, Gemini, etc.\r\n- Maverick launched Maverick AMM to Ethereum Mainnet in March 2023, zkSync Era in April 2023, and BNB Chain in June 2023.\r\n- Maverick supported over 2.5 B trading volume and hit top 5 DEXs by volume on all chains according to DefiLlama.\r\n- Surpassed Uniswap and Curve to become #1 for wstETH (Liquid Staking Token) trading volume\r\n\r\nWhat’s next for your project?\r\nQ3 2023:\r\n- Launch Voting Escrow and Governance contracts\r\nQ4 2023 (subject to DAO votes):\r\n- Launch Boosted Pool Voting\r\n- Launch AMM on more chains\r\nH1 2024 (subject to DAO votes):\r\n- MAV LayerZero support on more chains\r\n\r\nWhat can your token be used for?\r\nMAV is the native utility token of the Maverick ecosystem. It is designed for governance of Maverick.\r\nMaverick governance will take place through a Voting Escrow (ve) contract, where users can stake MAV to receive veMAV. veMAV’s governance is designed to put more voting power in the hands of users who are committed to the ecosystem and provides protection against mercenary governance. The longer a user chooses to stake their MAV for, the more veMAV they will receive in return and the more voting power they will have.\r\n\r\n\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/30850/large/MAV_Logo.png?1696529701"
+}

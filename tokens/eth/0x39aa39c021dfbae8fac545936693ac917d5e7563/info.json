@@ -1,0 +1,12 @@
+{
+    "id": "compound-usd-coin",
+    "name": "cUSDC",
+    "symbol": "cusdc",
+    "contractAddress": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+    "decimals": 8,
+    "website": "https://compound.finance/",
+    "description": "Compound is an open-source, autonomous protocol built for developers, to unlock a universe of new financial applications. Interest and borrowing, for the open financial system.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/9442/large/Compound_USDC.png?1696509534"
+}

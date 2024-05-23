@@ -1,0 +1,12 @@
+{
+    "id": "mythos",
+    "name": "Mythos",
+    "symbol": "myth",
+    "contractAddress": "0xba41ddf06b7ffd89d1267b5a93bfef2424eb2003",
+    "decimals": 18,
+    "website": "https://mythos.foundation/",
+    "description": "Mythos aims to democratize the gaming world and allow for players and creators to participate in the value chain. The Mythos token (MYTH) will be the interoperable utility token used in these decentralized efforts and provide opportunity for anyone to participate and contribute within the ecosystem - adding governance and value to game developers, publishers, and content creators.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/28045/large/Mythos_Logos_200x200.png?1696527059"
+}

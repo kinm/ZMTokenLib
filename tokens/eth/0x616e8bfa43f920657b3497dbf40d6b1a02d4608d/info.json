@@ -1,0 +1,12 @@
+{
+    "id": "aura-bal",
+    "name": "Aura BAL",
+    "symbol": "aurabal",
+    "contractAddress": "0x616e8bfa43f920657b3497dbf40d6b1a02d4608d",
+    "decimals": 18,
+    "website": "https://aura.finance/",
+    "description": "auraBAL is a liquid wrapper for Balancer's veBAL. Aura allows users to deposit their 80/20 BAL/WETH BPT and receive liquid auraBAL, instead of the non-transferrable veBAL. Tokenised auraBAL is given to the user at a 1:1 rate for veBAL, and can be traded on Balancer or elsewhere.\r\n\r\nThis BPT is then locked up by the Aura protocol for the maximum time in Balancer Voting Escrow where it will allow the Aura system to benefit from its voting power for boosting rewards & voting for gauges.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/26538/large/auraBAL.png?1696525612"
+}

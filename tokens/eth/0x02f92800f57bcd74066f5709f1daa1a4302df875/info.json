@@ -1,0 +1,12 @@
+{
+    "id": "peapods-finance",
+    "name": "Peapods Finance",
+    "symbol": "peas",
+    "contractAddress": "0x02f92800f57bcd74066f5709f1daa1a4302df875",
+    "decimals": 18,
+    "website": "https://peapods.finance",
+    "description": "The first fully decentralized on-chain yield-bearing index funds, or \"pods\"\r\nGet broad crypto exposure from blue chips to microcaps and earn real yield powered by market volatility and arbitrage. Simply wrap or buy into a pod, provide liquidity, sit back, relax, and earn PEAS forever.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33711/large/NAzHgbTW_400x400.png?1702856653"
+}

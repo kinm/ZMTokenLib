@@ -1,0 +1,12 @@
+{
+    "id": "funfair",
+    "name": "FUNToken",
+    "symbol": "fun",
+    "contractAddress": "0x419d0d8bdd9af5e606ae2232ed285aff190e711b",
+    "decimals": 8,
+    "website": "https://funtoken.io/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/761/large/FUN.png?1696501914"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "fideum",
+    "name": "Fideum",
+    "symbol": "fi",
+    "contractAddress": "0x1294f4183763743c7c9519bec51773fb3acd78fd",
+    "decimals": 18,
+    "website": "https://blockbank.ai/",
+    "description": "Experience simplicity and convenience with our all-in-one crypto neo banking app. Take control of your assets, trade, and spend funds globally in seconds.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33758/large/Fideum-token.png?1702955199"
+}

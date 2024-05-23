@@ -1,0 +1,12 @@
+{
+    "id": "hermez-network-token",
+    "name": "Hermez Network",
+    "symbol": "hez",
+    "contractAddress": "0xeef9f339514298c6a857efcfc1a762af84438dee",
+    "decimals": 18,
+    "website": "https://hermez.io/",
+    "description": "Hermez is a decentralized zk-rollup focused on scaling payments and token transfers on top of Ethereum.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12826/large/hermez_logo.png?1696512617"
+}

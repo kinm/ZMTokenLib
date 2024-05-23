@@ -1,0 +1,12 @@
+{
+    "id": "myria",
+    "name": "Myria",
+    "symbol": "myria",
+    "contractAddress": "0xa0ef786bf476fe0810408caba05e536ac800ff86",
+    "decimals": 18,
+    "website": "https://myria.com/",
+    "description": "\r\n\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29273/large/myria.png?1696528226"
+}

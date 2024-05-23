@@ -1,0 +1,12 @@
+{
+    "id": "kapital-dao",
+    "name": "KAP Games",
+    "symbol": "kap",
+    "contractAddress": "0x9625ce7753ace1fa1865a47aae2c5c2ce4418569",
+    "decimals": 18,
+    "website": "https://kap.gg/",
+    "description": "What is the KAP Games?\r\n\r\nKAP Games is a web3 gaming publisher, studio, and distributor specializing in browser and mobile-native experiences. Utilizing emerging technologies to unlock the next generation of gaming, KAP curates gaming ecosystems where diverse games, innovative projects, and vibrant communities collide. \r\n\r\nPlay 100+ web3 games for free & earn NFTs while you do it at www.kap.gg\r\n\r\n\r\nKAP Games Highlights:\r\n\r\n* 100+ listed games on www.kap.gg\r\n* KAP Studios' massively multiplayer pirate adventure game launching Q4 2023, www.capnco.gg \r\n* KAP Co-grants is a multi-chain industry-wide initiative working with all major gaming chains to accelerate web3 development for web2 studios\r\n* Support and investment from Solana, Polygon, NEAR, Algorand, YGG and other key web3 gaming leaders\r\nKAP Token Utility:\r\n\r\n* Currency for all of KAP Studios' first-party games\r\n* Most in-app purchases can be bought using $KAP at a 10% discount\r\n* Smart contract governance of key treasury and staking contracts\r\n* Liquidity staking at www.staking.kap.gg​​​​​​​",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/27682/large/KAP_Logo.png?1696526710"
+}

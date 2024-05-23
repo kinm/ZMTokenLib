@@ -1,0 +1,12 @@
+{
+    "id": "streamr-xdata",
+    "name": "Streamr XDATA",
+    "symbol": "xdata",
+    "contractAddress": "0x0cf0ee63788a0849fe5297f3407f701e122cc023",
+    "decimals": 18,
+    "website": "https://streamr.network/",
+    "description": "Streamr tokenizes streaming data to enable a new way for machines & people to trade it on a decentralised P2P network.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/1115/large/streamr.png?1696502210"
+}

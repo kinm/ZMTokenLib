@@ -1,0 +1,12 @@
+{
+    "id": "pepefork",
+    "name": "PepeFork",
+    "symbol": "pork",
+    "contractAddress": "0xb9f599ce614feb2e1bbe58f180f370d05b39344e",
+    "decimals": 18,
+    "website": "https://porkcoin.com/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/34913/large/pork.png?1706606047"
+}

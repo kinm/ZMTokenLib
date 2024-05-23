@@ -1,0 +1,12 @@
+{
+    "id": "bit2me",
+    "name": "Bit2Me",
+    "symbol": "b2m",
+    "contractAddress": "0x6e2a5ea25b161befa6a8444c71ae3a89c39933c6",
+    "decimals": 18,
+    "website": "https://bit2me.com/",
+    "description": "Receive, store, send, buy, sell, and use cryptocurrencies (such as Bitcoin or Ethereum) and traditional money easily, quickly, and securely.\r\n\r\nBank 3.0? No, this is better! The Bit2Me freedom formula is: Cryptocurrencies + Traditional Money + Debit Mastercard Cryptocard + Shared IBAN + Payments between friends + Simple Exchanges.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/19848/large/b2m-circle-solid-default.png?1696519271"
+}

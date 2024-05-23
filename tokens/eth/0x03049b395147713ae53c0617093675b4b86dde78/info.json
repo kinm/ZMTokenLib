@@ -1,0 +1,12 @@
+{
+    "id": "bobacat",
+    "name": "BobaCat",
+    "symbol": "psps",
+    "contractAddress": "0x03049b395147713ae53c0617093675b4b86dde78",
+    "decimals": 18,
+    "website": "https://www.bobacat.io/",
+    "description": "What is the project about?\r\n\r\nBobaCat (PSPS) is a cryptocurrency token created as an homage to Boba Cat, the adopted cat of Dogecoin co-founder Billy Marcus.\r\n\r\nWhat makes your project unique?\r\n\r\nTransparency\r\nAt BobaCat, we're all about being open and honest. We believe that sharing clear information about what we do is what brings our crypto community together and makes it strong.\r\n\r\nHistory of your project.\r\n\r\nBobaCat has recently transitioned to the Ethereum (ETH) network from its previous presence on the Binance Smart Chain (BSC). During this migration, the project has forged several meaningful partnerships with select pet shelters, bolstering its commitment to animal welfare. In addition, BobaCat has cultivated a vibrant and engaged community of supporters, and it has successfully established itself as a legally recognized non-profit organization.\r\n\r\nWhat’s next for your project?\r\n\r\nOur mission is to educate non-profit societies to adopt cryptocurrencies and blockchain technology to bring more transparency, reduce transaction costs, and remove third parties.\r\n\r\nWhat can your token be used for?\r\n\r\nGovernance: Token holders can participate in governance decisions, helping shape the future of the project, such as voting on proposals for partnerships, projects, or changes to the platform. BobaCat DAO: https://snapshot.org/#/bobainu.eth\r\n\r\nUtility: The token can be used for various utilities within the platform, like accessing premium features, exclusive content, or participating in special events and promotions.\r\n\r\nCharitable Contributions: As a non-profit organization, BobaCat may accept donations in the form of its native token, allowing users to contribute to animal welfare causes.\r\n\r\nTrading: The token can also be traded on various cryptocurrency exchanges, providing liquidity and the potential for investment gains.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/31777/large/cg.png?1696530595"
+}

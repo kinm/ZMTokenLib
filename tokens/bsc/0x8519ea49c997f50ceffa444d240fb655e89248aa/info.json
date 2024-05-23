@@ -1,0 +1,12 @@
+{
+    "id": "ramp",
+    "name": "RAMP [OLD]",
+    "symbol": "ramp",
+    "contractAddress": "0x8519ea49c997f50ceffa444d240fb655e89248aa",
+    "decimals": 18,
+    "website": "https://rampdefi.com/",
+    "description": "Unlocking liquid capital from staked assets - Tap into cross chain liquidity and stake farming.\r\n",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/12837/large/RAMP-Logo-v2-1000pxsq.png?1696512628"
+}

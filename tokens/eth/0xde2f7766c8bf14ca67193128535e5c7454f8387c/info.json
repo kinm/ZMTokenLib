@@ -1,0 +1,12 @@
+{
+    "id": "metadium",
+    "name": "Metadium",
+    "symbol": "meta",
+    "contractAddress": "0xde2f7766c8bf14ca67193128535e5c7454f8387c",
+    "decimals": 18,
+    "website": "https://metadium.com",
+    "description": "Metadium is a next-generation blockchain protocol designed to create a decentralized identity ecosystem. Vitalizing the concept of self-sovereign identity enables individuals to exercise total control of their own identity - managing, securing, and utilizing personal data only under the owner’s consent. Metadium aims to present a future in which one can freely and conveniently use one’s own identity data.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/5247/large/META_Logo_black.png?1696505751"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "wilder-world",
+    "name": "Wilder World",
+    "symbol": "wild",
+    "contractAddress": "0x2a3bff78b79a009976eea096a51a948a3dc00e34",
+    "decimals": 18,
+    "website": "https://www.wilderworld.com/",
+    "description": "Wilder World is a massive multiplayer metaverse powered by Ethereum, Unreal Engine 5, and ZERO. Leveraging the latest advances in real-time photorealism, virtual reality, blockchain, artificial intelligence and massive scale multiplayer technology, Wilder World creates an unparalleled experience in a fully decentralized virtual world.\r\n\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/15407/large/wld-logo.png?1712273448"
+}

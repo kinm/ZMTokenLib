@@ -1,0 +1,12 @@
+{
+    "id": "pixer-eternity",
+    "name": "Pixer Eternity",
+    "symbol": "pxt",
+    "contractAddress": "0xeb79c85c6d633ae81c97be71e1691ee7dc6e132d",
+    "decimals": 18,
+    "website": "https://pixer.club/",
+    "description": "Pixer is the first S2E (Sports To Earn) that can make money through overall sports content from games to metaverses. Users can use NFT on the Pixer platform to acquire tokens based on calorie consumption, which can be used in games and exchanges. Pixer is a sports metaverse platform for all users, including S2E, Game-Fi, NFT issuance and trading. Pixer pursues ESG management together, from a sports platform that induces a healthy lifestyle to building a fair sports ecosystem / discovering promising players / environmental management ecosystem.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/31989/large/PXT.png?1696530791"
+}

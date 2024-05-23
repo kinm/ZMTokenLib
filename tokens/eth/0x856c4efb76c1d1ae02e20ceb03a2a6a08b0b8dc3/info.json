@@ -1,0 +1,12 @@
+{
+    "id": "origin-ether",
+    "name": "Origin Ether",
+    "symbol": "oeth",
+    "contractAddress": "0x856c4efb76c1d1ae02e20ceb03a2a6a08b0b8dc3",
+    "decimals": 18,
+    "website": "https://oeth.com/",
+    "description": "Origin Ether (OETH) is a liquid staking yield aggregator on Ethereum. When staking ETH, there are various liquid staking derivatives (LSDs) to choose from, the largest being Lido, Coinbase, Rocket Pool, and Frax. OETH is an LSD aggregator that combines the yield-generating functions of the largest LSDs into one single token. OETH is permissionless, fully collateralized, self-custodial, passive, and fully transparent. There are no lock-ups or conditions required to earn yield, yield is distributed daily and automatically directly into users' wallets. Built by the team at Origin Protocol.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29733/large/OETH.png?1696528663"
+}

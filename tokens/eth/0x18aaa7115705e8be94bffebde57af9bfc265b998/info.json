@@ -1,0 +1,12 @@
+{
+    "id": "audius",
+    "name": "Audius",
+    "symbol": "audio",
+    "contractAddress": "0x18aaa7115705e8be94bffebde57af9bfc265b998",
+    "decimals": 18,
+    "website": "https://audius.co/",
+    "description": "AUDIO is the native platform token of the Audius streaming protocol. AUDIO is staked for security, feature access and governance and earned by artists, fans and node operators who drive Audius.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12913/large/AudiusCoinLogo_2x.png?1696512701"
+}

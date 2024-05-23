@@ -1,0 +1,12 @@
+{
+    "id": "karrat",
+    "name": "Karrat",
+    "symbol": "karrat",
+    "contractAddress": "0xacd2c239012d17beb128b0944d49015104113650",
+    "decimals": 18,
+    "website": "https://www.karratcoin.com/",
+    "description": "The KARRAT protocol is a decentralized gaming infrastructure layer, supported by $KARRAT and empowered by a truly decentralized community with a shared vision embracing gaming, entertainment and AI products catering for the new era.\r\n\r\nTo accelerate the evolution of gaming, entertainment, and AI-driven experiences with blockchain technology and a truly empowered community.\r\n\r\nThe KARRAT protocol pioneers a decentralized framework in gaming and entertainment, combining blockchain with community-driven collaboration. $KARRAT can animate ecosystems of games and products and the protocol makes tools available to support these industries and the adoption of KARRAT technology provides a unique, personalized gaming experience.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/37237/large/SmallLogo.png?1714755426"
+}

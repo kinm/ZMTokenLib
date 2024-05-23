@@ -1,0 +1,12 @@
+{
+    "id": "libra-incentix",
+    "name": "Libra Incentix",
+    "symbol": "lixx",
+    "contractAddress": "0x16530b5c105fcb7c50bc84a039a0a4ed806a5124",
+    "decimals": 9,
+    "website": "https://home.libraincentix.com/",
+    "description": "LIX is an innovative project aiming to revolutionize the loyalty industry through its robust blockchain-powered platform. At its core, LIXX utility token serves as the cornerstone, enabling users to access exclusive rewards, discounts, and gift vouchers.\r\n\r\nLibra Incentix is a technology company specializing in consumer loyalty. The LIX platform is the leading blockchain-based B2C Rewards Marketplace. Utility token LIXX enables ordinary shoppers to earn and freely use loyalty points.\r\n\r\n",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/31996/large/lixx.jpg?1696530797"
+}

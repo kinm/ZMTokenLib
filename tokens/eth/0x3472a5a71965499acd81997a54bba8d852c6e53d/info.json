@@ -1,0 +1,12 @@
+{
+    "id": "badger-dao",
+    "name": "Badger",
+    "symbol": "badger",
+    "contractAddress": "0x3472a5a71965499acd81997a54bba8d852c6e53d",
+    "decimals": 18,
+    "website": "https://badger.com/",
+    "description": "Badger aims to create an ecosystem of DeFi products with the ultimate goal of bringing Bitcoin into Ethereum. It is the first DeFi project that chose to focus on BTC as the main reserve asset rather than using ETH.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13287/large/badger_dao_logo.jpg?1696513059"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "tominet",
+    "name": "tomiNet",
+    "symbol": "tomi",
+    "contractAddress": "0x4385328cc4d643ca98dfea734360c0f596c83449",
+    "decimals": 18,
+    "website": "https://tomi.com/",
+    "description": "tomi is a project engaged in the development of a decentralized alternative internet network to be used as the infrastructure platform for the Web3. Governable, manageable, easy to use and unblockable.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/28730/large/logo_for_token.png?1696527710"
+}

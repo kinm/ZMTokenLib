@@ -1,0 +1,12 @@
+{
+    "id": "frax-price-index-share",
+    "name": "Frax Price Index Share",
+    "symbol": "fpis",
+    "contractAddress": "0xd1738eb733a636d1b8665f48bc8a24da889c2562",
+    "decimals": 18,
+    "website": "https://app.frax.finance/",
+    "description": "The Frax Price Index Share (FPIS) token is the governance token of the Frax Price Index (FPI) system, which is also entitled to seigniorage from the protocol. Excess yield will be directed from the treasury to FPIS holders, similar to Frax Finance's FXS structure.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/24944/large/FPIS_icon.png?1696524099"
+}

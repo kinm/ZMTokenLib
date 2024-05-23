@@ -1,0 +1,12 @@
+{
+    "id": "moon-tropica",
+    "name": "Moon Tropica",
+    "symbol": "cah",
+    "contractAddress": "0x8e0e57dcb1ce8d9091df38ec1bfc3b224529754a",
+    "decimals": 18,
+    "website": "http://moontropica.com",
+    "description": "Imagine a Zelda, Animal Crossing, South Park and Crypto mash up!\r\n\r\nMoon Tropica is inspired by our nostalgia from the games of our childhood and driven by the demands of the gaming industry today with an infusion of crypto current events and meme culture. \r\n\r\nTravel the islands, unlock special crypto current event quests, solve puzzles and conquer dungeons on your way to ever growing glory!\r\n\r\nPlayers will be able to acquire digital real estate, craft valuable items/armor, obtain/upgrade weaponry and create a business storefront for monetization purposes. \r\n\r\nThe native currency CAH will be used to buy and sell assets in the Moon Tropica metaverse.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/28470/large/MTLOGO.png?1696527464"
+}

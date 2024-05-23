@@ -1,0 +1,12 @@
+{
+    "id": "blocksquare",
+    "name": "Blocksquare",
+    "symbol": "bst",
+    "contractAddress": "0x509a38b7a1cc0dcd83aa9d06214663d9ec7c7f4a",
+    "decimals": 18,
+    "website": "https://blocksquare.io/",
+    "description": "Blocksquare token is the defi token for Blocksquare. It is a reward and governance token for the real estate defi platform Oceanpoint.fi \r\n\r\nBlocksquare have been providing companies tokenisation solutions to allow tokenisation of real estate assets since 2018. Oceanpoint allows real estate companies to use their tokenised assets to access the world of defi. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/23924/large/XpkkqPVR_400x400.jpg?1696523122"
+}

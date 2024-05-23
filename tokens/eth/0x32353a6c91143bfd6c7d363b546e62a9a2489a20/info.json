@@ -1,0 +1,12 @@
+{
+    "id": "adventure-gold",
+    "name": "Adventure Gold",
+    "symbol": "agld",
+    "contractAddress": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20",
+    "decimals": 18,
+    "website": "https://www.lootproject.com/",
+    "description": "Loot is randomized adventurer gear generated and stored on chain. Stats, images, and other functionality are intentionally omitted for others to interpret.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/18125/large/lpgblc4h_400x400.jpg?1696517628"
+}

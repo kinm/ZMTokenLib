@@ -1,0 +1,12 @@
+{
+    "id": "vega-protocol",
+    "name": "Vega Protocol",
+    "symbol": "vega",
+    "contractAddress": "0xcb84d72e61e383767c4dfeb2d8ff7f4fb89abc6e",
+    "decimals": 18,
+    "website": "https://vega.xyz/",
+    "description": "Vega is a proof-of-stake blockchain, built on top of Tendermint, which makes it possible to trade derivatives on a decentralised network with comparable experience to centralised exchanges.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/15870/large/vega.PNG?1696515485"
+}

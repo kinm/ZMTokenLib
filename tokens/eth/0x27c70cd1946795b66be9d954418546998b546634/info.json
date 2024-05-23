@@ -1,0 +1,12 @@
+{
+    "id": "leash",
+    "name": "Doge Killer",
+    "symbol": "leash",
+    "contractAddress": "0x27c70cd1946795b66be9d954418546998b546634",
+    "decimals": 18,
+    "website": "https://www.shibatoken.com/",
+    "description": "$LEASH is the second token in the Shiba Inu Ecosystem. It was originally envisioned to be a rebase token tied to the price of DogeCoin. Later, it was decided that Leash would turn off the rebase function (the keys to allow rebase were burnt to ensure this) and continue as a simple ERC-20 Token. \r\n\r\nThough simple, the fact that LEASH’s tokenomics are the polar opposite of SHIB makes it even more intriguing. \r\n\r\nSHIB was made to have an enormous supply of (1 quadrillion tokens) with half locked away, whereas the supply of Leash is only 107,647 minted tokens. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/15802/large/Leash.png?1696515425"
+}

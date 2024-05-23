@@ -1,0 +1,12 @@
+{
+    "id": "bifrost",
+    "name": "Bifrost",
+    "symbol": "bfc",
+    "contractAddress": "0x0c7d5ae016f806603cb1782bea29ac69471cab9c",
+    "decimals": 18,
+    "website": "https://www.bifrostnetwork.com/",
+    "description": "Bifrost Token (BFC) is the currency of the DApps in the Bifrost Multichain Ecosystem. Developers pay BFC for using the multichain middleware to develop and operate their DApps.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/4639/large/BFC_Symbol.png?1696505208"
+}

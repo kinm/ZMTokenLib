@@ -1,0 +1,12 @@
+{
+    "id": "coinmetro",
+    "name": "Coinmetro",
+    "symbol": "xcm",
+    "contractAddress": "0x36ac219f90f5a6a3c77f2a7b660e3cc701f68e25",
+    "decimals": 18,
+    "website": "https://coinmetro.com/",
+    "description": "CoinMetro, a one-of-a-kind, licensed, and regulated financial platform that will fuel the future of blockchain innovation. Through a tokenized ecosystem CoinMetro provides a gateway for both novice and professional traders and investors to get involved in the crypto space with an ease of access not yet seen in the industry. Our goal, above all else, is to make sure that your overall CoinMetro experience is nothing short of exemplary.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/3125/large/XCM_Token_Logo_.png?1696503850"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "dextools",
+    "name": "DexTools",
+    "symbol": "dext",
+    "contractAddress": "0xe91a8d2c584ca93c7405f15c22cdfe53c29896e3",
+    "decimals": 18,
+    "website": "https://www.dextools.io/",
+    "description": "DexTools is a trading assistant focused on Decentraliced exchanges.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/11603/large/dext.png?1696511498"
+}

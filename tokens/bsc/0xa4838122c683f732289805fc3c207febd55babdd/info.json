@@ -1,0 +1,12 @@
+{
+    "id": "trias-token",
+    "name": "TriasLab",
+    "symbol": "trias",
+    "contractAddress": "0xa4838122c683f732289805fc3c207febd55babdd",
+    "decimals": 18,
+    "website": "https://www.trias.one/",
+    "description": "Trustworthy and Reliable Intelligent Autonomous Systems\r\n\r\nAn all-platform-supported (Server, PC, Mobile, IoT, etc.) native-application-compatible smart contract execution platform, development framework and collaborating ecosystem. TRIAS aims to define a new-generation all-platform-supported public chain system. Trustworthy and Reliable Intelligent Autonomous Systems make people trust in machines.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/13963/large/5ELqtwp__400x400_%281%29.jpg?1696513699"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "alephium",
+    "name": "Alephium",
+    "symbol": "alph",
+    "contractAddress": "0x590f820444fa3638e022776752c5eef34e2f89a6",
+    "decimals": 18,
+    "website": "https://alephium.org",
+    "description": "Alephium is the first operational sharded blockchain bringing scalability, ETH-inspired smart contracts, and dApps capabilities to Bitcoin's proven core technologies while ensuring better performance and improved energy efficiency.\r\n\r\nFrom its technical design to its interfaces, Alephium has been created to address the challenges of accessibility, scalability, and security encountered by decentralized applications today.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/21598/large/Alephium-Logo_200x200_listing.png?1696520959"
+}

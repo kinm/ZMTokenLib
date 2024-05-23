@@ -1,0 +1,12 @@
+{
+    "id": "victoria-vr",
+    "name": "Victoria VR",
+    "symbol": "vr",
+    "contractAddress": "0x7d5121505149065b562c789a0145ed750e6e8cdd",
+    "decimals": 18,
+    "website": "https://victoriavr.com/",
+    "description": "Victoria VR is the first blockchain-based MMORPG in virtual reality with realistic graphics built on the Unreal Engine, created and owned by its users. Victoria VR aims to create a new Metaverse of multi-dimensional interactions where users will be able to immerse themselves interactively with never-ending digital content.The whole world is built to be a universal platform for all virtual realities, games, and decentralized applications, collectively creating a Metaverse — a shared virtual realm, the 3D internet. The Victoria VR Metaverse will be where people go to work, rest, learn, play and eventually live.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/21178/large/vr.png?1696520554"
+}

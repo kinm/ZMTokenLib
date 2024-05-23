@@ -1,0 +1,12 @@
+{
+    "id": "stratos",
+    "name": "Stratos",
+    "symbol": "stos",
+    "contractAddress": "0x08c32b0726c5684024ea6e141c50ade9690bbdcc",
+    "decimals": 18,
+    "website": "https://www.thestratos.org/",
+    "description": "Stratos is the next generation of decentralized Data Mesh that provides scalable, reliable, self-balanced storage, database, and computation network. Stratos is born for scaling blockchain process capacity while retaining the decentralized benefits of a distributed protocol including trustless, traceability, verifiability, privacy and etc.\r\n\r\nStratos is best positioned to support data storage and adoption for developers and users in this ever-expanding digital economy. Stratos strives to make decentralized data adoption easier for the blockchain industry and Web 3.0.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/16213/large/token_512x512.png?1696515814"
+}

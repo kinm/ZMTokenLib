@@ -1,0 +1,12 @@
+{
+    "id": "cornucopias",
+    "name": "Cornucopias",
+    "symbol": "copi",
+    "contractAddress": "0x42baf1f659d765c65ade5bb7e08eb2c680360d9d",
+    "decimals": 18,
+    "website": "https://www.cornucopias.io/",
+    "description": "Cornucopias 'The Island' is a massive Play-To-Earn, Build-To-Earn, and Learn-To-Earn blockchain based game where players can be rewarded with and/or own land, properties and other NFT based assets with real world value all by playing games in a fun and safe metaverse.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/21452/large/g56WwJDA_400x400.jpg?1696520814"
+}

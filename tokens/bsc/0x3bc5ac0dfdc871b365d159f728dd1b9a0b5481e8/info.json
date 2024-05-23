@@ -1,0 +1,12 @@
+{
+    "id": "stader",
+    "name": "Stader",
+    "symbol": "sd",
+    "contractAddress": "0x3bc5ac0dfdc871b365d159f728dd1b9a0b5481e8",
+    "decimals": 18,
+    "website": "https://staderlabs.com/",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/20658/large/SD_Token_Logo.png?1696520060"
+}

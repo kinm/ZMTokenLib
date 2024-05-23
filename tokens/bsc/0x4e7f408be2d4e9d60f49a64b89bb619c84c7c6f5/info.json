@@ -1,0 +1,12 @@
+{
+    "id": "perpetual-protocol",
+    "name": "Perpetual Protocol",
+    "symbol": "perp",
+    "contractAddress": "0x4e7f408be2d4e9d60f49a64b89bb619c84c7c6f5",
+    "decimals": 18,
+    "website": "https://app.perp.com",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/12381/large/60d18e06844a844ad75901a9_mark_only_03.png?1696512205"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "qna3-ai",
+    "name": "QnA3.AI",
+    "symbol": "gpt",
+    "contractAddress": "0x30842a9c941d9de3af582c41ad12b11d776ba69e",
+    "decimals": 18,
+    "website": "https://qna3.ai",
+    "description": " AI + DePIN Knowledge Platform",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/36021/large/K2_1024.png?1710345392"
+}

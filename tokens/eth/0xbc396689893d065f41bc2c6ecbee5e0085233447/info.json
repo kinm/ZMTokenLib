@@ -1,0 +1,12 @@
+{
+    "id": "perpetual-protocol",
+    "name": "Perpetual Protocol",
+    "symbol": "perp",
+    "contractAddress": "0xbc396689893d065f41bc2c6ecbee5e0085233447",
+    "decimals": 18,
+    "website": "https://app.perp.com",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12381/large/60d18e06844a844ad75901a9_mark_only_03.png?1696512205"
+}

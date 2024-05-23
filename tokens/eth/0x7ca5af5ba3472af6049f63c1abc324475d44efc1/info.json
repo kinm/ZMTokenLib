@@ -1,0 +1,12 @@
+{
+    "id": "kondux-v2",
+    "name": "KONDUX",
+    "symbol": "kndx",
+    "contractAddress": "0x7ca5af5ba3472af6049f63c1abc324475d44efc1",
+    "decimals": 9,
+    "website": "https://kondux.info/",
+    "description": "We build SaaS integration solutions that act as a conduit merging creativity and blockchain technology together. A 3D studio we build Metaverse NFT Assets, NFT Marketplace, AR/VR/XR Environments, GameFi and Manufacturing Applications.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/28244/large/kndx.png?1696527247"
+}

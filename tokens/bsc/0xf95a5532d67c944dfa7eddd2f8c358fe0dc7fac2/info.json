@@ -1,0 +1,12 @@
+{
+    "id": "marblex",
+    "name": "Marblex",
+    "symbol": "mbx",
+    "contractAddress": "0xf95a5532d67c944dfa7eddd2f8c358fe0dc7fac2",
+    "decimals": 18,
+    "website": "https://marblex.io",
+    "description": "In terms of usage, the MBX token is used within the MARBLEX ecosystem where users encounter key ecosystem creators mostly around game tokens and MBX tokens. Key parties are publishers, game developers, and service providers. With the introduction of the MARBLEx token system, to the existing gaming business ecosystem, the role of a service provider was added. Within the game token structure enabled by the service provider, users can experience not only quality content provided by publishers and developers but the token economy based thereon. While playing games, users will have opportunities for profit-generating activities.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/24423/large/AgYzKzLt_400x400.jpg?1696523604"
+}

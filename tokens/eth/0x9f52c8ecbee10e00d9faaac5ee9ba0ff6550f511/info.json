@@ -1,0 +1,12 @@
+{
+    "id": "sipher",
+    "name": "SIPHER",
+    "symbol": "sipher",
+    "contractAddress": "0x9f52c8ecbee10e00d9faaac5ee9ba0ff6550f511",
+    "decimals": 18,
+    "website": "https://sipher.xyz/",
+    "description": "Sipher Odyssey - A cross-platform action RPG with a TCG Rogue-lite twist.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/21070/large/SipherToken.png?1696520453"
+}

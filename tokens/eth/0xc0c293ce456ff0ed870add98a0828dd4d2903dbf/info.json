@@ -1,0 +1,12 @@
+{
+    "id": "aura-finance",
+    "name": "Aura Finance",
+    "symbol": "aura",
+    "contractAddress": "0xc0c293ce456ff0ed870add98a0828dd4d2903dbf",
+    "decimals": 18,
+    "website": "https://aura.finance",
+    "description": "Centered around Balancer’s veBAL, Aura coordinates incentives around vote-escrowed tokens to boost yield potential and governance power of DeFi liquidity providers, governance token stakers and voters.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/25942/large/logo.png?1696525021"
+}

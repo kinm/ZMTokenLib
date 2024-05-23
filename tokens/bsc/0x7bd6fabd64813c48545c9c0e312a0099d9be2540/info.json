@@ -1,0 +1,12 @@
+{
+    "id": "dogelon-mars",
+    "name": "Dogelon Mars",
+    "symbol": "elon",
+    "contractAddress": "0x7bd6fabd64813c48545c9c0e312a0099d9be2540",
+    "decimals": 18,
+    "website": "https://dogelonmars.com/",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/14962/large/6GxcPRo3_400x400.jpg?1696514622"
+}

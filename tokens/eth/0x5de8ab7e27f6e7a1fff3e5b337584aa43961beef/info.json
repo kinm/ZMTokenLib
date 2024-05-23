@@ -1,0 +1,12 @@
+{
+    "id": "smardex",
+    "name": "SmarDex",
+    "symbol": "sdex",
+    "contractAddress": "0x5de8ab7e27f6e7a1fff3e5b337584aa43961beef",
+    "decimals": 18,
+    "website": "https://smardex.io/",
+    "description": "SDEX is the token from the first DEX on the planet to fix Impermanent Loss. It is explained in a scientific paper here: https://www.academia.edu/98332701/The_SMARDEX_Protocol_A_Novel_Solution_to_Impermanent_Loss_in_Decentralized_Finance",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29470/large/SDEX_logo_transparent_outside_240x240.png?1696930070"
+}

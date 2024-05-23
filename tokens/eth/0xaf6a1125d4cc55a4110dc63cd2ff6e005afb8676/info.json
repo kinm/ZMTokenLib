@@ -1,0 +1,12 @@
+{
+    "id": "punk-2",
+    "name": "PunkCity",
+    "symbol": "punk",
+    "contractAddress": "0xaf6a1125d4cc55a4110dc63cd2ff6e005afb8676",
+    "decimals": 18,
+    "website": "https://tonpunks.org/",
+    "description": "What is the project about?\r\nDecentralised gaming ecosystem \r\n\r\nWhat makes your project unique?\r\nDirect telegram integration of gamefi products in Telegram\r\n\r\nHistory of your project.\r\nLaunched in 2022 with successful NFT collection with total volume arround 3 million usd. From this moment team started building gamefi ecosystem. After gaining traction and testing models, token $punk was launched. It’s serves as universal ecosystem token. \r\n\r\nWhat’s next for your project?\r\nLaunching new games in our ecosystem. \r\n\r\nWhat can your token be used for?\r\nFor PVP battles, for buying in game web 3 assets and repairing them. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/31049/large/F4FDA24D-1B29-4CBB-8346-854D1BFFE75A.png?1696529883"
+}

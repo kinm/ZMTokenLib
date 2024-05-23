@@ -1,0 +1,12 @@
+{
+    "id": "kenshi-2",
+    "name": "Kenshi",
+    "symbol": "kns",
+    "contractAddress": "0xf1264873436a0771e440e2b28072fafcc5eebd01",
+    "decimals": 18,
+    "website": "https://kenshi.io",
+    "description": "Kenshi delivers a versatile and user-friendly platform for crafting tailor-made blockchain solutions. Featuring the Kenshi Deep Index, the Kenshi Custom Oracle Network, the Kenshi Blockchain IoT SDK, and a low-code ecosystem, Kenshi facilitates seamless interaction between Web 2.0 and Web 3.0 data.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/30759/large/kenshi.jpg?1696529628"
+}

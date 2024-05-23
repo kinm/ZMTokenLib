@@ -1,0 +1,12 @@
+{
+    "id": "katana-inu",
+    "name": "Katana Inu",
+    "symbol": "kata",
+    "contractAddress": "0x6d6ba21e4c4b29ca7bfa1c344ba1e35b8dae7205",
+    "decimals": 18,
+    "website": "https://katanainu.com/",
+    "description": "Katana Inu is a play2earn metaverse NFT-Game in an interactive openworld - All skins and weapons are NFTs. A project that focuses on driving Gaming & NFT crypto innovation through its innovative game offerings with auto staking in in-game reward method.\r\n\r\nIn our game the players can fight for NFTs wich will be airdroped in the game, and can be sold at the marketplace or the player can wear it in the game. The best players in the game per round will earn rewards.\r\n\r\nKatana Inu is one of its own kind project using Defi protocols to provide its users with the best gaming experience in the blockchain space with its PC-Graphics game which is an open world Battle royal with NFTs.\r\n\r\nKatana Inu game, all in-game items will be NFTs it will be, play2earn with free2play for all in an open world map team vs team or 1 vs all to increase the awareness of the NFTs around the world.\r\n\r\nKatana Inu also Provide its user's an NFT-marketplace on layer 2 solutions on Eth which allows artist from around the world to mint their NFTs with 0% of the Gas fee.\r\n\r\nKatana Inu will also allow other games to integrate with its NFT-Marketplace and use NFTs as their in-game items.\r\n\r\nKatana Inu also use Defi protocols to allow its users with high Apy with its staking mainnet.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/21872/large/Katana_Inu512.png?1696521226"
+}

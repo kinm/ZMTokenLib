@@ -1,0 +1,12 @@
+{
+    "id": "seamless-protocol",
+    "name": "Seamless Protocol",
+    "symbol": "seam",
+    "contractAddress": "0x6b66ccd1340c479b07b390d326eadcbb84e726ba",
+    "decimals": 18,
+    "website": "https://www.seamlessprotocol.com/",
+    "description": "SEAM is the governance token of Seamless Protocol, the first decentralized, native lending and borrowing protocol on Base.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33480/large/Seamless_Logo_Black_Transparent.png?1702019657"
+}

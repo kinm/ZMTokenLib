@@ -1,0 +1,12 @@
+{
+    "id": "phoenix-global",
+    "name": "Phoenix",
+    "symbol": "phb",
+    "contractAddress": "0x0409633a72d846fc5bbe2f98d88564d35987904d",
+    "decimals": 18,
+    "website": "https://www.phoenix.global/",
+    "description": "Phoenix is a Layer 1 and Layer 2 blockchain infrastructure, empowering intelligent Web3 applications, focusing on the next generation of AI & Privacy-Enabled Web3 Apps. Phoenix (PHB) is a cryptocurrency and operates on the BNB Smart Chain (BEP20) platform.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/20052/large/Phoenix_logo_blue_bird.png?1696519471"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "kujira",
+    "name": "Kujira",
+    "symbol": "kuji",
+    "contractAddress": "0x96543ef8d2c75c26387c1a319ae69c0bee6f3fe7",
+    "decimals": 6,
+    "website": "https://kujira.app/",
+    "description": "Kujira is committed to levelling the playing field in decentralized finance by building dApps for regular crypto users.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/20685/large/kuji-200x200.png?1696520085"
+}

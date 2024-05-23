@@ -1,0 +1,12 @@
+{
+    "id": "turbo",
+    "name": "Turbo",
+    "symbol": "turbo",
+    "contractAddress": "0xa35923162c49cf95e6bf26623385eb431ad920d3",
+    "decimals": 18,
+    "website": "https://turbotoken.io",
+    "description": "This first memecoin ever created completely by AI.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/30117/large/TurboMark-QL_200.png?1708079597"
+}

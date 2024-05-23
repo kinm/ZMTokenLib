@@ -1,0 +1,12 @@
+{
+    "id": "across-protocol",
+    "name": "Across Protocol",
+    "symbol": "acx",
+    "contractAddress": "0x44108f0223a3c3028f5fe7aec7f9bb2e66bef82f",
+    "decimals": 18,
+    "website": "https://across.to/",
+    "description": "Across is an optimistic cross-chain bridge secured by UMA’s optimistic oracle. It is optimized for capital efficiency with a single liquidity pool, a competitive relayer landscape, and a no-slippage fee model. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/28161/large/across-200x200.png?1696527165"
+}

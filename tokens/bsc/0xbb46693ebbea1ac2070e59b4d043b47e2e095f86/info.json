@@ -1,0 +1,12 @@
+{
+    "id": "bfg-token",
+    "name": "BFG Token",
+    "symbol": "bfg",
+    "contractAddress": "0xbb46693ebbea1ac2070e59b4d043b47e2e095f86",
+    "decimals": 18,
+    "website": "https://betfury.com",
+    "description": "BFG is the native BEP-20 token of the BetFury ecosystem, initially launched on the Binance Smart Chain network. The number of BFG supporters has surpassed 67,000 token holders. \r\n\r\nBFG holders can trade, play, stake BFG, and be rewarded with the highest APRs, discounts, and bonuses based on their token holdings. In addition, the BFG token can be used to earn on exchanges such as PancakeSwap and Biswap.\r\n\r\nWhile benefiting from BFG on the platform and beyond, the token is being secured by strong CertiK. It ensures BFG's safety by thoroughly examining its smart contract code. ",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/18108/large/BFG_token.png?1716431148"
+}

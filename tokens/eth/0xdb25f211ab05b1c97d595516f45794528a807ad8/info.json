@@ -1,0 +1,12 @@
+{
+    "id": "stasis-eurs",
+    "name": "STASIS EURO",
+    "symbol": "eurs",
+    "contractAddress": "0xdb25f211ab05b1c97d595516f45794528a807ad8",
+    "decimals": 2,
+    "website": "https://stasis.net/",
+    "description": "EURS token is a virtual financial asset that is designed to digitally mirror the EURO on the condition that its value is tied to the value of its collateral.\r\n\r\nDownload STASIS Stablecoin wallet: Android: https://play.google.com/store/apps/details?id=com.stasis.stasiswallet iOS: https://itunes.apple.com/app/stasis-wallet/id1371949230",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/5164/large/EURS_300x300.png?1696505680"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "tokenfi",
+    "name": "TokenFi",
+    "symbol": "token",
+    "contractAddress": "0x4507cef57c46789ef8d1a19ea45f4216bae2b528",
+    "decimals": 9,
+    "website": "https://tokenfi.com",
+    "description": "TokenFi aims to simplify the crypto and asset tokenization process and eventually become the foremost tokenization platform in the world.\r\n\r\nThe tokenization industry is projected to be a $16 trillion industry by the year 2030. BlackRock, the world’s biggest institutional investor with $10 trillion of assets under management, strongly believes in the industry’s potential, which they call \"the next evolution in markets”.\r\n\r\nTokenFi is launched by the highly experienced and connected Floki team that launched the popular Floki token that went to an ATH valuation of $3.5 billion. They will be leveraging this same experience to make TokenFi the number one tokenization platform in the industry.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/32507/large/MAIN_TokenFi_logo_icon.png?1698918427"
+}

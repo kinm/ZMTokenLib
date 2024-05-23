@@ -1,0 +1,12 @@
+{
+    "id": "stakewise-v3-oseth",
+    "name": "StakeWise Staked ETH",
+    "symbol": "oseth",
+    "contractAddress": "0xf1c9acdc66974dfb6decb12aa385b9cd01190e38",
+    "decimals": 18,
+    "website": "https://stakewise.io",
+    "description": "Staked ETH (osETH) is the liquid staking token of StakeWise V3, a second-generation liquid staking protocol. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33117/large/Frame_27513839.png?1700732599"
+}

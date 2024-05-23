@@ -1,0 +1,12 @@
+{
+    "id": "uwu-lend",
+    "name": "UwU Lend",
+    "symbol": "uwu",
+    "contractAddress": "0x55c08ca52497e2f1534b59e2917bf524d4765257",
+    "decimals": 18,
+    "website": "https://www.uwulend.fi/",
+    "description": "UwU Lend is a liquidity market that offers depositing and borrowing. Users earn interest on deposits and pay interest to borrow. This provides the ability to free capital against assets users are planning to hold for utilization in other investments, leveraging, or expenses. Outstanding loans have more collateral backing them than debt, known as overcollateralization. This eliminates risk of non-payment for depositors. The UwU treasury earns a small amount of fees to cover bad debt in the event of extreme volatility. Borrowers do not have a repayment schedule with no limit on loan duration.\r\nUwU Lend is non-custodial; no user funds can be seized by the protocol.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/27408/large/uwu_logo_no-bg_1024.png?1696526449"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "vanar-chain",
+    "name": "Vanar Chain",
+    "symbol": "vanry",
+    "contractAddress": "0x8de5b80a0c1b02fe4976851d030b36122dbb8624",
+    "decimals": 18,
+    "website": "https://vanarchain.com",
+    "description": "Vanar, a L1 designed from the ground up, builds upon our technological expertise to foster practical real-world adoption. Drawing upon years of experience working with the gaming, entertainment, and brand sectors, our primary focus is on ushering billions of consumers into the world of web3.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
+}

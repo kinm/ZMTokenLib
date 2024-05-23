@@ -1,0 +1,12 @@
+{
+    "id": "streamr",
+    "name": "Streamr",
+    "symbol": "data",
+    "contractAddress": "0x0864c156b3c5f69824564dec60c629ae6401bf2a",
+    "decimals": 18,
+    "website": "https://streamr.network/",
+    "description": "Streamr is building decentralized infrastructure for real-time data. Our goal is to enable data to be transported, shared, and monetised securely and scalably without intermediaries. By facilitating new types of data pipelines and ecosystems, we support and accelerate the birth of the Web 3.0, in which decentralized applications can securely exchange data and value.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/17869/large/DATA_new_symbol_3x.png?1696517392"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "stader",
+    "name": "Stader",
+    "symbol": "sd",
+    "contractAddress": "0x30d20208d987713f46dfd34ef128bb16c404d10f",
+    "decimals": 18,
+    "website": "https://staderlabs.com/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/20658/large/SD_Token_Logo.png?1696520060"
+}

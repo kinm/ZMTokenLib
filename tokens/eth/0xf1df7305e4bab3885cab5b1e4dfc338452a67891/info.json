@@ -1,0 +1,12 @@
+{
+    "id": "palm-ai",
+    "name": "PaLM AI",
+    "symbol": "palm",
+    "contractAddress": "0xf1df7305e4bab3885cab5b1e4dfc338452a67891",
+    "decimals": 9,
+    "website": "https://palmai.tech/",
+    "description": "The definitive LLM-based AI chatbot. Tech powered by Google's PaLM, brought to you by the $PALM team 🌴",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33097/large/PalmProfile01Artboard_6_2x.png?1703862864"
+}

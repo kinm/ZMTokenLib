@@ -1,0 +1,12 @@
+{
+    "id": "origin-protocol",
+    "name": "Origin Protocol",
+    "symbol": "ogn",
+    "contractAddress": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+    "decimals": 18,
+    "website": "http://www.originprotocol.com",
+    "description": "OGN is the governance and value accrual token for Origin Story. Origin Story is a full-service NFT platform and launchpad. Origin has hosted and launched some of the largest primary sales in history, including a $11.7m sale by 3LAU which is the largest music NFT sale to date.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/3296/large/op.jpg?1696504006"
+}

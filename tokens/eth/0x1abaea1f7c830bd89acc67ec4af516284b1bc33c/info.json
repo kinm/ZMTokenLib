@@ -1,0 +1,12 @@
+{
+    "id": "euro-coin",
+    "name": "EURC",
+    "symbol": "eurc",
+    "contractAddress": "0x1abaea1f7c830bd89acc67ec4af516284b1bc33c",
+    "decimals": 6,
+    "website": "https://www.circle.com",
+    "description": "Euro Coin is a stablecoin issued by Circle under the same reserve model as USD Coin (USDC). It is designed to be stable and 100% backed by euros held in euro denominated banking accounts. An Euro Coin (EUROC) will be redeemable 1:1 for the euro currency.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/26045/large/euro.png?1696525125"
+}

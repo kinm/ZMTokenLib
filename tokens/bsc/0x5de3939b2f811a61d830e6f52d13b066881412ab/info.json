@@ -1,0 +1,12 @@
+{
+    "id": "proton",
+    "name": "XPR Network",
+    "symbol": "xpr",
+    "contractAddress": "0x5de3939b2f811a61d830e6f52d13b066881412ab",
+    "decimals": 4,
+    "website": "https://xprnetwork.org",
+    "description": "Launched in San Francisco, Proton (XPR) is a new public blockchain and smart contract platform designed for both consumer applications and peer-peer payments. It is built around a secure identity and financial settlements layer that allows users to directly link real identity and fiat accounts, pull funds and buy crypto, and use that crypto seamlessly in apps.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/10941/large/XPR.jpg?1696510891"
+}

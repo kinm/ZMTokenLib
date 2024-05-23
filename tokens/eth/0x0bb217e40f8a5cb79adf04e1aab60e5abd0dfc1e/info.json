@@ -1,0 +1,12 @@
+{
+    "id": "swftcoin",
+    "name": "SWFTCOIN",
+    "symbol": "swftc",
+    "contractAddress": "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e",
+    "decimals": 8,
+    "website": "https://www.swftblockchain.ai",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/2346/large/SWFTCoin.jpg?1696503223"
+}

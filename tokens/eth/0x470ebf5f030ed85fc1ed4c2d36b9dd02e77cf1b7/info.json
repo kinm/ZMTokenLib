@@ -1,0 +1,12 @@
+{
+    "id": "temple",
+    "name": "TempleDAO",
+    "symbol": "temple",
+    "contractAddress": "0x470ebf5f030ed85fc1ed4c2d36b9dd02e77cf1b7",
+    "decimals": 18,
+    "website": "https://www.templedao.link/rituals",
+    "description": "TempleDAO is designed on strong principles: building the Temple for the long-term, community first and fairly in all aspects, and prioritising stable wealth creation. Our innovative mechanics including safe minting, intrinsic value backed rewards, safe harvest, price defence incentives, and exit queue.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/20040/large/LPK15ZOW_400x400.jpg?1696519459"
+}

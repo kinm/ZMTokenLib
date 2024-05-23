@@ -1,0 +1,12 @@
+{
+    "id": "unlend-finance",
+    "name": "UniLend Finance",
+    "symbol": "uft",
+    "contractAddress": "0x2645d5f59d952ef2317c8e0aaa5a61c392ccd44d",
+    "decimals": 18,
+    "website": "https://unilend.finance/",
+    "description": "UniLend is a permission-less DeFi protocol that combines spot trading services and lending/borrowing functionality within the same platform. Whereas current DeFi protocols support only ~30 assets, anyone can list any ERC20 asset on UniLend for decentralized trading and lending/borrowing. UFT token is UniLend's native governance token; holders of UFT can create proposals for, and vote on, a number of factors relating to the functioning of the protocol.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/12819/large/UniLend_Finance_logo_PNG.png?1696512611"
+}

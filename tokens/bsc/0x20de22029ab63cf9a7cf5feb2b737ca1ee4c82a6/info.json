@@ -1,0 +1,12 @@
+{
+    "id": "tranchess",
+    "name": "Tranchess",
+    "symbol": "chess",
+    "contractAddress": "0x20de22029ab63cf9a7cf5feb2b737ca1ee4c82a6",
+    "decimals": 18,
+    "website": "https://tranchess.com/",
+    "description": "Tranchess is a tokenized asset management and derivatives trading protocol. Inspired by tranche funds that cater to investors with different risk appetite, Tranchess aims to provide a different risk/return matrix out of a single main fund that tracks a specific underlying asset (e.g.BTC). The main tranche can be split into two sub-tranches with their own distinct risk return profile.\r\nTranchess Protocol is not a standalone  asset management ecosystem, but encompasses all features one can find in the DeFi space. It is a one-stop centre for those that wants to enjoy popular DeFi features- such as single-asset yield farming, borrowing & lending, trading, etc..",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/16964/large/logo_transparent_bg_200x200.png?1696516530"
+}

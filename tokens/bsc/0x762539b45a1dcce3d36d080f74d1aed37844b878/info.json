@@ -1,0 +1,12 @@
+{
+    "id": "linear",
+    "name": "Linear",
+    "symbol": "lina",
+    "contractAddress": "0x762539b45a1dcce3d36d080f74d1aed37844b878",
+    "decimals": 18,
+    "website": "https://linear.finance",
+    "description": "A Cross-chain Decentralized Delta-One Asset Protocol with Unlimited Liquidity.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/12509/large/1649227343-linalogo200px.png?1696512324"
+}

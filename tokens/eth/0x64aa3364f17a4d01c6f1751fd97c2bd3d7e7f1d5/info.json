@@ -1,0 +1,12 @@
+{
+    "id": "olympus",
+    "name": "Olympus",
+    "symbol": "ohm",
+    "contractAddress": "0x64aa3364f17a4d01c6f1751fd97c2bd3d7e7f1d5",
+    "decimals": 9,
+    "website": "https://olympusdao.finance/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14483/large/token_OHM_%281%29.png?1696514169"
+}

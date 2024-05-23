@@ -1,0 +1,12 @@
+{
+    "id": "barnbridge",
+    "name": "BarnBridge",
+    "symbol": "bond",
+    "contractAddress": "0x0391d2021f89dc339f60fff84546ea23e337750f",
+    "decimals": 18,
+    "website": "https://barnbridge.com/",
+    "description": "A Cross Platform Protocol for Tokenizing Risk.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12811/large/barnbridge.jpg?1696512604"
+}

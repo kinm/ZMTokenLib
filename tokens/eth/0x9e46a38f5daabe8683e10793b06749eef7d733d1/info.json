@@ -1,0 +1,12 @@
+{
+    "id": "polyswarm",
+    "name": "PolySwarm",
+    "symbol": "nct",
+    "contractAddress": "0x9e46a38f5daabe8683e10793b06749eef7d733d1",
+    "decimals": 18,
+    "website": "https://polyswarm.io/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/2843/large/ImcYCVfX_400x400.jpg?1696503602"
+}

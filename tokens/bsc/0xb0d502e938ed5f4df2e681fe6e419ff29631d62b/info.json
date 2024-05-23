@@ -1,0 +1,12 @@
+{
+    "id": "stargate-finance",
+    "name": "Stargate Finance",
+    "symbol": "stg",
+    "contractAddress": "0xb0d502e938ed5f4df2e681fe6e419ff29631d62b",
+    "decimals": 18,
+    "website": "https://stargate.finance/",
+    "description": "A composable native asset bridge with unified liquidity and instant guaranteed finality",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/24413/large/STG_LOGO.png?1696523595"
+}

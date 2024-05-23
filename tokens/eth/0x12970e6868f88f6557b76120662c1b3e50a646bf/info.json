@@ -1,0 +1,12 @@
+{
+    "id": "milady-meme-coin",
+    "name": "Milady Meme Coin",
+    "symbol": "ladys",
+    "contractAddress": "0x12970e6868f88f6557b76120662c1b3e50a646bf",
+    "decimals": 18,
+    "website": "https://milady.gg",
+    "description": "$LADYS coin has no association with Charlotte Fang or her creation Milady Maker. This token is simply paying homage to a meme we all love and recognize.\r\n\r\n$LADYS is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin is completely useless and for entertainment purposes only.\r\n\r\nThe project was initiated on 05 May 2023 and the contract was deployed on 07 May 2023.\r\n\r\nThe project will be launching a dapp on the official website for all holders of PEPE tokens and Milady Maker NFTs to claim $LADYS.\r\n\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/30194/large/logo.png?1696529109"
+}

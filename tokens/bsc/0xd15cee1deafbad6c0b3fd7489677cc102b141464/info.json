@@ -1,0 +1,12 @@
+{
+    "id": "circuits-of-value",
+    "name": "Circuits of Value",
+    "symbol": "coval",
+    "contractAddress": "0xd15cee1deafbad6c0b3fd7489677cc102b141464",
+    "decimals": 8,
+    "website": "https://emblem.pro",
+    "description": "Emblem Vault is the NFT platform that enables cross-chain transfers of any digital asset, and $COVAL is the fuel that powers it all!\r\n",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/588/large/coval-logo.png?1696501792"
+}

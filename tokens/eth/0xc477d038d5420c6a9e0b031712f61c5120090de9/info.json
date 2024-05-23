@@ -1,0 +1,12 @@
+{
+    "id": "boson-protocol",
+    "name": "Boson Protocol",
+    "symbol": "boson",
+    "contractAddress": "0xc477d038d5420c6a9e0b031712f61c5120090de9",
+    "decimals": 18,
+    "website": "http://bosonprotocol.io",
+    "description": "Web3's Decentralised Commerce Layer.\r\n\r\nSell physical things as redeemable NFTs, everywhere, online, in-game, and in-verse.\r\n\r\nWe have solved the hard tech problems of tokenizing and twinning physical items, so you can focus on creating innovative Web3 commerce experiences for your customers.\r\n\r\n\"Our no-code, low-cost tools make it easy to tokenize and sell physical products as NFTs everywhere, including your own Web3 store, the Metaverse, or on NFT marketplaces.\r\nRedemption can be integrated into your own website, giving your brand full control of the customer experience.\"\r\n\r\nWith Boson, you can create phygital assets and token-gate purchases, allowing you to effortlessly develop engaging and rewarding digi-physical commerce experiences.\r\n\r\nBuyers can redeem the NFT for the physical with the assurance that either they will receive the item or their money back- all without the need to trust intermediaries or sellers, just code and independent dispute resolvers. Alternatively, Buyers can transfer, gift, trade, or hold the NFT - just like any other NFT.\r\n\r\nBoson is a groundbreaking technology recognized as a Technology Pioneer by the World Economic Forum. As a decentralized protocol, Boson is built for the benefit of and governed by its users. Consequently, Boson only charges a minimal 0.5% per transaction protocol fee.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14710/large/boson_logo.png?1696514381"
+}

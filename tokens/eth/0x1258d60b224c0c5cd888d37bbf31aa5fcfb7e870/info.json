@@ -1,0 +1,12 @@
+{
+    "id": "nodeai",
+    "name": "NodeAI",
+    "symbol": "gpu",
+    "contractAddress": "0x1258d60b224c0c5cd888d37bbf31aa5fcfb7e870",
+    "decimals": 18,
+    "website": "https://nodes.ai",
+    "description": "What is Node AI?\r\nNode AI is a groundbreaking decentralized platform designed to facilitate access to GPU and AI resources, enabling users to participate, contribute, and benefit from the evolving landscape of artificial intelligence. By leveraging blockchain technology, Node AI ensures a transparent and secure ecosystem where participants can engage in various capacities.\r\n\r\nKey Features and Offerings:\r\n\r\n- Revenue Sharing\r\n- AI Nodes Rental\r\n- GPU Power Lending\r\n- On Demand Nodes\r\n- AI API Endpoints\r\n- Staking for ETH Rewards",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/35432/large/NodeAI.png?1708586757"
+}

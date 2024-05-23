@@ -1,0 +1,12 @@
+{
+    "id": "auction",
+    "name": "Bounce",
+    "symbol": "auction",
+    "contractAddress": "0xa9b1eb5908cfc3cdf91f9b8b3a74108598009096",
+    "decimals": 18,
+    "website": "https://bounce.finance/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13860/large/1_KtgpRIJzuwfHe0Rl0avP_g.jpeg?1696513606"
+}

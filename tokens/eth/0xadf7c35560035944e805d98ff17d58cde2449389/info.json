@@ -1,0 +1,12 @@
+{
+    "id": "spectral",
+    "name": "Spectral",
+    "symbol": "spec",
+    "contractAddress": "0xadf7c35560035944e805d98ff17d58cde2449389",
+    "decimals": 18,
+    "website": "https://www.spectrallabs.xyz/",
+    "description": "Spectral is developing a Machine Intelligence Network to generate autonomous onchain agents.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/36138/large/spectral_logo_200x200.png?1710684002"
+}

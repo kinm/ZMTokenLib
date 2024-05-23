@@ -1,0 +1,12 @@
+{
+    "id": "polkastarter",
+    "name": "Polkastarter",
+    "symbol": "pols",
+    "contractAddress": "0x83e6f1e41cdd28eaceb20cb649155049fac3d5aa",
+    "decimals": 18,
+    "website": "https://polkastarter.com/",
+    "description": "POLS token holders will be able to vote on product features, token utility, types of auctions and even decide which projects get to be featured by Polkastarter. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12648/large/polkastarter.png?1696512455"
+}

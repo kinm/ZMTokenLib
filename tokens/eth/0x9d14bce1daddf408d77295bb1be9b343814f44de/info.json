@@ -1,0 +1,12 @@
+{
+    "id": "koi-3",
+    "name": "Koi",
+    "symbol": "koi",
+    "contractAddress": "0x9d14bce1daddf408d77295bb1be9b343814f44de",
+    "decimals": 18,
+    "website": "https://koi.finance",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/35766/large/Koi_logo.png?1709782399"
+}

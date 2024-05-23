@@ -1,0 +1,12 @@
+{
+    "id": "silo-finance",
+    "name": "Silo Finance",
+    "symbol": "silo",
+    "contractAddress": "0x6f80310ca7f2c654691d1383149fa1a57d8ab1f8",
+    "decimals": 18,
+    "website": "https://www.silo.finance/",
+    "description": "Silo is a non-custodial lending protocol to borrow any crypto asset with another.\r\n\r\nSECURE BY DESIGN\r\n\r\nWhen you deposit in a Silo, you don't share the risk with other tokens in the protocol. Silos can only borrow the bridge asset from each other, keeping the risk isolated to a single Silo.\r\n\r\nEFFICIENT\r\n\r\nTo concentrate liquidity, each token asset gets one Silo only. With the bridge asset connecting all Silos, liquidity moves fluidly in the protocol, enabling any collateral token to borrow another. \r\n\r\n\r\nPERMISSIONLESS\r\n\r\nSilo is designed to support any token asset on the chains it operates on. Silos share default collateral factors that can be adjusted on a Silo level at any time.  ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/21454/large/y0iYKZOv_400x400.png?1696520816"
+}

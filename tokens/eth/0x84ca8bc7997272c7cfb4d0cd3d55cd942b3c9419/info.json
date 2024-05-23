@@ -1,0 +1,12 @@
+{
+    "id": "dia-data",
+    "name": "DIA",
+    "symbol": "dia",
+    "contractAddress": "0x84ca8bc7997272c7cfb4d0cd3d55cd942b3c9419",
+    "decimals": 18,
+    "website": "https://diadata.org/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/11955/large/Token_Logo.png?1696511815"
+}

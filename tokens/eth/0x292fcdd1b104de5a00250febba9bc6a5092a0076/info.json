@@ -1,0 +1,12 @@
+{
+    "id": "hashai",
+    "name": "HashAI",
+    "symbol": "hashai",
+    "contractAddress": "0x292fcdd1b104de5a00250febba9bc6a5092a0076",
+    "decimals": 18,
+    "website": "https://hashai.cc/",
+    "description": "Where Artificial Intelligence Meets Mining Excellence\r\nWith vast Crypto and Web3 experience, the Hash AI team has established the infrastructure, partnerships, and distribution network for a successful Crypto mining company. This involves mining rig supplies, rig hosting and GPU sales, and a mining facility with over 500 top GPUs.\r\n\r\nHarnessing the power of AI, we've developed an intelligent mining algorithm that maximizes hash power by selecting and mining the most efficient coins across L1 Blockchains in real-time.\r\n\r\nUnique Hash AI Token\r\nWe also are introducing our very own Hash AI token. Income from our AI-enhanced mining rigs will be shared with token holders.\r\n\r\nObjectives of Hash AI\r\n\r\nMaximize Returns\r\nIntroduce a mining algorithm that maximizes returns through AI-optimization.\r\n \r\nExpand Our Services\r\nExpand mining facility for better efficiency, and introduce Hash & Node rental.\r\n \r\nEstablish Global Leadership\r\nEstablish Hash AI as a global leader in sustainable and efficient mining practices.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/36743/large/HashAI.png?1712212747"
+}

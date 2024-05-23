@@ -1,0 +1,12 @@
+{
+    "id": "band-protocol",
+    "name": "Band Protocol",
+    "symbol": "band",
+    "contractAddress": "0xba11d00c5f74255f56a5e366f4f77f5a186d7f55",
+    "decimals": 18,
+    "website": "https://bandprotocol.com/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/9545/large/Band_token_blue_violet_token.png?1696509627"
+}

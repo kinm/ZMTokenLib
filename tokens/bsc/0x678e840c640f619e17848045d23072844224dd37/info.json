@@ -1,0 +1,12 @@
+{
+    "id": "cratos",
+    "name": "Cratos",
+    "symbol": "crts",
+    "contractAddress": "0x678e840c640f619e17848045d23072844224dd37",
+    "decimals": 18,
+    "website": "https://www.cratostoken.com",
+    "description": "Cratos is a V2E cryptocurrency that can be used on the Cratos mobile app, a real-time voting app with 600K app downloads and 300K registered users. ",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/17322/large/cratos.png?1696516876"
+}

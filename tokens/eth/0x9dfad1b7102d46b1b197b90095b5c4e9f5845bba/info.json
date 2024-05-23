@@ -1,0 +1,12 @@
+{
+    "id": "botto",
+    "name": "Botto",
+    "symbol": "botto",
+    "contractAddress": "0x9dfad1b7102d46b1b197b90095b5c4e9f5845bba",
+    "decimals": 18,
+    "website": "https://botto.com/about",
+    "description": "Botto is a decentralized artist that generates art based on community feedback.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/18892/large/bottos_logo.jpg?1696518350"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "bazaars",
+    "name": "Bazaars",
+    "symbol": "bzr",
+    "contractAddress": "0x8d96b4ab6c741a4c8679ae323a100d74f085ba8f",
+    "decimals": 18,
+    "website": "https://bazaars.io/",
+    "description": "Bazaars is a decentralized peer-to-peer (P2P) marketplace. Users can exchange physical and digital assets with each other. Bazaars app is available for download on iOS and android. The app is a peer-to-peer marketplace that allows items, vehicles and properties to be exchanged for various crypto currencies.\r\n\r\n\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/26392/large/bazaars_logo-color-black-icon.png?1696525469"
+}

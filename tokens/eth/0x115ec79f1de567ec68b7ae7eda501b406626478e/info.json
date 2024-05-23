@@ -1,0 +1,12 @@
+{
+    "id": "carry",
+    "name": "Carry",
+    "symbol": "cre",
+    "contractAddress": "0x115ec79f1de567ec68b7ae7eda501b406626478e",
+    "decimals": 18,
+    "website": "https://carryprotocol.io/",
+    "description": "\"Carry Protocol is a blockchain project that compensates consumers for sharing their data and receiving ads. Carry compensates individual consumers for 1. sharing their offline purchase data to build the most comprehensive offline purchase database, and 2. receiving ads from advertisers that use the Carry database to send targeted ads. Carry empowers consumers by giving them back the full control of their data and its monetization, and enables businesses to send targeted ads to the right consumers using the shared data.\r\n\"",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/3994/large/Carry.png?1696504635"
+}

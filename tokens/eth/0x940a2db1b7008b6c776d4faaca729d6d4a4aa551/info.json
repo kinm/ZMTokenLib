@@ -1,0 +1,12 @@
+{
+    "id": "dusk-network",
+    "name": "Dusk",
+    "symbol": "dusk",
+    "contractAddress": "0x940a2db1b7008b6c776d4faaca729d6d4a4aa551",
+    "decimals": 18,
+    "website": "https://dusk.network/",
+    "description": "Dusk Network is a high throughput permissionless blockchain aimed at providing privacy, programmability and auditability.\r\nDusk Network is currently in the Testnet phase and is a blockchain protocol for easy deployment of programmable zero-knowledge dApps, thus becoming the backbone of an open, permissionless and global privacy-oriented dApp ecosystem.\r\nDusk Network aims to remove technical barriers that have undermined mainstream issuance and trading of security tokens. Compliance, auditability and privacy are built into the open, permissionless Confidential Security Token-standard (XSC).",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/5217/large/image_widget_biddfvxd454b1.png?1696505726"
+}

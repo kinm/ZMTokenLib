@@ -1,0 +1,12 @@
+{
+    "id": "ecomi",
+    "name": "ECOMI",
+    "symbol": "omi",
+    "contractAddress": "0xed35af169af46a02ee13b9d79eb57d6d68c1749e",
+    "decimals": 18,
+    "website": "https://ecomi.notion.site/",
+    "description": "ECOMI is the issuer of the OMI token. The OMI token is intended for use in the VeVe digital collectibles ecosystem. With over 8 million digital collectible NFTs sold since the beginning of 2021 and a range of international brands, artists, and IP partners releasing content through the platform, VeVe is the world’s leading mobile-first digital collectible platform.\r\n\r\nThrough an innovative loyalty program- the VeVe Master Collector Program- the OMI token is intended to amplify the collecting experience and, when available, will provide VeVe collectors with a range of unique ways to build and expand their digital collections.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/4428/large/ECOMI.png?1696505023"
+}

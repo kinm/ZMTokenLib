@@ -1,0 +1,12 @@
+{
+    "id": "velo",
+    "name": "Velo",
+    "symbol": "velo",
+    "contractAddress": "0xf486ad071f3bee968384d2e39e2d8af0fcf6fd46",
+    "decimals": 18,
+    "website": "https://velo.org/",
+    "description": "Velo Labs is building a unique federated credit exchange network. This network is powered by the Velo Protocol, which is a blockchain financial protocol enabling digital credit issuance and borderless asset transfers for businesses using a smart contract system. The project's core mission is to enable partners to safely and securely transfer value between each other in a timely and transparent way. To do this, the Velo Protocol enables its partners to issue digital credits via a smart contract layer, using the Stellar Consensus Protocol to process and settle transactions. Within its ecosystem, the Velo Protocol enables multiple business use cases that are all based on its core function: issuing collateral-backed digital credits, which correspond to any fiat currency that can be used for frictionless value transfer.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/12538/large/Logo_200x_200.png?1696512350"
+}

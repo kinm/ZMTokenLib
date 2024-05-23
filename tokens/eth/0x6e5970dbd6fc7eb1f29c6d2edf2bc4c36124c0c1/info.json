@@ -1,0 +1,12 @@
+{
+    "id": "polytrade",
+    "name": "Polytrade",
+    "symbol": "trade",
+    "contractAddress": "0x6e5970dbd6fc7eb1f29c6d2edf2bc4c36124c0c1",
+    "decimals": 18,
+    "website": "https://polytrade.finance/",
+    "description": "POLYTRADE is a blockchain-based decentralized protocol that aims to transform receivables financing & connect buyers, sellers, insurers, & investors for a seamless trading experience.\r\n\r\nThe global DeFi market worth is increasing in trillions with a large number of total value locked in it every day. Polytrade will harness the massive liquidity pool of the crypto world by tokenizing real-world invoices and bringing them on-chain into the DeFi space.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/16416/large/Logo_colored_200.png?1696516012"
+}

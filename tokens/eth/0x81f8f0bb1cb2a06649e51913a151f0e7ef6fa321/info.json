@@ -1,0 +1,12 @@
+{
+    "id": "vitadao",
+    "name": "VitaDAO",
+    "symbol": "vita",
+    "contractAddress": "0x81f8f0bb1cb2a06649e51913a151f0e7ef6fa321",
+    "decimals": 18,
+    "website": "https://www.vitadao.com/",
+    "description": "Governance Token for VitaDAO, focused on funding longevity research through building and marketing intellectual property in longevity. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/16580/large/QmRjwywiAfpzSfQTuWM3zCTghSHN7G6ohQaar7Ht6WANUp.png?1696516140"
+}

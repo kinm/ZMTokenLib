@@ -1,0 +1,12 @@
+{
+    "id": "ordiswap-token",
+    "name": "Ordiswap",
+    "symbol": "ords",
+    "contractAddress": "0x8ab2ff0116a279a99950c66a12298962d152b83c",
+    "decimals": 18,
+    "website": "https://ordiswap.fi/",
+    "description": "A protocol set to redefine liquidity dynamics on Bitcoin's native layer through the innovative fusion of the BRC-20 standard and Ordinals",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/33910/large/IMG-20240113-WA0018.jpg.jpg?1705169306"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "btse-token",
+    "name": "BTSE Token",
+    "symbol": "btse",
+    "contractAddress": "0x666d875c600aa06ac1cf15641361dec3b00432ef",
+    "decimals": 8,
+    "website": "https://www.btse.com/en/ref",
+    "description": "The BTSE token powers the BTSE ecosystem and enhances your trading experience.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/10807/large/BTSE_logo_Square.jpeg?1696510765"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "arpa",
+    "name": "ARPA",
+    "symbol": "arpa",
+    "contractAddress": "0x6f769e65c14ebd1f68817f5f1dcdb61cfa2d6f7e",
+    "decimals": 18,
+    "website": "https://www.arpanetwork.io/en-US",
+    "description": "ARPA Network (ARPA) is a decentralized secure computation network built to improve the fairness, security, and privacy of blockchains. ARPA threshold BLS signature network serves as the infrastructure of verifiable Random Number Generator (RNG), secure wallet, cross-chain bridge, and decentralized custody across multiple blockchains. \r\n\r\nARPA was previously known as ARPA Chain, a privacy-preserving Multi-party Computation (MPC) network founded in 2018. ARPA Mainnet has completed over 224,000 computation tasks in the past years. Our experience in MPC and other cryptography laid the foundation for our innovative threshold BLS signature schemes (TSS-BLS) system design and led us to today’s ARPA Network. \r\n\r\nRandcast, a verifiable Random Number Generator (RNG), is the first application that leverages ARPA as infrastructure. Randcast offers a cryptographically generated random source with superior security and low cost compared to other solutions. Metaverse, game, lottery, NFT minting and whitelisting, key generation, and blockchain validator task distribution can benefit from Randcast’s tamper-proof randomness.\r\n",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/8506/large/9u0a23XY_400x400.jpg?1696508685"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "propy",
+    "name": "Propy",
+    "symbol": "pro",
+    "contractAddress": "0x226bb599a12c826476e3a771454697ea52e9e220",
+    "decimals": 8,
+    "website": "https://propy.com",
+    "description": "Propy is a decentralized real-estate market place backed by superior blockchain infrastructure to facilitate real-time unified transaction in order to reduce fraud and redundancy. Propy is the world’s first international real-estate marketplace.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/869/large/propy.png?1696502002"
+}

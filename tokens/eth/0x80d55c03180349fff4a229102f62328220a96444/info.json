@@ -1,0 +1,12 @@
+{
+    "id": "opulous",
+    "name": "Opulous",
+    "symbol": "opul",
+    "contractAddress": "0x80d55c03180349fff4a229102f62328220a96444",
+    "decimals": 18,
+    "website": "https://opulous.org/",
+    "description": "Opulous brings NFTs and DeFi to the music industry, changing how musicians access the funding they need and providing a launchpad for the first music copyright-backed NFTs and Crypto Loans.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/16548/large/opulous.PNG?1696516110"
+}

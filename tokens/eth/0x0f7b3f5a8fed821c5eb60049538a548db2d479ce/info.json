@@ -1,0 +1,12 @@
+{
+    "id": "airtor-protocol",
+    "name": "AirTor Protocol",
+    "symbol": "ator",
+    "contractAddress": "0x0f7b3f5a8fed821c5eb60049538a548db2d479ce",
+    "decimals": 18,
+    "website": "https://ator.io/",
+    "description": "AirTor empowers The Onion Router (ToR) through on-chain incentives, and facilitates wider adoption of secure network relay protocols through our products. AirTor contributes the following to the existing ToR network:\r\n\r\n1) A framework for existing ToR relays to receive cryptocurrency rewards in our native currency, ATOR,\r\n in accordance with their cumulative useful uptime, through a Proof-of-Uptime mechanism \r\n\r\n2) The introduction of the AirTor Router Hotspot, a handheld device that enables users to connect their consumer devices, via WiFi, and route all their web traffic through ToR script-free \r\n\r\n3) The rollout of the AirTor Relay, our own version of the ToR relay. It is designed for ToR routing and immediately interoperable with our ATOR Proof-of-Uptime framework, allowing non-technical users to 'mine' ATOR and contribute to web anonymity through ToR. Vision AirTor is dedicated to complete internet privacy. Though ToR can obscure a user's IP address from intermediary and destination routers, it does not entirely protect them from their Internet Service Provider (ISP) who can infer that they used ToR. Hence, the AirTor ecosystem eventually aims to empower users to replace part or all of their web-traffic route with Long-Range Radio (LoRa), through specialised hardware, to provide a new layer of physical independence. Our name summarizes this eventual vision of internet-independence, but AirTor believes evolution is revolution; our tech will add value at every stage and complement existing protocols to have the greatest positive impact.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29690/large/AirTor.png?1696528623"
+}

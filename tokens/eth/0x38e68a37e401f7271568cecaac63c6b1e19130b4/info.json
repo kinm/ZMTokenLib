@@ -1,0 +1,12 @@
+{
+    "id": "banana-gun",
+    "name": "Banana Gun",
+    "symbol": "banana",
+    "contractAddress": "0x38e68a37e401f7271568cecaac63c6b1e19130b4",
+    "decimals": 18,
+    "website": "http://bananagun.io",
+    "description": "What is the project about?\r\nA telegram bot where you can manually buy and snipe tokens on Ethereum (more chains coming soon). We offer the fastest set-up, simple and no-nonsense UX combined with bribing to ensure our users can be the first in line for new token launches.\r\n\r\nWhat makes your project unique?\r\nWe are an upcoming and fast-growing sniper bot on Ethereum with unique tokenomics fueled by our bot.\r\n\r\nHistory of your project.\r\nOur bot ran for 3 months generating a steady revenue, now our token will be deployed on main net\r\n\r\nWhat’s next for your project?\r\nMultichain, webapp, more features are in the pipeline. Obviously we will also listen to feedback of our users.\r\n\r\nWhat can your token be used for?\r\nFueling the Banana ecosystem\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/31744/large/bgg.jpeg?1696530563"
+}

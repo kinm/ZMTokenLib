@@ -1,0 +1,12 @@
+{
+    "id": "mintlayer",
+    "name": "Mintlayer",
+    "symbol": "ml",
+    "contractAddress": "0x059956483753947536204e89bfad909e1a434cc6",
+    "decimals": 18,
+    "website": "https://www.mintlayer.org",
+    "description": "What is Mintlayer (ML)?\r\nMintlayer is a layer 2 solution that allows users to build a decentralized finance ecosystem rooted in the established network of the Bitcoin blockchain opening Bitcoin to DeFi, smart contracts, atomic swaps, NFTs, and dapps.\r\n\r\nMintlayer is a protocol focused on developing a decentralized finance (DeFi) ecosystem that leverages the Bitcoin and Lightning Network. \r\n\r\nThe company's vision is to develop a platform to deploy smart contracts on the BTC blockchain, which will eventually give rise to a decentralized exchange (DEX). Mintlayer is opening up new ways for the DeFi sector to integrate with Bitcoin to enable real-world financial use cases on the Bitcoin blockchain.\r\n\r\n\r\nMintlayer USP - Atomic Swaps\r\nWhile other projects are trying to enable DeFi on Bitcoin, Mintlayer is the only protocol that enables direct 1:1 swap of Native Bitcoin for other tokenized assets Minted directly on Mintlayer. With these atomic swaps on Mintlayer, there are no intermediaries, peg-in, wrapped, or federated tokens. No other project has approached asset swaps in this manner, and it enables users to use native Bitcoin for financial instruments without counterparty or intermediary risk.    \r\n\r\nAdditional Features: \r\n-Unlike Ethereum, users can choose any token to pay transaction fees.\r\n\r\n-With Turing incomplete smart contracts, Mintlayer reduces the risk of contract failure and increases outcome predictability. This feature also reduces on-chain congestion.\r\n\r\n-It has an access control list or Access control list (ACL) for improved compliance with security tokens such as whitelisting/blacklisting addresses and such functionalities.\r\n\r\n-With multi-token transfers in a single transaction, Mintlayer makes aggregated payments a reality.\r\n\r\n-By integrating the Lightning Network, Mintlayer users will enjoy high transactions per second to enable fast transactions.\r\n\r\n-This project also has programmable pools for efficient tokenomics and evading Unspent Transaction Output (UTXO) pollution.\r\n\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29454/large/mintlayer-icon-coingecko200x200.png?1696528401"
+}

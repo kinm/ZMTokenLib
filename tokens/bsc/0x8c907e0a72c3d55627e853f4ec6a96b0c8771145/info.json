@@ -1,0 +1,12 @@
+{
+    "id": "zignaly",
+    "name": "Zignaly",
+    "symbol": "zig",
+    "contractAddress": "0x8c907e0a72c3d55627e853f4ec6a96b0c8771145",
+    "decimals": 18,
+    "website": "https://zignaly.com/",
+    "description": "Zignaly is a social crypto investment platform. Invest in crypto by using signals, copying experts or fully delegated mode with profit sharing (PAMM). Avoid monthly subscriptions and pay only a portion of the profit as success fee.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/14796/large/zignaly.jpg?1704292004"
+}

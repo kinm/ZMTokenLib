@@ -1,0 +1,12 @@
+{
+    "id": "seth",
+    "name": "sETH",
+    "symbol": "seth",
+    "contractAddress": "0x5e74c9036fb86bd7ecdcb084a0673efc32ea31cb",
+    "decimals": 18,
+    "website": "https://www.synthetix.io/",
+    "description": "Synth sETH by Synthetix\r\nTracks the price of Ether through price feeds supplied by an oracle.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/8843/large/sETH.png?1696508995"
+}

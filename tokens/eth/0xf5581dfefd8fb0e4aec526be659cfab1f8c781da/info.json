@@ -1,0 +1,12 @@
+{
+    "id": "hopr",
+    "name": "HOPR",
+    "symbol": "hopr",
+    "contractAddress": "0xf5581dfefd8fb0e4aec526be659cfab1f8c781da",
+    "decimals": 18,
+    "website": "https://hoprnet.org/",
+    "description": "HOPR provides essential and compliant network-level metadata privacy for everyone. HOPR is an open incentivized mixnet which enables privacy-preserving point-to-point data exchange.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14061/large/Shared_HOPR_logo_512px.png?1696513786"
+}

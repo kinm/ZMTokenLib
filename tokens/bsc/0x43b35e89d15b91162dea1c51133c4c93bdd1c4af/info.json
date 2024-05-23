@@ -1,0 +1,12 @@
+{
+    "id": "sakai-vault",
+    "name": "Sakai Vault",
+    "symbol": "sakai",
+    "contractAddress": "0x43b35e89d15b91162dea1c51133c4c93bdd1c4af",
+    "decimals": 18,
+    "website": "https://sakaivault.io/",
+    "description": "Sakai Vault is a new decentralized exchange platform that provides fast and secure transactions at low fees. Its perpetual exchange feature enables traders to engage in futures trading without expiration dates, while its AI-powered trading strategies offer an informed and profitable trading experience.\r\n\r\nWith its support for multiple blockchain networks, deflationary token models, and focus on scalability and user experience, Sakai Vault is at the forefront of DeFi 2.0. It aims to provide an accessible and user-friendly ecosystem for decentralized finance, unlocking new use cases and bringing the benefits of blockchain technology to a wider audience.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/29128/large/96264149-D876-4069-BFE1-9346-A01-E85-B6.jpg?1696528089"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "nkn",
+    "name": "NKN",
+    "symbol": "nkn",
+    "contractAddress": "0x5cf04716ba20127f1e2297addcf4b5035000c9eb",
+    "decimals": 18,
+    "website": "https://www.nkn.org/",
+    "description": "NKN is building the largest blockchain for network sharing.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/3375/large/nkn.png?1696504074"
+}

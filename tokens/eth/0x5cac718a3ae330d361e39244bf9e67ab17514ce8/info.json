@@ -1,0 +1,12 @@
+{
+    "id": "cosplay-token-2",
+    "name": "Cosplay Token",
+    "symbol": "cot",
+    "contractAddress": "0x5cac718a3ae330d361e39244bf9e67ab17514ce8",
+    "decimals": 18,
+    "website": "https://cot.curecos.com/",
+    "description": "Cure WorldCosplay is the world’s largest Cosplay platform, supporting 12 languages, more than 720,000 members from 180 countries and 6.5 million (and counting!) images. The Cosplay Token (COT) will be used as a payment currency within the Cure WorldCosplay ecosystem, helping cosplayers without access to online payment methods be tipped for their content. The real value is created in the Cure Protocol - players will also be able to create and distribute their own personalised coin with COT, bringing power back to cosplayers and enabling them to monetize themselves easily among many other benefits.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/21294/large/brave_ZxsjzUc8xn.png?1696520664"
+}

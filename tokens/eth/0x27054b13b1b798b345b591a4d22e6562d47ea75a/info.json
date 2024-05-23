@@ -1,0 +1,12 @@
+{
+    "id": "airswap",
+    "name": "AirSwap",
+    "symbol": "ast",
+    "contractAddress": "0x27054b13b1b798b345b591a4d22e6562d47ea75a",
+    "decimals": 4,
+    "website": "https://www.airswap.io/",
+    "description": "AirSwap is a decentralized token exchange based on the Swap protocol whitepaper. Swap provides a decentralized trading solution based on a peer-to-peer design. The design solves two problems encountered in a peer-to-peer trading environment: counterparty discovery and pricing suggestions.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/1019/large/Airswap.png?1696502130"
+}

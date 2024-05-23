@@ -1,0 +1,12 @@
+{
+    "id": "instadapp",
+    "name": "Instadapp",
+    "symbol": "inst",
+    "contractAddress": "0x6f40d4a6237c257fff2db00fa0510deeecd303eb",
+    "decimals": 18,
+    "website": "https://instadapp.io/",
+    "description": "On Instadapp, users and developers manage and build their DeFi portfolio - the world's most advanced platform to start leveraging the full potential of Decentralized Finance.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14688/large/30hFM0-n_400x400.jpg?1696514361"
+}

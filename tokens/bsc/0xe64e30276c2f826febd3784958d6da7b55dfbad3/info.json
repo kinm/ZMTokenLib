@@ -1,0 +1,12 @@
+{
+    "id": "swftcoin",
+    "name": "SWFTCOIN",
+    "symbol": "swftc",
+    "contractAddress": "0xe64e30276c2f826febd3784958d6da7b55dfbad3",
+    "decimals": 18,
+    "website": "https://www.swftblockchain.ai",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/2346/large/SWFTCoin.jpg?1696503223"
+}

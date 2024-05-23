@@ -1,0 +1,12 @@
+{
+    "id": "drunk-robots",
+    "name": "Badmad Robots",
+    "symbol": "metal",
+    "contractAddress": "0x200c234721b5e549c3693ccc93cf191f90dc2af9",
+    "decimals": 18,
+    "website": "https://badmadrobots.com",
+    "description": "Badmat Robots transport players to the city of Los Machines, a futuristic city inhabited (some would say overrun) by junky, drunk robots whose only interests are metal, beer, and violence. Here, in Los Machines, the robots have been left to build their own dysfunctional society, where power is taken, not earned.\r\n\r\nAfter purchasing a unique robot NFT (there are 10101 Drunk Robots NFTs in total), players will have to fight for survival as they attempt to seize control of Los Machines. Engage in brutal PVP battles, venture out on expeditions to find metal and junk, join a gang of fellow drunks, and customize your robot with upgraded weapons, gear, and collectibles.\r\n\r\nOn top of all that action, players can also enjoy many free-to-play activities that don’t even require the purchase of a robot NFT, such as mini games that also award valuable prizes such as equipment for the robots. These prizes come in the form of NFTs, so you can use them or sell them on the secondary marketplace!",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/24376/large/metal.png?1696523559"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "troll",
+    "name": "Troll",
+    "symbol": "troll",
+    "contractAddress": "0xf8ebf4849f1fa4faf0dff2106a173d3a6cb2eb3a",
+    "decimals": 18,
+    "website": "https://troll.run",
+    "description": "What is the project about?\r\nTroll is just a meme coin that is run by the community.\r\n\r\nWhat makes your project unique?\r\nIt is not unique, it is like any other memecoin, we just TROLL + We have a renounced contract.\r\n\r\nHistory of your project.\r\nWas created by a group of degens 2 weeks ago and have slowly worked in building a community.\r\n\r\nWhat’s next for your project?\r\nCurrently we are working on developing an APP which will bring more memes to the space.\r\n\r\nWhat can your token be used for?\r\nIt is a community token for the moment, which is totally run by them.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29897/large/TROLL.jpeg?1696528821"
+}

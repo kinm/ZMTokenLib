@@ -1,0 +1,12 @@
+{
+    "id": "grok-2",
+    "name": "Grok",
+    "symbol": "$grok",
+    "contractAddress": "0x8390a1da07e376ef7add4be859ba74fb83aa02d5",
+    "decimals": 9,
+    "website": "https://www.grok-erc.com/",
+    "description": "nothing but just a grok meme based off elon musk's first product on xAI, grok chatgpt like system.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/32788/large/GROK.png?1707579427"
+}

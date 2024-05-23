@@ -1,0 +1,12 @@
+{
+    "id": "dkargo",
+    "name": "dKargo",
+    "symbol": "dka",
+    "contractAddress": "0x5dc60c4d5e75d22588fa17ffeb90a63e535efce0",
+    "decimals": 18,
+    "website": "https://dkargo.io/main_en.html",
+    "description": "dKargo uses blockchain technology to solve trust issues among participants scattered in the logistics industry\r\nand establishing an efficient logistics network based on cooperation that was previously unimaginable.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/11875/large/bVD0g0dlmrEOPIkt943KZIBZ086eCshyY0jIQFti4zxYdOlFltU8tKa6uJlcA14HvNjX4bc7dxdMvlpoW5NFMND85oG4aiiCbFRhI6eowDfKEBY3BoSVY0IrBbA9SFGIxh_IYrkNC5uNdG-roZ0_TlGO3098now6Tbzga0p4IDqVk6lnaX3TuRC7pgnAYWZM15RD-uEIHr3O_3OoIIWP-.jpg?1696511743"
+}

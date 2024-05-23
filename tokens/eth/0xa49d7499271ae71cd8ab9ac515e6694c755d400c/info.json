@@ -1,0 +1,12 @@
+{
+    "id": "mute",
+    "name": "Mute",
+    "symbol": "mute",
+    "contractAddress": "0xa49d7499271ae71cd8ab9ac515e6694c755d400c",
+    "decimals": 18,
+    "website": "https://mute.io",
+    "description": "Mute is a zkRollup DeFi Platform. Invest & trade, earn yields, and participate in bonds all on one decentralized, community driven, lightning fast and low cost platform.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14331/large/MUTE.png?1696514019"
+}

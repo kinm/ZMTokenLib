@@ -1,0 +1,12 @@
+{
+    "id": "quickswap",
+    "name": "Quickswap",
+    "symbol": "quick",
+    "contractAddress": "0xd2ba23de8a19316a638dc1e7a9adda1d74233368",
+    "decimals": 18,
+    "website": "https://quickswap.exchange/",
+    "description": "QuickSwap is the leading DEX on Polygon PoS, Polygon zkEVM, & Dogechain, best known for it's blazing fast transaction speeds and near-zero gas fees. The DEX was launched in 2020 & provides DeFi features such as swaps, liquidity providing, farming, & staking.\r\n\r\nIt's also home to the DragonFi ecosystem, a powerful DeFi product suite that includes a decentralized Perpetual Exchange (QuickPerps), Gaming Hub, and much more.\r\n\r\n$QUICK (New) is QuickSwap's native token & redenominated in 2022 at a 1:1000 ratio from the $QUICK (OLD) token (via a token split). New $QUICK can be staked in the Dragon's Lair on the QuickSwap DEX to earn yield & used in farms to earn farming rewards. While the Old $QUICK token does not have any utility on the DEX, users can easily convert it to New $QUICK via QuickSwap's converter.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/25393/large/quickswap.png?1696524525"
+}

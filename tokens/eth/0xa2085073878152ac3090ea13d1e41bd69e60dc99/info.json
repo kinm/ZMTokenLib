@@ -1,0 +1,12 @@
+{
+    "id": "escoin-token",
+    "name": "Escoin",
+    "symbol": "elg",
+    "contractAddress": "0xa2085073878152ac3090ea13d1e41bd69e60dc99",
+    "decimals": 18,
+    "website": "https://www.escoin.ee/",
+    "description": "The purpose of Escoin includes providing clients and law firms establish mutual cooperation in the digital environment in accordance with common interests by eliminating the country’s borders and providing the entire infrastructure they need. In doing so, the aim is to expand the network and thus to provide a more transparent and healthy business model.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13566/large/escoin-200.png?1696513320"
+}

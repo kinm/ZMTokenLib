@@ -1,0 +1,12 @@
+{
+    "id": "aavegotchi",
+    "name": "Aavegotchi",
+    "symbol": "ghst",
+    "contractAddress": "0x3f382dbd960e3a9bbceae22651e88158d2791550",
+    "decimals": 18,
+    "website": "https://www.aavegotchi.com/",
+    "description": "GHST is the eco-governance token of Aavegotchi. Use GHST to purchase various digital assets within the Aavegotchi universe, such as Aavegotchi portals & wearables. Hold GHST so your Aavegotchi can participate in DAO governance, and earn GHST by excelling at Aavegotchi rarity farming.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12467/large/GHST.png?1696512286"
+}

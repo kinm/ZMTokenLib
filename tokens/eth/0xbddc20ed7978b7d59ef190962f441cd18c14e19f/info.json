@@ -1,0 +1,12 @@
+{
+    "id": "crypto-asset-governance-alliance",
+    "name": "Crypto Asset Governance Alliance",
+    "symbol": "caga",
+    "contractAddress": "0xbddc20ed7978b7d59ef190962f441cd18c14e19f",
+    "decimals": 18,
+    "website": "https://www.cagacrypto.com/",
+    "description": "CAGA Network is a decentralized blockchain that utilizes state-of-the-art technology to provide rapid, secure, and scalable solutions.\r\n\r\nOur mission is to cultivate a trusted environment where everyone can confidently develop their blockchain-based products and execute transactions with ease and efficacy.\r\n\r\nCentral to our approach is the Proof of Authority (PoA) consensus mechanism, tailored for dApps demanding speed and efficiency.\r\n\r\nCAGA drives substantial benefits for end-users, developers, and businesses across diverse industries, encouraging broader and sustainable adoption of Web3.\r\n\r\nThrough these innovations, CAGA is paving the way for a future where blockchain technology is accessible and impactful for all.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/32846/large/200px_caga_transparent.png?1707469892"
+}

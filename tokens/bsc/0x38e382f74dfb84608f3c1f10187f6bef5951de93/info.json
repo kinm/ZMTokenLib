@@ -1,0 +1,12 @@
+{
+    "id": "multibit",
+    "name": "Multibit",
+    "symbol": "mubi",
+    "contractAddress": "0x38e382f74dfb84608f3c1f10187f6bef5951de93",
+    "decimals": 18,
+    "website": "https://multibit.exchange/",
+    "description": "MultiBit is the first-ever dual-sided bridge designed for easy cross-network transfers between BRC20 and ERC20 tokens. Through promoting unmatched liquidity for these tokens, MultiBit heightens cross-chain interoperability. Our mission is simple: to foster increased liquidity and accessibility for BRC and ERC tokens in a secure and user-friendly manner.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/33051/large/multi.jpg?1700473994"
+}

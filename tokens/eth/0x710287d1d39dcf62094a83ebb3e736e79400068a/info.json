@@ -1,0 +1,12 @@
+{
+    "id": "noisegpt",
+    "name": "enqAI",
+    "symbol": "enqai",
+    "contractAddress": "0x710287d1d39dcf62094a83ebb3e736e79400068a",
+    "decimals": 18,
+    "website": "https://enqai.com/",
+    "description": "What is the project about?\r\nUncensored, decentralized AI-powered generative tools.\r\n\r\nWhat makes your project unique?\r\nZERO censorship. Working product with hyperrealistic celebrity voices live.\r\n\r\nHistory of your project.\r\n40 days since TGE, but 5+ years of work on the model.\r\n\r\nWhat’s next for your project?\r\nCEX listings. Big investors, trading competition, meme competition. Film festival. Android App. \r\n\r\nWhat can your token be used for?\r\nQuerying TTS audios. It is also used for rewarding GPU nodes that run the model and for voice trainers.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29908/large/icon.png?1702507913"
+}

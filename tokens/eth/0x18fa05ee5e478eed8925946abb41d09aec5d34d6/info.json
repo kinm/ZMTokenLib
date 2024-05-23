@@ -1,0 +1,12 @@
+{
+    "id": "puff-the-dragon",
+    "name": "Puff The Dragon",
+    "symbol": "puff",
+    "contractAddress": "0x18fa05ee5e478eed8925946abb41d09aec5d34d6",
+    "decimals": null,
+    "website": "https://puffthedragon.xyz/",
+    "description": "## What Is PUFF?\r\n\r\nPuff is the erc-20 memecoin token based around the mETH community.\r\n\r\nPuff is an innovative experiment - a blockchain interactive story where holders can experience a 6 chapter journey and choose their own path through it.\r\n\r\nUsers may interact with Puff's story as it progresses in Puff's Penthouse inside methlab.xyz\r\n\r\n\r\n## How Many PUFF Coins Are There in Circulation?\r\n\r\nPuff launched in March 2024 with 888,888,888 PUFF tokens created at genesis.\r\n\r\nThere is no additional supply.\r\n\r\n48.5% of the supply was unlocked at genesis, and the rest released over Chapters 2 to 6.\r\n\r\n\r\n### Who Are the Founders of PUFF?\r\n\r\nPuff is a community led project with various early contributors passionate about mETH and onchain communities.\r\n\r\n### Where Can I Buy PUFF?\r\n\r\nThe initial liquidity Pool for Puff is inside Puff's Penthouse on methlab.xyz",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/35950/large/photo_2024-03-11_10.18.27.jpeg?1710240090"
+}

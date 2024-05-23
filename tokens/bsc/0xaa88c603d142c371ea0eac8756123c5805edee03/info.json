@@ -1,0 +1,12 @@
+{
+    "id": "the-doge-nft",
+    "name": "The Doge NFT",
+    "symbol": "dog",
+    "contractAddress": "0xaa88c603d142c371ea0eac8756123c5805edee03",
+    "decimals": 18,
+    "website": "https://ownthedoge.com/",
+    "description": "The most iconic meme in internet history, the original Doge, is now fractionalized and available for anyone to own. This is the original Doge NFT minted by Atsuko Sato, the owner of our favorite canine.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/18111/large/Doge.png?1696517615"
+}

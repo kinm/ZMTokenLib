@@ -1,0 +1,12 @@
+{
+    "id": "breederdao",
+    "name": "BreederDAO",
+    "symbol": "breed",
+    "contractAddress": "0x94e9eb8b5ab9fd6b9ea3169d55ffade62a01702e",
+    "decimals": 18,
+    "website": "https://www.breederdao.io/",
+    "description": "BreederDAO is the go-to asset production factory for quality gaming assets of the Metaverse. We generate curated assets that deliver best value at scale for some of the largest guilds in the Metaverse so they can supercharge their play-to-earn economies. All asset generation tools are developed in-house and derived from a combination of comprehensive game mastery, data-driven analytics and modeling. BreederDAO is committed to equipping the next billion players and becoming a pillar of the play-to-earn economy.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/25203/large/BreederDAO-Breed_Token-FINAL.png?1696524347"
+}

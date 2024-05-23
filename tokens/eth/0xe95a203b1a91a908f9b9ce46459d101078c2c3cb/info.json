@@ -1,0 +1,12 @@
+{
+    "id": "ankreth",
+    "name": "Ankr Staked ETH",
+    "symbol": "ankreth",
+    "contractAddress": "0xe95a203b1a91a908f9b9ce46459d101078c2c3cb",
+    "decimals": 18,
+    "website": "https://www.ankr.com/about-staking/",
+    "description": "ETH Liquid Staking with Ankr\r\n\r\nAnkr Staking offers Ethereum token holders the opportunity to stake ETH and, in return, claim ETH Liquid Staking tokens — ankrETH. ankrETH also offers instant liquidity for your staked ETH, enabling you to connect ankrETH with DeFi platforms and earn several more layers of rewards.\r\n\r\nankrETH is a reward-bearing token, meaning that the fair value of 1 ankrETH token vs. ETH increases over time as staking rewards accumulate inside the token.\r\n\r\nBenefits\r\n\r\n- Generate Multiple Layers of Rewards: Use ankrETH on DeFi platforms to enable you to multiply your earning potential in APY on top of your staking rewards!\r\n- Low Impermanent Loss: Contributing ankrETH for liquidity with tokens like ETH means a low risk of impermanent loss, expanding the upside of providing liquidity for a more stable and profitable experience.\r\n- Compound Your Staking Rewards: Your staking rewards will compound daily as the value of ankrETH in your wallet increases vs. ETH.\r\n- Support & Secure Ethereum: Staking ETH directly supports the Ethereum network and helps validate transactions. Ankr’s staking system distributes staked tokens intelligently across the Ethereum ecosystem to achieve optimal decentralization.\r\n- Elastic Supply: Users can trade their ankrETH tokens for their staked ETH anytime.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13403/large/aETHc.png?1696513165"
+}

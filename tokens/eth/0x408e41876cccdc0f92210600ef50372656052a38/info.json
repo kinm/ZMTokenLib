@@ -1,0 +1,12 @@
+{
+    "id": "republic-protocol",
+    "name": "Ren",
+    "symbol": "ren",
+    "contractAddress": "0x408e41876cccdc0f92210600ef50372656052a38",
+    "decimals": 18,
+    "website": "https://renprotocol.org/",
+    "description": "Ren is an open protocol that enables the movement of value between blockchains. Ren's core product, RenVM, is focused on bringing interoperability to decentralized finance (DeFi). Ren was founded in 2017 and is headquartered in Singapore.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/3139/large/REN.png?1696503862"
+}

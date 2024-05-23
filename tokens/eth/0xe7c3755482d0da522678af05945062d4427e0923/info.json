@@ -1,0 +1,12 @@
+{
+    "id": "alexgo",
+    "name": "ALEX Lab",
+    "symbol": "alex",
+    "contractAddress": "0xe7c3755482d0da522678af05945062d4427e0923",
+    "decimals": 18,
+    "website": "https://www.alexgo.io/",
+    "description": "We are ALEX and we are the first one-stop DeFi services platform on Bitcoin via Stacks. The sea change of DeFi begins as simply as lending and borrowing Bitcoin. The smart contracts that govern those loans can be used to create bonds. Using these decentralized bonds we can recreate derivative products, leverage and all the other functions of higher finance, replacing it with the algorithms of an Automated Liquidity EXchange or ALEX.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/25837/large/ALEX_Token.png?1696524922"
+}

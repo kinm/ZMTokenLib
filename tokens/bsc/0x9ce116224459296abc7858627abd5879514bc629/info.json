@@ -1,0 +1,12 @@
+{
+    "id": "clash-of-lilliput",
+    "name": "Clash of Lilliput",
+    "symbol": "col",
+    "contractAddress": "0x9ce116224459296abc7858627abd5879514bc629",
+    "decimals": 18,
+    "website": "https://www.lilliput.games/",
+    "description": "An SLG game based on the scenario of a race of miniature people building a tribe to help their survival and prosperity in a dangerous world.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/26070/large/col.png?1696525154"
+}

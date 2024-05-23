@@ -1,0 +1,12 @@
+{
+    "id": "tokenlon",
+    "name": "Tokenlon",
+    "symbol": "lon",
+    "contractAddress": "0x0000000000095413afc295d19edeb1ad7b71c952",
+    "decimals": 18,
+    "website": "https://tokenlon.im/",
+    "description": "LON is a utility token issued by the Tokenlon DEX, used to align all ecosystem stakeholders and incentivize participation and expansion of the ecosystem.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13454/large/lon_logo.png?1696513217"
+}

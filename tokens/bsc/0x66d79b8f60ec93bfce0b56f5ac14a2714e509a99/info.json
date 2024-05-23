@@ -1,0 +1,12 @@
+{
+    "id": "marcopolo",
+    "name": "MAP Protocol",
+    "symbol": "mapo",
+    "contractAddress": "0x66d79b8f60ec93bfce0b56f5ac14a2714e509a99",
+    "decimals": 18,
+    "website": "https://www.mapprotocol.io/",
+    "description": "MAP Protocol is a decentralized cross-chain interoperability protocol backed by a dedicated blockchain which safeguards cross-chain assets and empowers Dapps to achieve full potential.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/10085/large/logos_%283%29.png?1714041325"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "pundi-x-2",
+    "name": "Pundi X",
+    "symbol": "pundix",
+    "contractAddress": "0x0fd10b9899882a6f2fcb5c371e17e70fdee00c38",
+    "decimals": 18,
+    "website": "https://pundix.com",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14571/large/vDyefsXq_400x400.jpg?1696514252"
+}

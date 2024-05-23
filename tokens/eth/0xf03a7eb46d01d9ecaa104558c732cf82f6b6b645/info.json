@@ -1,0 +1,12 @@
+{
+    "id": "stader-maticx",
+    "name": "Stader MaticX",
+    "symbol": "maticx",
+    "contractAddress": "0xf03a7eb46d01d9ecaa104558c732cf82f6b6b645",
+    "decimals": 18,
+    "website": "https://staderlabs.com/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/25383/large/maticx.png?1696524516"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "humanscape",
+    "name": "Hippocrat",
+    "symbol": "hpo",
+    "contractAddress": "0xfe39c384d702914127a005523f9915addb9bd59b",
+    "decimals": 18,
+    "website": "https://hippocrat.io",
+    "description": "Hippocrat is a Cooperative Protocol for Healthcare Data Collection & Utilization. \r\n\r\nHippocrat is revolutionizing the traditional healthcare by enabling individuals to have sovereign control over their health data through blockchain and zero-knowledge proof technologies. Within the HPO ecosystem, personal ownership of health data not only enhances the quality of personalized medical care but also contributes to global health. The HPO ecosystem promotes effortless exchange of data among individuals, healthcare institutions, and research laboratories.\r\n\r\nHIPPO is a WEB 3 remote medical consultation app, harnessing the power of blockchain technology to secure data transactions, data sovereignty and payments. This approach guarantees universal access to healthcare services, regardless of an individual's geographical location, socioeconomic status, or language, ensuring equity in healthcare access. Furthermore, all healthcare data within HIPPO will be leveraged to deliver more personalized healthcare and consultation, enhancing the user experience and benefit. Users have the autonomy to manage their healthcare data and retain ownership, ensuring that if they choose to switch healthcare providers, they can seamlessly transfer their previous health data, facilitating continuity in care. With data securely encrypted on the blockchain, prevents any single entity from monopolizing health information, thereby ensuring that profits are rightfully redirected back to the patients.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/4243/large/Hippocrat_Token_Logo_ver.1.0.jpg?1707157531"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "noia-network",
+    "name": "Synternet",
+    "symbol": "noia",
+    "contractAddress": "0xa8c8cfb141a3bb59fea1e2ea6b79b5ecbcd7b6ca",
+    "decimals": 18,
+    "website": "https://www.synternet.com/",
+    "description": "Synternet is a blockchain that powers modular, interoperable data infrastructure across all major chains.\r\n\r\nAt its core lies the Data Layer, a protocol serving as the customizable execution layer between blockchains. Its AEAs (Autonomous Economic Agents) empower developers to build composable, use-case-specific applications that can execute on any data from any chain.\r\n\r\nSynternet has secured the backing of prominent Web3 investors, including Polygon Ventures, CMCC, Faculty Group, Moonrock Capital, HV Capital, and many others.\r\n\r\nVisit Synternet Docs to get started: https://docs.synternet.com/docs",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/3269/large/Twitter-Profile-01.png?1714005625"
+}

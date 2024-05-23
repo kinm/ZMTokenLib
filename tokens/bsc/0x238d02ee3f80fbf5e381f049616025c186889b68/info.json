@@ -1,0 +1,12 @@
+{
+    "id": "metars-genesis",
+    "name": "Metars Genesis",
+    "symbol": "mrs",
+    "contractAddress": "0x238d02ee3f80fbf5e381f049616025c186889b68",
+    "decimals": 18,
+    "website": "https://metars.io/home",
+    "description": "A source of faith, freedom, and an open world built by all. In the boundless metaverse, there is a place where the echo of human destiny wafts, the light of human thought shines, and the power of human creation is released. It reads \"Metars\". Metars is a combination of art gallery and religious site in the metaverse world. We will build a crystallization of human civilization with the support of VR technology, and Metars will finally display the greatest works of art with the most religious, divine and human enlightenment values in human history. Metars will gradually develop into a completely free open world through the joint construction of all residents.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/26625/large/PRmUU8O1_400x400.jpeg?1696525698"
+}

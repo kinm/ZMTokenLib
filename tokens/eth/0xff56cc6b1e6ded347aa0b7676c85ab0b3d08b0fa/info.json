@@ -1,0 +1,12 @@
+{
+    "id": "orbs",
+    "name": "Orbs",
+    "symbol": "orbs",
+    "contractAddress": "0xff56cc6b1e6ded347aa0b7676c85ab0b3d08b0fa",
+    "decimals": 18,
+    "website": "https://www.orbs.com/",
+    "description": "Orbs was built to bridge the unoccupied gap between the functionality of a public blockchain with the ironclad security of a private one.\r\n\r\nIn a time where people are trusting major companies less than ever before, those enterprises can, at best, ask users to trust them. By empowering those enterprises with the option of operating on a public blockchain safely, Orbs grants them a major competitive edge in the form of digital guarantees to users: No need to trust when users can simply verify.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/4630/large/Orbs.jpg?1696505200"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "my-neighbor-alice",
+    "name": "My Neighbor Alice",
+    "symbol": "alice",
+    "contractAddress": "0xac51066d7bec65dc4589368da368b212745d63e8",
+    "decimals": 6,
+    "website": "https://www.myneighboralice.com/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/14375/large/alice_logo.jpg?1696514067"
+}

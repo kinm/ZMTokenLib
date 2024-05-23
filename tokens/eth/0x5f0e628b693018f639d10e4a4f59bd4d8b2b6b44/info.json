@@ -1,0 +1,12 @@
+{
+    "id": "whiteheart",
+    "name": "Whiteheart",
+    "symbol": "white",
+    "contractAddress": "0x5f0e628b693018f639d10e4a4f59bd4d8b2b6b44",
+    "decimals": 18,
+    "website": "https://www.whiteheart.finance/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13484/large/whiteheart.png?1696513245"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "litentry",
+    "name": "Litentry",
+    "symbol": "lit",
+    "contractAddress": "0xb59490ab09a0f526cc7305822ac65f2ab12f9723",
+    "decimals": 18,
+    "website": "https://www.litentry.com/",
+    "description": "Litentry is a privacy-preserving decentralized identity aggregation oracle, built on the Substrate framework and tailored for Polkadot, EVM-based platforms, and other multi-chain ecosystems. It leverages Trusted Execution Environments (TEE), verifiable credentials, and customizable score computation to usher in a new era of digital identity. Its flagship product, the IdentityHub, is transforming how identities are managed and authenticated across blockchains. Its self-sovereign user-centric approach to identity, bridging both Web2 and Web3, offers a robust suite for user activity and identity data management. With tools like the IdentityHub and unique staking mechanisms, Litentry is committed to establishing a unified, privacy-centric decentralized identity infrastructure, redefining interoperability and utility for users and projects in the decentralized space.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13825/large/logo_200x200.png?1696513568"
+}

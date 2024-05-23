@@ -1,0 +1,12 @@
+{
+    "id": "renzo",
+    "name": "Renzo",
+    "symbol": "rez",
+    "contractAddress": "0x3b50805453023a91a8bf641e279401a0b23fa6f9",
+    "decimals": 18,
+    "website": "https://www.renzoprotocol.com/",
+    "description": "Renzo is a Liquid Restaking Token (LRT) and Strategy Manager for EigenLayer. It is the interface to the EigenLayer ecosystem securing Actively Validated Services (AVSs) and offering a higher yield than ETH staking. REZ is the Governance Token for the Renzo Protocol which is backed by Liquid Restaking Token ezETH.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/37327/large/renzo_200x200.png?1714025012"
+}

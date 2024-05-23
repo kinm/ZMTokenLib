@@ -1,0 +1,12 @@
+{
+    "id": "aleph",
+    "name": "Aleph.im",
+    "symbol": "aleph",
+    "contractAddress": "0x27702a26126e0b3702af63ee09ac4d1a084ef628",
+    "decimals": 18,
+    "website": "https://aleph.im",
+    "description": "aleph.im is a decentralized cloud storage, database and computing platform, that is compatible with blockchains and speaks their languages. It aims to be the infrastructure layer of the DeFI (decentralized finance) ecosystem.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/11676/large/Aleph-Logo-BW.png?1696511566"
+}

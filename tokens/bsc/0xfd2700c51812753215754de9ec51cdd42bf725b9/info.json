@@ -1,0 +1,12 @@
+{
+    "id": "route",
+    "name": "Router Protocol",
+    "symbol": "route",
+    "contractAddress": "0xfd2700c51812753215754de9ec51cdd42bf725b9",
+    "decimals": 18,
+    "website": "https://www.routerprotocol.com/",
+    "description": "Cross-chain liquidity aggregator governance token",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/13709/large/route_token_200x200-19.png?1696513454"
+}

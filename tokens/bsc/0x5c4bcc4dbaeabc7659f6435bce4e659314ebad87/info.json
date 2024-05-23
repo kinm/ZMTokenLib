@@ -1,0 +1,12 @@
+{
+    "id": "nunet",
+    "name": "NuNet",
+    "symbol": "ntx",
+    "contractAddress": "0x5c4bcc4dbaeabc7659f6435bce4e659314ebad87",
+    "decimals": 6,
+    "website": "https://nunet.io/",
+    "description": "NuNet is a computing framework that provides globally distributed computing power and storage for decentralized networks, by connecting the owners of data and computing resources with computational processes in demand of these resources.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/20950/large/8Zb2W2Wi_400x400.png?1696520338"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "blox",
+    "name": "Blox",
+    "symbol": "cdt",
+    "contractAddress": "0x177d39ac676ed1c67a2b268ad7f1e58826e5b0af",
+    "decimals": 18,
+    "website": "https://www.bloxstaking.com/",
+    "description": "Blox is an open-source, fully non-custodial staking platform for Ethereum 2.0. The platform serves as an easy and accessible way to stake Ether and earn rewards on Eth2, while ensuring participants retain complete control over their private keys. Our goal at Blox is to simplify staking while ensuring Ethereum stays fair and decentralized. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/1231/large/Blox_Staking_Logo_2.png?1696502308"
+}

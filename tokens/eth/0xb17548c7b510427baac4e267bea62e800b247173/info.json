@@ -1,0 +1,12 @@
+{
+    "id": "swarm-markets",
+    "name": "Swarm Markets",
+    "symbol": "smt",
+    "contractAddress": "0xb17548c7b510427baac4e267bea62e800b247173",
+    "decimals": 18,
+    "website": "https://swarm.com/",
+    "description": "Swarm Markets is the world’s first licensed DeFi platform—a unified exchange for securities and crypto. Swarm Markets makes it possible for institutional investors like banks and hedge funds as well as retail investors to trade and stake tokens based on all kinds of real-world assets, such as commodities and traditional market securities alongside crypto.\r\n\r\nRegulated by Germany’s Federal Financial Supervisory Authority (BaFin), Swarm Markets' regulatory status means the platform provides the same level of governance and accountability as traditional financial institutions. Asset custodians will be able to leverage Swarm Markets’ licenses to issue new tokens and instantly create high-liquidity trading pools directly on the platform. \r\n\r\nThe convenience and transparency of DeFi with the confidence of financial market compliance.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/17488/large/swarm-SMT-token-symbol_200x200.png?1696517029"
+}

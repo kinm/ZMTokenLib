@@ -1,0 +1,12 @@
+{
+    "id": "guild-of-guardians",
+    "name": "Guild of Guardians",
+    "symbol": "gog",
+    "contractAddress": "0x9ab7bb7fdc60f4357ecfef43986818a2a3569c62",
+    "decimals": 18,
+    "website": "https://www.guildofguardians.com/",
+    "description": "Guild of Guardians is a mobile RPG where players take teams of heroes through challenging dungeons to collect resources. These resources are used to create valuable items and heroes which can be sold for real money. Players will work together to create the best squad of Guardians, contribute to their Guild, and strategise to complete the most challenging content in the game.\r\n\r\nThe game is set in a familiar, fantasy RPG world where players can play as mages, warriors, elves, orcs and more!\r\n\r\nGOG (also called Gems) is an ERC-20 token for the game used when players want to perform “premium” actions that involve creating new blockchain assets.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/17362/large/V2QDNoLg_400x400.jpg?1696516913"
+}

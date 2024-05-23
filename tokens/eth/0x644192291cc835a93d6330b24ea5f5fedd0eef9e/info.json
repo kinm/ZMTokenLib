@@ -1,0 +1,12 @@
+{
+    "id": "allianceblock-nexera",
+    "name": "AllianceBlock Nexera",
+    "symbol": "nxra",
+    "contractAddress": "0x644192291cc835a93d6330b24ea5f5fedd0eef9e",
+    "decimals": 18,
+    "website": "https://allianceblock.io/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29181/large/nxra.png?1712255778"
+}

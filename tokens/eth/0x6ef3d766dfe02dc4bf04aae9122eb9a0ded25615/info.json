@@ -1,0 +1,12 @@
+{
+    "id": "prime-staked-eth",
+    "name": "Prime Staked ETH",
+    "symbol": "primeeth",
+    "contractAddress": "0x6ef3d766dfe02dc4bf04aae9122eb9a0ded25615",
+    "decimals": 18,
+    "website": "https://www.primestaked.com/",
+    "description": "Prime Staked ETH (primeETH) is a liquid restaking token on the Ethereum network. Using primeETH, you'll be able to simultaneously earn ETH staking yield, EigenLayer points, and primeETH experience points. \r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/34994/large/PrimeETH_Token_Logo.png?1706951612"
+}

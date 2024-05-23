@@ -1,0 +1,12 @@
+{
+    "id": "a-hunters-dream",
+    "name": "A Hunters Dream",
+    "symbol": "caw",
+    "contractAddress": "0xf3b9569f82b18aef890de263b84189bd33ebe452",
+    "decimals": 18,
+    "website": "https://caw.is",
+    "description": "CAW is a decentralised \"Social Clearing House\" which originated from the Shib deployer.\r\n\r\nThe concept of decentralization has been lost to some of us over time, those who forgot why Bitcoin was created, the issues blockchain and cryptocurrency is meant to solve. \r\nTo be decentralized means there is no single person, entity, nor group which has ultimate control nor\r\nbenefit over a system.\r\n\r\nFreedom given to the people to discover CAW's meaning amongst themselves.\r\n\r\nCAW is by design without design, and it is up the CAWMmunity to shape CAW. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/25130/large/x-Logo-color-10x.png?1696524280"
+}

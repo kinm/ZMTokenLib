@@ -1,0 +1,12 @@
+{
+    "id": "murasaki",
+    "name": "Murasaki",
+    "symbol": "mura",
+    "contractAddress": "0x166295ebd6a938c7aaf61350eb5161a9939ab2b7",
+    "decimals": 18,
+    "website": "https://www.murasaki.club/",
+    "description": "Murasaki is the first metaverse ACG virtual idol and decentralized IP ecological community.\r\n",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/28570/large/mura.png?1696527558"
+}

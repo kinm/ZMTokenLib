@@ -1,0 +1,12 @@
+{
+    "id": "nym",
+    "name": "Nym",
+    "symbol": "nym",
+    "contractAddress": "0x525a8f6f3ba4752868cde25164382bfbae3990e1",
+    "decimals": 6,
+    "website": "https://nymtech.net/",
+    "description": "Existing internet protocols leak sensitive data that can be used without users knowledge — Nym is developing the infrastructure to prevent this data leakage by protecting every packet’s metadata at the network and application layers.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/24488/large/NYM_Token.png?1696523668"
+}

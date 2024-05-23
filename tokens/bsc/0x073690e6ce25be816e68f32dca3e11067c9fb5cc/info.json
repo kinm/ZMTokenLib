@@ -1,0 +1,12 @@
+{
+    "id": "kujira",
+    "name": "Kujira",
+    "symbol": "kuji",
+    "contractAddress": "0x073690e6ce25be816e68f32dca3e11067c9fb5cc",
+    "decimals": 6,
+    "website": "https://kujira.app/",
+    "description": "Kujira is committed to levelling the playing field in decentralized finance by building dApps for regular crypto users.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/20685/large/kuji-200x200.png?1696520085"
+}

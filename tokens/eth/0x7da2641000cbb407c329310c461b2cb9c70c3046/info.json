@@ -1,0 +1,12 @@
+{
+    "id": "delysium",
+    "name": "Delysium",
+    "symbol": "agi",
+    "contractAddress": "0x7da2641000cbb407c329310c461b2cb9c70c3046",
+    "decimals": 18,
+    "website": "https://www.delysium.com",
+    "description": "Delysium is building AI-powered virtual society with $AGI. Delysium has been constructing a virtual world where 1 billion individuals and 100 billion AI Virtual Beings coexist on blockchain.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29299/large/AGI_logo_200.png?1696528251"
+}

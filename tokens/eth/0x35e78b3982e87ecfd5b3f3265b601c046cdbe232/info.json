@@ -1,0 +1,12 @@
+{
+    "id": "sideshift-token",
+    "name": "SideShift",
+    "symbol": "xai",
+    "contractAddress": "0x35e78b3982e87ecfd5b3f3265b601c046cdbe232",
+    "decimals": 18,
+    "website": "https://sideshift.ai/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/15719/large/sideshift-icon_3x.png?1696515346"
+}

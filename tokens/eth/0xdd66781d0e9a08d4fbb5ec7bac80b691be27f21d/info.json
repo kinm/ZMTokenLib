@@ -1,0 +1,12 @@
+{
+    "id": "axondao-governance-token",
+    "name": "AxonDAO Governance Token",
+    "symbol": "axgt",
+    "contractAddress": "0xdd66781d0e9a08d4fbb5ec7bac80b691be27f21d",
+    "decimals": 18,
+    "website": "https://axondao.io",
+    "description": "AxonDAO Funds, Builds, and Supports DeSci using AI & Biometric Algorithms ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/35290/large/AXGT-logo-7.png?1708076161"
+}

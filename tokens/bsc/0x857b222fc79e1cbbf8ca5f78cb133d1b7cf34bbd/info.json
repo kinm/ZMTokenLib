@@ -1,0 +1,12 @@
+{
+    "id": "lto-network",
+    "name": "LTO Network",
+    "symbol": "lto",
+    "contractAddress": "0x857b222fc79e1cbbf8ca5f78cb133d1b7cf34bbd",
+    "decimals": 18,
+    "website": "https://www.ltonetwork.com/",
+    "description": "LTO Network is a blockchain platform for creating decentralized workflow applications, while maintaining data privacy and GDPR compliance. Developers and enterprises can use the LTO toolkit to either create new, or integrate existing solutions — and run them in a transparent, secure and decentralized way.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/6068/large/lto.png?1696506473"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "fidu",
+    "name": "Fidu",
+    "symbol": "fidu",
+    "contractAddress": "0x6a445e9f40e0b97c92d0b8a3366cef1d67f700bf",
+    "decimals": 18,
+    "website": "https://goldfinch.finance/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/25944/large/GFI-asset-icon.png?1696525023"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "hegic",
+    "name": "Hegic",
+    "symbol": "hegic",
+    "contractAddress": "0x584bc13c7d411c00c01a62e8019472de68768430",
+    "decimals": 18,
+    "website": "https://www.hegic.co/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/12454/large/new.png?1696512274"
+}

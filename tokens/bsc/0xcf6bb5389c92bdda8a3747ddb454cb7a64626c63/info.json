@@ -1,0 +1,12 @@
+{
+    "id": "venus",
+    "name": "Venus",
+    "symbol": "xvs",
+    "contractAddress": "0xcf6bb5389c92bdda8a3747ddb454cb7a64626c63",
+    "decimals": 18,
+    "website": "https://venus.io/",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/12677/large/download.jpg?1696512482"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "zano",
+    "name": "Zano",
+    "symbol": "zano",
+    "contractAddress": "0xdb85f6685950e285b1e611037bebe5b34e2b7d78",
+    "decimals": 18,
+    "website": "https://zano.org",
+    "description": "Zano, a privacy-centric blockchain ecosystem that was launched in 2019. Zano transactions are untraceable, leveraging ring signatures and stealth addresses. With the upcoming Zarcanum hardfork, Zano is transitioning to RingCT and introducing the first-ever Proof of Stake algorithm with hidden amounts. Furthermore, the Zarcanum hardfork will incorporate Confidential Assets, privacy tokens that operate on the Zano blockchain. These assets share the same privacy features as native Zano coins, allowing other developers to run their privacy-oriented projects without the overhead of maintaining their own blockchains, dealing with consensus issues, or other complexities of network operation. Zano's security is fortified by a unique hybrid PoW-PoS consensus algorithm, which is also applicable to assets. In addition to these features, Zano supports on-chain aliases, escrow contracts, and has a built-in staking system with no minimum requirements or time locks. It offers numerous features for both users and developers.\r\n\r\nTransactions are made anonymous and untraceable through the use of ring signatures and stealth addresses. Multi-signature functionality allows multiple users to control a single wallet, which can be used for escrow services or two-factor authentication. Users can also create customizable escrow contracts with required deposits for trustless agreements.\r\n\r\nAll Zano network members can have aliases, for example, @username. These aliases can be linked to a payment address, which makes Zano network more user-friendly. In the long run, aliases will be used in a dedicated messenger, a user reputation service, and an alias-based authentication system.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/8370/large/zano.png?1696508563"
+}

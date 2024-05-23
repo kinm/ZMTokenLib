@@ -1,0 +1,12 @@
+{
+    "id": "saitachain-coin-2",
+    "name": "SaitaChain Coin",
+    "symbol": "stc",
+    "contractAddress": "0x19ae49b9f38dd836317363839a5f6bfbfa7e319a",
+    "decimals": 9,
+    "website": "https://saitachain.com/",
+    "description": "SaitaChain is a dynamic Web 3.0 technology company. With a clear mission to empower, educate and simplify the world of decentralized finance (DeFi) for everyone. SaitaChain's layer-zero mainnet is set to revolutionize blockchain with efficiency, scalability and innovation. Featuring a unique proof-of-stake consensus, cross-chain protocol for seamless asset and data transfers, and flexible dApps supporting complex smart contracts across multiple blockchains.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/33665/large/Saitama_200pxby200px-1.png?1703066750"
+}

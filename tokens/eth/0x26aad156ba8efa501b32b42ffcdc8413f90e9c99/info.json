@@ -1,0 +1,12 @@
+{
+    "id": "edu-coin",
+    "name": "Open Campus",
+    "symbol": "edu",
+    "contractAddress": "0x26aad156ba8efa501b32b42ffcdc8413f90e9c99",
+    "decimals": 18,
+    "website": "https://www.opencampus.xyz/",
+    "description": "What is the project about?\r\nThe Open Campus Protocol is a decentralized solution for educators, content creators, parents, students, and co-publishers designed to address the major challenges in education today. Despite the critical role of educators in shaping the future generation, they are often undervalued and underpaid. Additionally, parents frequently lack control over their children's educational content.\r\n\r\nWhat makes your project unique?\r\nWe are the first education protocol that empowers teacher ecosystem to create, own, share and sell their educational content. We will create a EDU foundation that enables content creator to utilize NFT technology to monetize their creation with the financial support from co-publishers.\r\n\r\nHistory of your project.\r\nOpen Campus started in 2023, with the support from various launch partners like Animoca Brands, The Sandbox, TinyTap, etc. The protocol's main NFT publication - Publisher NFT was adopted by TinyTap and produced an auction last year with a sale of 243 ETH.\r\n\r\nWhat’s next for your project?\r\nWe will continue to build out the marketplace for content creator to create and sell assets, and enable foundation features such as Smart Donation and Scholarship Grants.\r\n\r\nWhat can your token be used for?\r\n\r\nIt will power all educational activities within the EDU Foundation, that includes a peer review system, Smart donation, purchase and selling of Publisher NFTs and Scholarship granting.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/29948/large/EDU_Logo.png?1696528874"
+}

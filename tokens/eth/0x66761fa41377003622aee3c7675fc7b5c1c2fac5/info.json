@@ -1,0 +1,12 @@
+{
+    "id": "clearpool",
+    "name": "Clearpool",
+    "symbol": "cpool",
+    "contractAddress": "0x66761fa41377003622aee3c7675fc7b5c1c2fac5",
+    "decimals": 18,
+    "website": "https://clearpool.finance/",
+    "description": "Clearpool is a decentralized capital markets ecosystem, where institutional borrowers can access unsecured loans directly from the DeFi ecosystem. Clearpool introduces a dynamic interest model driven by market supply and demand forces.\r\n\r\nLiquidity providers on Clearpool can earn attractive yields, with pool interest rates enhanced by additional LP rewards paid in CPOOL - Clearpool's utility and governance token.\r\n\r\nClearpool LP tokens, called cpTokens, are the building blocks for a system of tokenized credit that will provide Clearpool LPs with risk management and hedging capabilities.\r\n\r\nAs more institutions begin to realize the benefits that decentralized finance can bring to their organizations, Clearpool will provide the new architecture to facilitate flows between the $120 trillion traditional capital markets, and the burgeoning DeFi ecosystem.\r\n\r\nThe CPOOL Token\r\n\r\n- CPOOL is the utility and governance token for the Clearpool protocol.\r\n- CPOOL holders will vote on the whitelisting of new borrowers, a process that will qualify participants to earn additional CPOOL through an incentive reward scheme.\r\n- Eventually, a full system of decentralized governance will be introduced, allowing CPOOL holders to propose, vote and implement future changes and upgrades to the protocol.\r\n- CPOOL staking will be a required action for borrowers, who must stake an amount of CPOOL to access the area of the protocol where they can make a proposal to be whitelisted.\r\nLiquidity providers earn additional CPOOL rewards, enhancing pool interest rates to attractive levels.\r\n- Clearpool will announce a buyback program, where a share of protocol revenue will be used to buy CPOOL in the open market, to perpetually sustain reward pools.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/19252/large/photo_2022-08-31_12.45.02.jpeg?1696518697"
+}

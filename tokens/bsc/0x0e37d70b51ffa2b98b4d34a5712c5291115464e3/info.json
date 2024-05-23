@@ -1,0 +1,12 @@
+{
+    "id": "everipedia",
+    "name": "IQ",
+    "symbol": "iq",
+    "contractAddress": "0x0e37d70b51ffa2b98b4d34a5712c5291115464e3",
+    "decimals": 18,
+    "website": "https://iq.wiki/",
+    "description": "The IQ token is a cryptocurrency dedicated to the future of knowledge. The token powers IQ.wiki, the world's largest cryptocurrency encyclopedia. IQ is a DeFi and governance token with stakers earning rewards. The token is managed by BrainDAO and backed by BrainDAO's treasury of IQ tokens, stablecoins, blue chip NFTs, and other digital assets.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/5010/large/YAIS3fUh.png?1696505542"
+}

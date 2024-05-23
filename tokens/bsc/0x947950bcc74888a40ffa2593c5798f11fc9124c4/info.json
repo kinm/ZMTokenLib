@@ -1,0 +1,12 @@
+{
+    "id": "sushi",
+    "name": "Sushi",
+    "symbol": "sushi",
+    "contractAddress": "0x947950bcc74888a40ffa2593c5798f11fc9124c4",
+    "decimals": 18,
+    "website": "https://sushi.com/",
+    "description": "Sushi is a DeFi protocol that is completely community-driven, serving up delicious interest for your held crypto assets.\r\n\r\nOn Sushi, you can take advantage of passive-income providing DeFi tools such as liquidity providing, yield farming and staking. Furthermore, due to the decentralized nature of being an AMM (Automated Market Maker), Sushi has fewer hurdles to execute your cryptocurrency trades and all fees are paid to the users who provided liquidity, just as it should be!",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png?1696512101"
+}

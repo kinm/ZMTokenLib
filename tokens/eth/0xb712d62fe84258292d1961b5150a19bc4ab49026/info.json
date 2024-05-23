@@ -1,0 +1,12 @@
+{
+    "id": "chainge-finance",
+    "name": "Chainge",
+    "symbol": "xchng",
+    "contractAddress": "0xb712d62fe84258292d1961b5150a19bc4ab49026",
+    "decimals": 18,
+    "website": "https://www.chainge.finance",
+    "description": "Chainge is a unique Defi app that aims to empower people from all corners of the world to become their own digital bank. With Chainge’s automated financial services, users will have complete control over their wealth while enjoying 100% freedom & security.In addition to the AMM Spot DEX users will discover the infinite potential behind The Future DEX and the Option DEX.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/16526/large/chainge.jpeg?1708099639"
+}

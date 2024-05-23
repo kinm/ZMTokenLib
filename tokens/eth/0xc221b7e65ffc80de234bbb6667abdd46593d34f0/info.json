@@ -1,0 +1,12 @@
+{
+    "id": "wrapped-centrifuge",
+    "name": "Wrapped Centrifuge",
+    "symbol": "wcfg",
+    "contractAddress": "0xc221b7e65ffc80de234bbb6667abdd46593d34f0",
+    "decimals": 18,
+    "website": "https://centrifuge.io/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/17106/large/WCFG.jpg?1696516667"
+}

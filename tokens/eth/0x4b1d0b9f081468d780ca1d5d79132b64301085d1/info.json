@@ -1,0 +1,12 @@
+{
+    "id": "lumerin",
+    "name": "Lumerin",
+    "symbol": "lmr",
+    "contractAddress": "0x4b1d0b9f081468d780ca1d5d79132b64301085d1",
+    "decimals": 8,
+    "website": "https://lumerin.io/",
+    "description": "The Lumerin protocol decentralizes the routing layer and makes Web3 and peer-to-peer communications truly peer-to-peer and fully programmable using smart contracts.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/24593/large/Lumerin-icon.png?1696523767"
+}

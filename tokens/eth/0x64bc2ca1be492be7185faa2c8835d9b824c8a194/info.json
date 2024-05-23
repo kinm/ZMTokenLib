@@ -1,0 +1,12 @@
+{
+    "id": "big-time",
+    "name": "Big Time",
+    "symbol": "bigtime",
+    "contractAddress": "0x64bc2ca1be492be7185faa2c8835d9b824c8a194",
+    "decimals": 18,
+    "website": "https://bigtime.gg/",
+    "description": "Big Time is a free-to-play, multiplayer action RPG game that combines fast-action combat and an adventure through time and space.\r\n \r\nExplore ancient mysteries and futuristic civilizations as you battle your way through history. Pick up rare collectibles Loot, Cosmetics and Tokens as you fight and defeat enemies. Collect and trade your Collectibles to decorate your avatar and personal metaverse, where you can hang out with your friends.\r\n\r\nExpand your personal metaverse and production capabilities with SPACE to join our in-game creator economy. \r\n\r\nPlay for free, collect in-game items and tokens, produce Collectibles, or hang out with friends...  Limitless environments and Adventure Instances give you INFINITE possibilities. The gameplay options are endless. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/32251/large/-6136155493475923781_121.jpg?1696998691"
+}

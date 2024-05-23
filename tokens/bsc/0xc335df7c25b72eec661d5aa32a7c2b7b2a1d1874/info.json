@@ -1,0 +1,12 @@
+{
+    "id": "ice",
+    "name": "Ice Open Network",
+    "symbol": "ice",
+    "contractAddress": "0xc335df7c25b72eec661d5aa32a7c2b7b2a1d1874",
+    "decimals": 18,
+    "website": "https://ice.io/",
+    "description": "Ice is the newest digital currency that you can mine for free using your phone\r\nThe Ice project has been imagined to bring back trust in digital assets and deliver a true sense of community for users who don’t have the financial resources to mine Bitcoin or are simply too late to enter the game.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/34674/large/ion-coingecko-200w.png?1714009819"
+}

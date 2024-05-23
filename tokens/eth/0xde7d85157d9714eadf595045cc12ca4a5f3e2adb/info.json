@@ -1,0 +1,12 @@
+{
+    "id": "stp-network",
+    "name": "STP",
+    "symbol": "stpt",
+    "contractAddress": "0xde7d85157d9714eadf595045cc12ca4a5f3e2adb",
+    "decimals": 18,
+    "website": "https://www.stp.network/",
+    "description": "STP is opening the portal to Autonomous Worlds. Its mission is to pioneer the advancement of AI in gaming. Clique, its L3 on Base unlocks significant scalability and performance for the intense load of AI enhanced onchain gaming.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/8713/large/STP.png?1696508875"
+}
