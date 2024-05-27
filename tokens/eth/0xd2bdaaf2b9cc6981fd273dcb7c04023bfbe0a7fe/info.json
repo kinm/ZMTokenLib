@@ -1,0 +1,12 @@
+{
+    "id": "aviator",
+    "name": "Aviator",
+    "symbol": "avi",
+    "contractAddress": "0xd2bdaaf2b9cc6981fd273dcb7c04023bfbe0a7fe",
+    "decimals": 18,
+    "website": "https://aviator.ac/",
+    "description": "Aviator is a groundbreaking new cryptocurrency project that embraces the powers of decentralization, the way it was meant to be. Led by our talented 16-member team, we aim to empower our community and explore new frontiers of innovation. With an unwavering belief in the strength of community and the power of transparency, we are poised to reach unimaginable heights. Through the use of our community-owned treasury and Decentralized Autonomous Organization (DAO), our passionate community gains the power to actively and democratically shape the project's future.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/31024/large/avi-200x200png.png?1711119363"
+}

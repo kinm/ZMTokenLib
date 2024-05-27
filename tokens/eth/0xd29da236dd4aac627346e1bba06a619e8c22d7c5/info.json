@@ -1,0 +1,12 @@
+{
+    "id": "maga-hat",
+    "name": "MAGA Hat",
+    "symbol": "maga",
+    "contractAddress": "0xd29da236dd4aac627346e1bba06a619e8c22d7c5",
+    "decimals": 9,
+    "website": "https://maga-hat.vip/",
+    "description": "MAGA The Hat Movement on the Blockchain ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/37988/large/MAGA200.jpg?1716223291"
+}

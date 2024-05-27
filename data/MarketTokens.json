@@ -16178,5 +16178,417 @@
             }
         },
         "logo": "https://assets.coingecko.com/coins/images/7603/large/pocket.jpg?1696507861"
+    },
+    {
+        "id": "dog-go-to-the-moon-rune",
+        "name": "DOG•GO•TO•THE•MOON",
+        "symbol": "🐕",
+        "detail_platforms": {
+            "ordinals": {
+                "decimal_place": 5,
+                "contract_address": "840000:3"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/37352/large/DOGGOTOTHEMOON.png?1714096969"
+    },
+    {
+        "id": "usdb",
+        "name": "USDB",
+        "symbol": "usdb",
+        "detail_platforms": {
+            "blast": {
+                "decimal_place": 18,
+                "contract_address": "0x4300000000000000000000000000000000000003"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/35595/large/65c67f0ebf2f6a1bd0feb13c_usdb-icon-yellow.png?1709255427"
+    },
+    {
+        "id": "maga-hat",
+        "name": "MAGA Hat",
+        "symbol": "maga",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 9,
+                "contract_address": "0xd29da236dd4aac627346e1bba06a619e8c22d7c5"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/37988/large/MAGA200.jpg?1716223291"
+    },
+    {
+        "id": "michicoin",
+        "name": "michi",
+        "symbol": "$michi",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/37309/large/5mbK36SZ7J19An8jFochhQS4of8g6BwUjbeCSxBSoWdp.jpeg?1713952829"
+    },
+    {
+        "id": "wrapped-quil",
+        "name": "Wrapped QUIL",
+        "symbol": "quil",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0x8143182a775c54578c8b7b3ef77982498866945d"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/37978/large/Wrapped_QUIL.png?1716197853"
+    },
+    {
+        "id": "quantcheck",
+        "name": "QuantCheck",
+        "symbol": "qtk",
+        "detail_platforms": {
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0xadeb98a12b2cdfbdb45cdd2274a369e79a7002e0"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/37039/large/QuantCheck_200x200.png?1713162082"
+    },
+    {
+        "id": "tooker-kurlson",
+        "name": "tooker kurlson",
+        "symbol": "tooker",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "9EYScpiysGnEimnQPzazr7Jn9GVfxFYzgTEj85hV9L6U"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/36887/large/IMG_7753.jpeg?1712650736"
+    },
+    {
+        "id": "celsius-degree-token",
+        "name": "Celsius Network",
+        "symbol": "cel",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 4,
+                "contract_address": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d"
+            },
+            "fantom": {
+                "decimal_place": 4,
+                "contract_address": "0x2c78f1b70ccf63cdee49f9233e9faa99d43aa07e"
+            },
+            "polygon-pos": {
+                "decimal_place": 4,
+                "contract_address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6"
+            },
+            "harmony-shard-0": {
+                "decimal_place": 4,
+                "contract_address": "0xd562c88e0f8e7dae43076018bb1ea3115617984d"
+            },
+            "energi": {
+                "decimal_place": 4,
+                "contract_address": "0x1b53c0662414b195fcd5802c09754765b930a312"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/3263/large/CEL_logo.png?1696503976"
+    },
+    {
+        "id": "minativerse",
+        "name": "MINATIVERSE",
+        "symbol": "mntc",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xe4e11e02aa14c7f24db749421986eaec1369e8c9"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/32012/large/MNTC.jpg?1696530810"
+    },
+    {
+        "id": "the-big-five",
+        "name": "The Big Five",
+        "symbol": "bft",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 9,
+                "contract_address": "0x4b87f578d6fabf381f43bd2197fbb2a877da6ef8"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/27429/large/photo_2022-08-01_16-49-53.jpg?1696526470"
+    },
+    {
+        "id": "block-ape-scissors",
+        "name": "Arcas",
+        "symbol": "arcas",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xad0926ecf31719263dc86426024794332d9dd9a3"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/17404/large/IMG_6452.jpeg?1699087325"
+    },
+    {
+        "id": "sora",
+        "name": "Sora",
+        "symbol": "xor",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x40fd72257597aa14c7231a7b1aaa29fce868f677"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x0200000000000000000000000000000000000000000000000000000000000000"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/11093/large/sora_logo_cg_white.png?1696511034"
+    },
+    {
+        "id": "amaterasu-omikami",
+        "name": "AMATERASU OMIKAMI",
+        "symbol": "omikami",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 9,
+                "contract_address": "0x9e18d5bab2fa94a6a95f509ecb38f8f68322abd3"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/31821/large/Omikami_BTC_AMZN.png?1696530635"
+    },
+    {
+        "id": "frenpet",
+        "name": "Fren Pet",
+        "symbol": "fp",
+        "detail_platforms": {
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0xff0c532fdb8cd566ae169c1cb157ff2bdc83e105"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/33022/large/token.png?1700274697"
+    },
+    {
+        "id": "aviator",
+        "name": "Aviator",
+        "symbol": "avi",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xd2bdaaf2b9cc6981fd273dcb7c04023bfbe0a7fe"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/31024/large/avi-200x200png.png?1711119363"
+    },
+    {
+        "id": "bob-token",
+        "name": "BOB Token",
+        "symbol": "bob",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x7d8146cf21e8d7cbe46054e01588207b51198729"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/29929/large/bob.png?1696528857"
+    },
+    {
+        "id": "holograph",
+        "name": "Holograph",
+        "symbol": "hlg",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x740df024ce73f589acd5e8756b377ef8c6558bab"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/37721/large/File_%281%29.jpg?1715655225"
+    },
+    {
+        "id": "tars-protocol",
+        "name": "TARS Protocol",
+        "symbol": "tai",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "Hax9LTgsQkze1YFychnBLtFH8gYbQKtKfWKKg2SP6gdD"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/37538/large/tars.jpeg?1714701907"
+    },
+    {
+        "id": "habibi-sol",
+        "name": "Habibi (Sol)",
+        "symbol": "habibi",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "864YJRb3JAVARC4FNuDtPKFxdEsYRbB39Nwxkzudxy46"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/37155/large/t.mehabibixyz_sol.png?1713499221"
+    },
+    {
+        "id": "galatasaray-fan-token",
+        "name": "Galatasaray Fan Token",
+        "symbol": "gal",
+        "detail_platforms": {
+            "chiliz": {
+                "decimal_place": 0,
+                "contract_address": "0x6dab8fe8e5d425f2eb063aae58540aa04e273e0d"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/11585/large/Galatasaray-10.png?1696511482"
+    },
+    {
+        "id": "lifeform",
+        "name": "Lifeform",
+        "symbol": "lft",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xa9f978c02915246e435c0bda9785aaaad3cc46d2"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/37778/large/lifeform.jpeg?1715582496"
+    },
+    {
+        "id": "baby",
+        "name": "Baby",
+        "symbol": "baby",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "5hmf8Jt9puwoqiFQTb3vr22732ZTKYRLRw9Vo7tN3rcz"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/36336/large/logo_200.png?1711101798"
+    },
+    {
+        "id": "open-exchange-token",
+        "name": "Open Exchange Token",
+        "symbol": "ox old",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x78a0a62fba6fb21a83fe8a3433d44c73a4017a6f"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/30604/large/Logo2.png?1696529473"
+    },
+    {
+        "id": "sora-validator-token",
+        "name": "Sora Validator",
+        "symbol": "val",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4"
+            },
+            "sora": {
+                "decimal_place": 18,
+                "contract_address": "0x0200040000000000000000000000000000000000000000000000000000000000"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/13299/large/val-gold-256.png?1696513070"
+    },
+    {
+        "id": "satoshivm",
+        "name": "SatoshiVM",
+        "symbol": "savm",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x15e6e0d4ebeac120f9a97e71faa6a0235b85ed12"
+            },
+            "ordinals": {
+                "decimal_place": null,
+                "contract_address": "1ebca700d02609c7454c827d7fd0a0d988d7b62c3600f72c1bec54768980381ci0"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/34659/large/SatoshiVM.jpeg?1705635248"
+    },
+    {
+        "id": "joe-coin",
+        "name": "Joe Coin",
+        "symbol": "joe",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x76e222b07c53d28b89b0bac18602810fc22b49a8"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/32333/large/joe.png?1697452551"
+    },
+    {
+        "id": "connext",
+        "name": "Connext",
+        "symbol": "next",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xfe67a4450907459c3e1fff623aa927dd4e28c67a"
+            },
+            "optimistic-ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8"
+            },
+            "xdai": {
+                "decimal_place": 18,
+                "contract_address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8"
+            },
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/31293/large/connext.png?1696530113"
+    },
+    {
+        "id": "silly-dragon",
+        "name": "Silly Dragon",
+        "symbol": "silly",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "7EYnhQoR9YM3N7UoaKRoA44Uy8JeaZV3qyouov87awMs"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/33698/large/image.png?1702821846"
+    },
+    {
+        "id": "polydoge",
+        "name": "PolyDoge",
+        "symbol": "polydoge",
+        "detail_platforms": {
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x8a953cfe442c5e8855cc6c61b1293fa648bae472"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/15146/large/p1kSco1h_400x400.jpg?1696514802"
+    },
+    {
+        "id": "shiba-predator",
+        "name": "Shiba Predator",
+        "symbol": "qom",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xa71d0588eaf47f12b13cf8ec750430d21df04974"
+            }
+        },
+        "logo": "https://assets.coingecko.com/coins/images/24430/large/l1KzMcL.png?1696523611"
     }
 ]

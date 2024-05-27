@@ -1,0 +1,12 @@
+{
+    "id": "holograph",
+    "name": "Holograph",
+    "symbol": "hlg",
+    "contractAddress": "0x740df024ce73f589acd5e8756b377ef8c6558bab",
+    "decimals": 18,
+    "website": "https://www.holograph.xyz/",
+    "description": "Holograph is an omnichain tokenization protocol.  Holograph is an omnichain tokenization protocol, enabling asset issuers to mint natively composable omnichain tokens. Holograph has been used to mint millions of onchain assets, making it one of the most widely used protocols for cross-chain asset production and distribution.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/37721/large/File_%281%29.jpg?1715655225"
+}

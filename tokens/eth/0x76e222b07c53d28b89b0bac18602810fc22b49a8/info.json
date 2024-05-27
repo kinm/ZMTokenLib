@@ -1,0 +1,12 @@
+{
+    "id": "joe-coin",
+    "name": "Joe Coin",
+    "symbol": "joe",
+    "contractAddress": "0x76e222b07c53d28b89b0bac18602810fc22b49a8",
+    "decimals": 18,
+    "website": "https://thejoecoin.com/",
+    "description": "Joe is a meme coin created around the internet sensation \"emoti guy\".",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/32333/large/joe.png?1697452551"
+}

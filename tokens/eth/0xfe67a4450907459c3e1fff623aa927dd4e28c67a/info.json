@@ -1,0 +1,12 @@
+{
+    "id": "connext",
+    "name": "Connext",
+    "symbol": "next",
+    "contractAddress": "0xfe67a4450907459c3e1fff623aa927dd4e28c67a",
+    "decimals": 18,
+    "website": "https://www.connext.network/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/31293/large/connext.png?1696530113"
+}

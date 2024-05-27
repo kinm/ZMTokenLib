@@ -1,0 +1,12 @@
+{
+    "id": "sora",
+    "name": "Sora",
+    "symbol": "xor",
+    "contractAddress": "0x40fd72257597aa14c7231a7b1aaa29fce868f677",
+    "decimals": 18,
+    "website": "https://sora.org/",
+    "description": "Sora is a supranational world economic system and decentralized and democratic governance structure. \r\nSORA is both a new economic system that decentralizes the concept of a central bank as well as a network in the Polkadot ecosystem that will connect to the Polkadot relay chain and the parachains with built-in tools focused on DeFi.\r\nThe SORA Network excels at providing tools for decentralized applications that use digital assets, such as atomic token swaps, bridging tokens to other blockchains, and creating programmatic rules involving digital assets.\r\n​SORA Parliament is the governance system for the SORA Network.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/11093/large/sora_logo_cg_white.png?1696511034"
+}

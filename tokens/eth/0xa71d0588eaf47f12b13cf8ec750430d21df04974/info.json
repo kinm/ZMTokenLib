@@ -1,0 +1,12 @@
+{
+    "id": "shiba-predator",
+    "name": "Shiba Predator",
+    "symbol": "qom",
+    "contractAddress": "0xa71d0588eaf47f12b13cf8ec750430d21df04974",
+    "decimals": 18,
+    "website": "http://qompredator.finance",
+    "description": "QOM is the Shiba Predator, it is a community token whose function is to flip the Shiba Market cap. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/24430/large/l1KzMcL.png?1696523611"
+}

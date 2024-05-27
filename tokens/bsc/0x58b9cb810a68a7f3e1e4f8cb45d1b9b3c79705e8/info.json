@@ -1,0 +1,12 @@
+{
+    "id": "connext",
+    "name": "Connext",
+    "symbol": "next",
+    "contractAddress": "0x58b9cb810a68a7f3e1e4f8cb45d1b9b3c79705e8",
+    "decimals": 18,
+    "website": "https://www.connext.network/",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/31293/large/connext.png?1696530113"
+}

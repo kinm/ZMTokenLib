@@ -1,0 +1,12 @@
+{
+    "id": "block-ape-scissors",
+    "name": "Arcas",
+    "symbol": "arcas",
+    "contractAddress": "0xad0926ecf31719263dc86426024794332d9dd9a3",
+    "decimals": 18,
+    "website": "https://blockapescissors.gg",
+    "description": "Block Ape Scissors is a Blockchain Game Studio & Service Provider. Our goal is to develop tools to simply and easily unlock the value of Web3, Metaverse and Blockchain gaming for Brands, Projects and Game Studios.\r\n\r\nWith carefully crafted product and service innovations, BAS aims to remove the barriers to these exciting technologies and accelerate mass adoption of Blockchain gaming, Metaverse and Web3. By solving trusted expertise, data & user experience challenges, BAS will enable swift development of scalable market leading solutions with comprehensive tools, analytics and features.\r\n\r\nWithin our player-centric ecosystem, Block Ape Scissors’ innovative Open Asset Gaming framework will incorporate augmentable NFT avatars, items and power-ups focussed on audience growth and retention, within a constantly evolving meta of competitive - and most importantly - fun-to-play PVP games. Ultimately the BAS NFT Ecosystem has been designed to provide a fun, sustainable and diverse gameverse for players.\r\n",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/17404/large/IMG_6452.jpeg?1699087325"
+}

@@ -1,4 +1,5 @@
 {
+    "id": "celsius-degree-token",
     "name": "Celsius Network",
     "symbol": "cel",
     "contractAddress": "0xaaaebe6fe48e54f431b0c390cfaf0b017d09d42d",

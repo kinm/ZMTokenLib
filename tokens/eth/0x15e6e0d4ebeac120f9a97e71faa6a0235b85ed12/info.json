@@ -1,0 +1,12 @@
+{
+    "id": "satoshivm",
+    "name": "SatoshiVM",
+    "symbol": "savm",
+    "contractAddress": "0x15e6e0d4ebeac120f9a97e71faa6a0235b85ed12",
+    "decimals": 18,
+    "website": "https://www.satoshivm.io/",
+    "description": "Designing with maximum simplicity is one of the primary objectives of SatoshiVM. SatoshiVM is a versatile ZK Rollup that employs EVM for off-chain computations. This implies that users can interact with SatoshiVM in a manner similar to interacting with Ethereum, and developers can build on top of SatoshiVM just as they would on Ethereum. This simplicity provides SatoshiVM with several notable advantages compared to more complex Layer 2 implementations.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/34659/large/SatoshiVM.jpeg?1705635248"
+}

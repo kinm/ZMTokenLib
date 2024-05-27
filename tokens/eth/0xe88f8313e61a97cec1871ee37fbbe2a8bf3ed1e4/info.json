@@ -1,0 +1,12 @@
+{
+    "id": "sora-validator-token",
+    "name": "Sora Validator",
+    "symbol": "val",
+    "contractAddress": "0xe88f8313e61a97cec1871ee37fbbe2a8bf3ed1e4",
+    "decimals": 18,
+    "website": "https://sora.org/",
+    "description": "VAL is the validator reward token for the SORA network, used to reward those that stake XOR as part of the Nominated Proof-of-Stake consensus algorithm. VAL is a deflationary token that gets burned with each transaction on the SORA network.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://assets.coingecko.com/coins/images/13299/large/val-gold-256.png?1696513070"
+}

@@ -1,0 +1,12 @@
+{
+    "id": "minativerse",
+    "name": "MINATIVERSE",
+    "symbol": "mntc",
+    "contractAddress": "0xe4e11e02aa14c7f24db749421986eaec1369e8c9",
+    "decimals": 18,
+    "website": "https://minati.io/",
+    "description": "Minati is a forward-thinking project that sits at the intersection of emerging blockchain technology and the vast potential of the metaverse.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://assets.coingecko.com/coins/images/32012/large/MNTC.jpg?1696530810"
+}
