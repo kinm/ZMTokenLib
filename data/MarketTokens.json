@@ -16590,5 +16590,17 @@
             }
         },
         "logo": "https://assets.coingecko.com/coins/images/24430/large/l1KzMcL.png?1696523611"
+    },
+    {
+        "id": "zksync",
+        "name": "ZKsync",
+        "symbol": "zk",
+        "detail_platforms": {
+            "zksync": {
+                "decimal_place": 18,
+                "contract_address": "0x5a7d6b2f92c77fad6ccabd7ee0624e64907eaf3e"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/38043/large/ZKTokenBlack.png?1718614502"
     }
 ]
