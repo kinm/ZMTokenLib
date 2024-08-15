@@ -1,0 +1,12 @@
+{
+    "id": "wrapped-steth",
+    "name": "Wrapped stETH",
+    "symbol": "wsteth",
+    "contractAddress": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "decimals": 18,
+    "website": "https://lido.fi/",
+    "description": "wstETH is a wrapped version of stETH.  Instead of rebasing, or changing account holdings daily it is similar to a c-token.  It represents a pro-rata ownership of the staked ETH (stETH). When someone exits wstETH they are returned principal stETH + stETH earnings.\r\n\r\nLido is a liquid staking protocol for POS blockchains.  It gives you a liquid token that represents your staked collateral and earnings over time.  Lido removes the need to run infrastructure and enabling continued participation in DeFi.\r\n\r\nwstETH is minted and burned as stETH is wrapped and unwrapped.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/18834/large/wstETH.png?1696518295"
+}
