@@ -16838,5 +16838,29 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/2518/large/weth.png?1696503332"
+    },
+    {
+        "id": "binance-peg-weth",
+        "name": "Binance-Peg WETH",
+        "symbol": "weth",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39580/large/weth.png?1723006716"
+    },
+    {
+        "id": "ronin-bridged-weth-ronin",
+        "name": "Ronin Bridged WETH (Ronin)",
+        "symbol": "weth",
+        "detail_platforms": {
+            "ronin": {
+                "decimal_place": 18,
+                "contract_address": "0xc99a6a985ed2cac1ef41640596c5a5f9f4e19ef5"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39716/large/WETH.PNG?1723731945"
     }
 ]

@@ -1,0 +1,12 @@
+{
+    "id": "binance-peg-weth",
+    "name": "Binance-Peg WETH",
+    "symbol": "weth",
+    "contractAddress": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "decimals": 18,
+    "website": "https://www.bnbchain.org/en",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://coin-images.coingecko.com/coins/images/39580/large/weth.png?1723006716"
+}
