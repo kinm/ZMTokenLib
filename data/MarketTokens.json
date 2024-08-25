@@ -16862,5 +16862,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/39716/large/WETH.PNG?1723731945"
+    },
+    {
+        "id": "crypto-ai-robo",
+        "name": "Crypto-AI-Robo",
+        "symbol": "cair",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "D7z8T6FadmqDYGHy3LsMN3bzfrABmvVUnAFUrKfuWZ8F"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/33410/large/2000px-Atheismsymbol_endorsed_by_AAI.svg.png?1701701207"
     }
 ]
