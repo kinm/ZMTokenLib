@@ -16874,5 +16874,49 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/33410/large/2000px-Atheismsymbol_endorsed_by_AAI.svg.png?1701701207"
+    },
+    {
+        "id": "solv-btc",
+        "name": "Solv Protocol SolvBTC",
+        "symbol": "solvbtc",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x7a56e1c57c7475ccf742a1832b028f0456652f97"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x4aae823a6a0b376de6a78e74ecc5b079d38cbcf7"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x3647c54c4c2c65bc7a2d63c0da2809b399dbbdc0"
+            },
+            "zklink-nova": {
+                "decimal_place": 18,
+                "contract_address": "0xbeaf16cfd8efe0fc97c2a07e349b9411f5dc272c"
+            },
+            "merlin-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x41d9036454be47d3745a823c4aacd0e29cfb0f71"
+            },
+            "mantle": {
+                "decimal_place": 18,
+                "contract_address": "0xa68d25fc2af7278db4bcdcaabce31814252642a9"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684"
+    },
+    {
+        "id": "dogs-2",
+        "name": "Dogs",
+        "symbol": "dogs",
+        "detail_platforms": {
+            "the-open-network": {
+                "decimal_place": 9,
+                "contract_address": "EQCvxJy4eG8hyHBFsZ7eePxrRsUQSFE_jpptRAYBmcG_DOGS"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39699/large/dogs_logo_200x200.png?1723687163"
     }
 ]

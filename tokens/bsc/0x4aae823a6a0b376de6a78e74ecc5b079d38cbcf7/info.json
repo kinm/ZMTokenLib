@@ -1,0 +1,12 @@
+{
+    "id": "solv-btc",
+    "name": "Solv Protocol SolvBTC",
+    "symbol": "solvbtc",
+    "contractAddress": "0x4aae823a6a0b376de6a78e74ecc5b079d38cbcf7",
+    "decimals": 18,
+    "website": "https://app.solv.finance/solvbtc",
+    "description": "SolvBTC addresses the significant gap in the Bitcoin ecosystem by providing a native yield solution. It fosters an inclusive and efficient BTCFi ecosystem, offering Bitcoin holders unprecedented opportunities for growth and participation.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://coin-images.coingecko.com/coins/images/36800/large/solvBTC.png?1719810684"
+}
