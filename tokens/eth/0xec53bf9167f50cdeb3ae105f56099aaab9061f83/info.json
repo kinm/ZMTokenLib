@@ -1,0 +1,12 @@
+{
+    "id": "eigenlayer",
+    "name": "Eigenlayer",
+    "symbol": "eigen",
+    "contractAddress": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83",
+    "decimals": 18,
+    "website": "https://eigenfoundation.org/",
+    "description": "EigenLayer is a new system built on the Ethereum blockchain that introduces a concept called restaking, a new feature in blockchain security. This feature allows users to restake their staked Ethereum within the system's consensus layer. EigenLayer's key advantage is its ability to collect and boost blockchain security through restaking, while also supporting the development of new applications on Ethereum.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/37441/large/EIGEN_LOGO.png?1727433816"
+}

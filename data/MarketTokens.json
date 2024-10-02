@@ -16930,5 +16930,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/50170/large/20240906_234238.png?1726137290"
+    },
+    {
+        "id": "eigenlayer",
+        "name": "Eigenlayer",
+        "symbol": "eigen",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xec53bf9167f50cdeb3ae105f56099aaab9061f83"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/37441/large/EIGEN_LOGO.png?1727433816"
     }
 ]
