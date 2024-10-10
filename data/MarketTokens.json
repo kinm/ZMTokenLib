@@ -16942,5 +16942,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/37441/large/EIGEN_LOGO.png?1727433816"
+    },
+    {
+        "id": "neiro-3",
+        "name": "Neiro",
+        "symbol": "neiro",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 9,
+                "contract_address": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39488/large/logo.png?1723247657"
     }
 ]

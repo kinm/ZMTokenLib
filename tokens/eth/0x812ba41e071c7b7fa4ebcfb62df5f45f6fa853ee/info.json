@@ -1,0 +1,12 @@
+{
+    "id": "neiro-3",
+    "name": "Neiro",
+    "symbol": "neiro",
+    "contractAddress": "0x812ba41e071c7b7fa4ebcfb62df5f45f6fa853ee",
+    "decimals": 9,
+    "website": "https://www.neiroeth.io/",
+    "description": "Neiro is an ERC-20 token deployed on Ethereum. It is a memecoin dedicated to the newly-adopted Shiba Inu dog from the woman who previously owned the famous Kabosu, face of the Doge meme.\r\n\r\nAfter being rugged by its developer, a powerful community has come together to support this legendary dog. Neiro is 100% owned and by a community of hard-working and passionate holders.\r\n\r\nNeiro is a meme coin with no intrinsic value or expectation of financial return. There is no formal team or roadmap. the coin is completely useless and for entertainment purposes only.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/39488/large/logo.png?1723247657"
+}
