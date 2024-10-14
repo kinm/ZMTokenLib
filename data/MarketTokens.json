@@ -16954,5 +16954,25 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/39488/large/logo.png?1723247657"
+    },
+    {
+        "id": "spx6900",
+        "name": "SPX6900",
+        "symbol": "spx",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c"
+            },
+            "base": {
+                "decimal_place": 8,
+                "contract_address": "0x50da645f148798f68ef2d7db7c1cb22a6819bb2c"
+            },
+            "solana": {
+                "decimal_place": 8,
+                "contract_address": "J3NKxxXZcnNiMjKw9hYb2K4LUxgwB6t1FtPtQVsv3KFr"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083"
     }
 ]

@@ -1,0 +1,12 @@
+{
+    "id": "spx6900",
+    "name": "SPX6900",
+    "symbol": "spx",
+    "contractAddress": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
+    "decimals": 8,
+    "website": "https://www.spx6900.com",
+    "description": "SPX6900 is an advanced blockchain cryptography token coin capable of limitless possibilities and scientific utilization.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083"
+}
