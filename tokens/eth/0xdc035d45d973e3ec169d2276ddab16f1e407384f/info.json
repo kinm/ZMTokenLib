@@ -1,0 +1,12 @@
+{
+    "id": "usds",
+    "name": "USDS",
+    "symbol": "usds",
+    "contractAddress": "0xdc035d45d973e3ec169d2276ddab16f1e407384f",
+    "decimals": 18,
+    "website": "https://sky.money/",
+    "description": "",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/39926/large/usds.webp?1726666683"
+}

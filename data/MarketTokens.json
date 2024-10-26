@@ -16974,5 +16974,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/31401/large/sticker_%281%29.jpg?1702371083"
+    },
+    {
+        "id": "usds",
+        "name": "USDS",
+        "symbol": "usds",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xdc035d45d973e3ec169d2276ddab16f1e407384f"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39926/large/usds.webp?1726666683"
     }
 ]
