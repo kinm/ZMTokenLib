@@ -16986,5 +16986,21 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/39926/large/usds.webp?1726666683"
+    },
+    {
+        "id": "coinbase-wrapped-btc",
+        "name": "Coinbase Wrapped BTC",
+        "symbol": "cbbtc",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+            },
+            "base": {
+                "decimal_place": 8,
+                "contract_address": "0xcbb7c0000ab88b473b1f5afd9ef808440eed33bf"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/40143/large/cbbtc.webp?1726136727"
     }
 ]
