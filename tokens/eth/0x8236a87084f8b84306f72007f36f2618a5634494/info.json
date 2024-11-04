@@ -1,0 +1,12 @@
+{
+    "id": "lombard-staked-btc",
+    "name": "Lombard Staked BTC",
+    "symbol": "lbtc",
+    "contractAddress": "0x8236a87084f8b84306f72007f36f2618a5634494",
+    "decimals": 8,
+    "website": "https://www.lombard.finance/",
+    "description": "Lombard unlocks Bitcoin’s potential as a dynamic financial tool by connecting it to the world of decentralized finance (DeFi). Its flagship product, LBTC, is the Universal Liquid Bitcoin Standard, which is yield-bearing, natively cross-chain, and backed 1:1 by BTC. LBTC empowers BTC holders to earn Babylon staking yields and actively engage in DeFi activities such as trading, borrowing, lending, yield farming, and more.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/39969/large/LBTC_Logo.png?1724959872"
+}

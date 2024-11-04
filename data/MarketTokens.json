@@ -17014,5 +17014,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/39901/large/KAIA.png?1724734368"
+    },
+    {
+        "id": "lombard-staked-btc",
+        "name": "Lombard Staked BTC",
+        "symbol": "lbtc",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0x8236a87084f8b84306f72007f36f2618a5634494"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39969/large/LBTC_Logo.png?1724959872"
     }
 ]
