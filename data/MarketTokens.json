@@ -17026,5 +17026,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/39969/large/LBTC_Logo.png?1724959872"
+    },
+    {
+        "id": "bridged-usdc-polygon-pos-bridge",
+        "name": "Bridged USDC (Polygon PoS Bridge)",
+        "symbol": "usdc.e",
+        "detail_platforms": {
+            "polygon-pos": {
+                "decimal_place": 6,
+                "contract_address": "0x2791bca1f2de4661ed88a30c99a7a9449aa84174"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/33000/large/usdc.png?1700119918"
     }
 ]
