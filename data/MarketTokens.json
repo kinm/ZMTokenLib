@@ -17050,5 +17050,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/51301/large/pnut.jpg?1730602041"
+    },
+    {
+        "id": "goatseus-maximus",
+        "name": "Goatseus Maximus",
+        "symbol": "goat",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "CzLSujWBLFsSjncfkh59rUFqvafWcY5tzedWJSuypump"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/50717/large/GOAT_LOGO_NEW.jpg?1731292759"
     }
 ]
