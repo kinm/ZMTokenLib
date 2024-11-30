@@ -17062,5 +17062,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/50717/large/GOAT_LOGO_NEW.jpg?1731292759"
+    },
+    {
+        "id": "hyperliquid",
+        "name": "Hyperliquid",
+        "symbol": "hype",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300"
     }
 ]
