@@ -17074,5 +17074,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/50882/large/hyperliquid.jpg?1729431300"
+    },
+    {
+        "id": "stau",
+        "name": "STAU",
+        "symbol": "stau",
+        "detail_platforms": {
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x37c5ebfae4e4da225e9d8042b05063c4a2c94bb6"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/52341/large/STAU.png?1733127902"
     }
 ]
