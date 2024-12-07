@@ -1,0 +1,12 @@
+{
+    "id": "usual-usd",
+    "name": "Usual USD",
+    "symbol": "usd0",
+    "contractAddress": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5",
+    "decimals": 18,
+    "website": "https://usual.money",
+    "description": "USD0 is a stablecoin fully backed 1:1 by Real-World Assets (RWA) like US Treasury Bills. It provides users with a stable, secure asset that is independent of traditional banking systems, fully transferable, and accessible within the DeFi ecosystem. As the core stability asset of Usual, USD0 supports transparency and security by maintaining real-time reserves, offering a non-fractional, reliable alternative to stablecoins like USDT and USDC.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/38272/large/USD0LOGO.png?1716962811"
+}

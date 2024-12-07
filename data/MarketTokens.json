@@ -17086,5 +17086,273 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/52341/large/STAU.png?1733127902"
+    },
+    {
+        "id": "binance-staked-sol",
+        "name": "Binance Staked SOL",
+        "symbol": "bnsol",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "BNso1VUJnh4zcfpZa6986Ea66P6TCp59hvtNJ8b1X85"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/40132/large/bnsol.png?1725968367"
+    },
+    {
+        "id": "mantle-restaked-eth",
+        "name": "Mantle Restaked ETH",
+        "symbol": "cmeth",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa"
+            },
+            "mantle": {
+                "decimal_place": 18,
+                "contract_address": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/51114/large/symbol.png?1730117724"
+    },
+    {
+        "id": "solv-protocol-solvbtc-bbn",
+        "name": "Solv Protocol SolvBTC.BBN",
+        "symbol": "solvbtc.bbn",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x1346b618dc92810ec74163e4c27004c921d446a5"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x346c574c56e1a4aaa8dc88cda8f7eb12b39947ab"
+            },
+            "mantle": {
+                "decimal_place": 18,
+                "contract_address": "0x1d40bafc49c37cda49f2a5427e2fb95e1e3fcf20"
+            },
+            "merlin-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x1760900aca15b90fa2eca70ce4b4ec441c2cf6c5"
+            },
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xd9d920aa40f578ab794426f5c90f6c731d159def"
+            },
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0xc26c9099bd3789107888c35bb41178079b282561"
+            },
+            "bob-network": {
+                "decimal_place": 18,
+                "contract_address": "0xcc0966d8418d412c599a6421b760a847eb169a8c"
+            },
+            "avalanche": {
+                "decimal_place": 18,
+                "contract_address": "0xcc0966d8418d412c599a6421b760a847eb169a8c"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39384/large/unnamed.png?1721961640"
+    },
+    {
+        "id": "jupiter-staked-sol",
+        "name": "Jupiter Staked SOL",
+        "symbol": "jupsol",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/37482/large/jupsol.png?1714473916"
+    },
+    {
+        "id": "arbitrum-bridged-wbtc-arbitrum-one",
+        "name": "Arbitrum Bridged WBTC (Arbitrum One)",
+        "symbol": "wbtc",
+        "detail_platforms": {
+            "arbitrum-one": {
+                "decimal_place": 8,
+                "contract_address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39532/large/wbtc.png?1722810336"
+    },
+    {
+        "id": "binance-peg-dogecoin",
+        "name": "Binance-Peg Dogecoin",
+        "symbol": "doge",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 8,
+                "contract_address": "0xba2ae424d960c26247dd6c32edc70b295c744c43"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/15768/large/dogecoin.png?1696515392"
+    },
+    {
+        "id": "l2-standard-bridged-weth-base",
+        "name": "L2 Standard Bridged WETH (Base)",
+        "symbol": "weth",
+        "detail_platforms": {
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0x4200000000000000000000000000000000000006"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39810/large/weth.png?1724139790"
+    },
+    {
+        "id": "arbitrum-bridged-weth-arbitrum-one",
+        "name": "Arbitrum Bridged WETH (Arbitrum One)",
+        "symbol": "weth",
+        "detail_platforms": {
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39713/large/WETH.PNG?1723731496"
+    },
+    {
+        "id": "grass",
+        "name": "Grass",
+        "symbol": "grass",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "Grass7B4RdKfBCjTKgSqnXkqjwiGvQyFbuSCUJr3XXjs"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/40094/large/Grass.jpg?1725697048"
+    },
+    {
+        "id": "super-oeth",
+        "name": "Super OETH",
+        "symbol": "superoethb",
+        "detail_platforms": {
+            "base": {
+                "decimal_place": null,
+                "contract_address": "0xdbfefd2e8460a6ee4955a68582f85708baea60a3"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39828/large/Super_OETH.png?1724208268"
+    },
+    {
+        "id": "agentfun-ai",
+        "name": "AgentFun.AI",
+        "symbol": "agentfun",
+        "detail_platforms": {
+            "cronos-zkevm": {
+                "decimal_place": 18,
+                "contract_address": "0x18d40bd95e34d1a4fcaf9027db11f6988e5b860a"
+            },
+            "cronos": {
+                "decimal_place": 18,
+                "contract_address": "0x96733708c4157218b6e6889eb9e16b1df7873061"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/52133/large/AIFUN_%282%29.png?1732639482"
+    },
+    {
+        "id": "ai16z",
+        "name": "ai16z",
+        "symbol": "ai16z",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/51090/large/AI16Z.jpg?1730027175"
+    },
+    {
+        "id": "ether-fi-staked-btc",
+        "name": "Ether.fi Staked BTC",
+        "symbol": "ebtc",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 8,
+                "contract_address": "0x657e8c867d8b37dcc18fa4caead9c45eb088c642"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/50411/large/eBTC.png?1727664788"
+    },
+    {
+        "id": "polygon-pos-bridged-weth-polygon-pos",
+        "name": "Polygon PoS Bridged WETH (Polygon POS)",
+        "symbol": "weth",
+        "detail_platforms": {
+            "polygon-pos": {
+                "decimal_place": 18,
+                "contract_address": "0x7ceb23fd6bc0add59e62ac25578270cff1b9f619"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39708/large/WETH.PNG?1723730343"
+    },
+    {
+        "id": "usual-usd",
+        "name": "Usual USD",
+        "symbol": "usd0",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x73a15fed60bf67631dc6cd7bc5b6e8da8190acf5"
+            },
+            "arbitrum-one": {
+                "decimal_place": 18,
+                "contract_address": "0x35f1c5cb7fb977e669fd244c567da99d8a3a6850"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/38272/large/USD0LOGO.png?1716962811"
+    },
+    {
+        "id": "act-i-the-ai-prophecy",
+        "name": "Act I The AI Prophecy",
+        "symbol": "act",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "GJAFwWjJ3vnTsrQVabjBVK2TYB1YtRCQXRDfDgUnpump"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/50984/large/ai_prophecy.jpg?1729653897"
+    },
+    {
+        "id": "qubic-network",
+        "name": "Qubic",
+        "symbol": "qubic",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/32949/large/QubicLogo-Token.png?1731185925"
+    },
+    {
+        "id": "l2-standard-bridged-weth-blast",
+        "name": "L2 Standard Bridged WETH (Blast)",
+        "symbol": "weth",
+        "detail_platforms": {
+            "blast": {
+                "decimal_place": 18,
+                "contract_address": "0x4300000000000000000000000000000000000004"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39727/large/weth.png?1723758119"
+    },
+    {
+        "id": "moo-deng",
+        "name": "Moo Deng",
+        "symbol": "moodeng",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "ED5nyyWEzpPPiWimP8vYm7sD7TD3LAt3Q3gRTWHzPJBY"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/50264/large/MOODENG.jpg?1726726975"
     }
 ]

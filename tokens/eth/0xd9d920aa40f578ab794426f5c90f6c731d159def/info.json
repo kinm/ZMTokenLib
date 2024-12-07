@@ -1,0 +1,12 @@
+{
+    "id": "solv-protocol-solvbtc-bbn",
+    "name": "Solv Protocol SolvBTC.BBN",
+    "symbol": "solvbtc.bbn",
+    "contractAddress": "0xd9d920aa40f578ab794426f5c90f6c731d159def",
+    "decimals": 18,
+    "website": "https://app.solv.finance/babylon",
+    "description": "SolvBTC.BBN is a yield-bearing token that represents staked SolvBTC plus all future Babylon staking rewards and Solv Points. As a liquid token, SolvBTC.BBN stays accessible across multiple networks and unlocks more DeFi yield opportunities.\r\nSolv Protocol is a Unified Bitcoin Liquidity Matrix, aimed at bridging Bitcoin's trillion-dollar economy to DeFi by unifying its fragmented liquidity through SolvBTC. SolvBTC provides Bitcoin holders with access to Liquid Staking Tokens, offering a simple and efficient way to earn yields on their Bitcoin across any chain. By staking with Solv, your Bitcoin remains liquid, allowing you to leverage a wide range of DeFi applications.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/39384/large/unnamed.png?1721961640"
+}

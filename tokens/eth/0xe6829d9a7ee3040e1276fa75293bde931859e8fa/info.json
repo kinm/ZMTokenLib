@@ -1,0 +1,12 @@
+{
+    "id": "mantle-restaked-eth",
+    "name": "Mantle Restaked ETH",
+    "symbol": "cmeth",
+    "contractAddress": "0xe6829d9a7ee3040e1276fa75293bde931859e8fa",
+    "decimals": 18,
+    "website": "https://www.mantle.xyz/meth",
+    "description": "Deployed on Ethereum layer 1 (L1) and governed by Mantle, mETH Protocol has, since late 2023, been providing users with access to $mETH, a value-accumulating receipt token that is highly composable across a range of DeFi applications on Mantle Network L2, offering exposure to additional yield-bearing opportunities. Users stake ETH with mETH Protocol and receive yield-bearing $mETH, and unstake $mETH to receive the underlying principal staked ETH and accumulated rewards. \r\n\r\nSince the inception of mETH Protocol, Mantle's mission has been to deliver the most user-friendly and rewarding $mETH experience. Thanks to ecosystem-wide adoption, $mETH users are able to trade on Mantle DEXs, earn yield by providing liquidity to $mETH liquidity pools, and generate yield within decentralized money markets. With $mETH's increasing adoption and composability within Mantle Ecosystem dApps, the protocol now ranks as the fourth largest ETH LSP by TVL. The introduction of $cmETH, a permissionless, composable liquid restaking token that unlocks restaking opportunities on Mantle, and $COOK, the protocol's upcoming governance token, mETH Protocol enters its next phase with further enhanced offerings. Through these features, mETH Protocol provides its users with capital efficiency, convenience, and a wide range of yield-bearing opportunities within Mantle Ecosystem dApps, all in a design that has been created to maximize security with non-custodial core smart contracts and off-chain services that enforce sanity bounds and risk limits.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/51114/large/symbol.png?1730117724"
+}
