@@ -17354,5 +17354,41 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/50264/large/MOODENG.jpg?1726726975"
+    },
+    {
+        "id": "fwog",
+        "name": "Fwog",
+        "symbol": "fwog",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39453/large/fwog.png?1722318442"
+    },
+    {
+        "id": "io",
+        "name": "io.net",
+        "symbol": "io",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 8,
+                "contract_address": "BZLbGTNCSFfoth2GYDtwr7e4imWzpR5jqcUuGEwr646K"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/37754/large/io_blackbg.png?1715446363"
+    },
+    {
+        "id": "aleo",
+        "name": "ALEO",
+        "symbol": "aleo",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/27916/large/secondary-icon-dark.png?1726770428"
     }
 ]
