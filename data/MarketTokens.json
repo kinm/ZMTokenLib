@@ -17414,5 +17414,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/39345/large/movement-testnet-token.png?1721878759"
+    },
+    {
+        "id": "pudgy-penguins",
+        "name": "Pudgy Penguins",
+        "symbol": "pengu",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
     }
 ]
