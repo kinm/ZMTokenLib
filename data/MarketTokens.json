@@ -17426,5 +17426,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/52622/large/PUDGY_PENGUINS_PENGU_PFP.png?1733809110"
+    },
+    {
+        "id": "fartcoin",
+        "name": "Fartcoin",
+        "symbol": "fartcoin",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/50891/large/fart.jpg?1729503972"
     }
 ]
