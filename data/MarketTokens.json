@@ -17438,5 +17438,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/50891/large/fart.jpg?1729503972"
+    },
+    {
+        "id": "sonic-3",
+        "name": "Sonic",
+        "symbol": "s",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/38108/large/200x200_Sonic_Logo.png?1734679256"
     }
 ]
