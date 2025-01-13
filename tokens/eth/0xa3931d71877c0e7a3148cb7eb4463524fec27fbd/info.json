@@ -1,0 +1,12 @@
+{
+    "id": "susds",
+    "name": "sUSDS",
+    "symbol": "susds",
+    "contractAddress": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd",
+    "decimals": 18,
+    "website": "https://sky.money/",
+    "description": "sUSDS is the new version of sDAI, offered by Sky which offers a higher yield. sUSDS represents USDS deposited into and earning the Sky Savings Rate. \r\n\r\nThe Sky Protocol is a decentralised protocol developed around the USDS stablecoin. It is managed by Sky ecosystem governance. The Sky Protocol features Sky tokens (USDS, SKY, DAI, MKR), the Sky Savings Rate, Sky Token Rewards and, soon, Activation Token Rewards and SkyLink.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/52721/large/sUSDS_Coin.png?1734086971"
+}

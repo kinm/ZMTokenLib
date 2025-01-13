@@ -17450,5 +17450,21 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/38108/large/200x200_Sonic_Logo.png?1734679256"
+    },
+    {
+        "id": "susds",
+        "name": "sUSDS",
+        "symbol": "susds",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xa3931d71877c0e7a3148cb7eb4463524fec27fbd"
+            },
+            "base": {
+                "decimal_place": 18,
+                "contract_address": "0x5875eee11cf8398102fdad704c9e96607675467a"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/52721/large/sUSDS_Coin.png?1734086971"
     }
 ]
