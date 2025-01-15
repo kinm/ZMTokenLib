@@ -17466,5 +17466,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/52721/large/sUSDS_Coin.png?1734086971"
+    },
+    {
+        "id": "content-bitcoin",
+        "name": "Content Bitcoin",
+        "symbol": "ctb",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x435f6a29b100123ae46a3e8bf0541ab402949243"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/53252/large/200x200.png?1735892352"
     }
 ]

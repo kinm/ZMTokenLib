@@ -1,0 +1,12 @@
+{
+    "id": "content-bitcoin",
+    "name": "Content Bitcoin",
+    "symbol": "ctb",
+    "contractAddress": "0x435f6a29b100123ae46a3e8bf0541ab402949243",
+    "decimals": 18,
+    "website": "https://ainmetaverse.com/",
+    "description": "Content Bitcoin (CTB) is a pioneering project at the intersection of artificial intelligence (AI) technology and the rapidly growing world of webtoons. The project’s primary mission is to leverage AI to revolutionize the webtoon industry by enabling global access to high-quality, creative content. CTB’s goal is to not only popularize webtoons worldwide but also empower creators, fans, and investors within this space through blockchain technology.\r\nAt its core, Content Bitcoin (CTB) aims to foster a dynamic ecosystem where webtoons can be created, traded, and appreciated globally. By utilizing AI tools, CTB facilitates efficient content creation and curation while creating new opportunities for digital artists and fans across the globe.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/53252/large/200x200.png?1735892352"
+}
