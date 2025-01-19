@@ -17478,5 +17478,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/53252/large/200x200.png?1735892352"
+    },
+    {
+        "id": "official-trump",
+        "name": "Official Trump",
+        "symbol": "trump",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561"
     }
 ]
