@@ -17490,5 +17490,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/53746/large/trump.png?1737171561"
+    },
+    {
+        "id": "parkcoin",
+        "name": "Parkcoin",
+        "symbol": "kpk",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/53711/large/logo_1.png?1737092147"
     }
 ]
