@@ -17502,5 +17502,18 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/53711/large/logo_1.png?1737092147"
+    },
+    {
+        "id": "berachain-bera",
+        "name": "Berachain",
+        "symbol": "bera",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": "",
+                "logo": null
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/25235/large/BERA.png?1738822008"
     }
 ]
