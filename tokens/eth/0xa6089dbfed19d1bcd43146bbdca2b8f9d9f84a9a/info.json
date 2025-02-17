@@ -1,0 +1,12 @@
+{
+    "id": "ugold-inc",
+    "name": "UGOLD Inc.",
+    "symbol": "ugold",
+    "contractAddress": "0xa6089dbfed19d1bcd43146bbdca2b8f9d9f84a9a",
+    "decimals": 18,
+    "website": "https://www.ugold-inc.com/",
+    "description": "UGOLD Inc. american corporation registered in the jurisdiction of the state of Nevada, in the city of Las Vegas, in the leading state for gold mining in the United States. The corporation was created by like-minded people who have devoted more than 20 years to business based on this noble metal. The corporation operates all over the world, where the knowledge and experience of the UGOLD Inc. team. may serve the interests of its shareholders and its customers.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/35921/large/IMG_20240307_195222_084.jpg?1710221205"
+}

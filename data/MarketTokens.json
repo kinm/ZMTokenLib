@@ -17515,5 +17515,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/25235/large/BERA.png?1738822008"
+    },
+    {
+        "id": "ugold-inc",
+        "name": "UGOLD Inc.",
+        "symbol": "ugold",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xa6089dbfed19d1bcd43146bbdca2b8f9d9f84a9a"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/35921/large/IMG_20240307_195222_084.jpg?1710221205"
     }
 ]
