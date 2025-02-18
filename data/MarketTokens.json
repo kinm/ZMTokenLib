@@ -17527,5 +17527,21 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/35921/large/IMG_20240307_195222_084.jpg?1710221205"
+    },
+    {
+        "id": "yay-stakestone-ether",
+        "name": "Yay StakeStone Ether",
+        "symbol": "yaystone",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 15,
+                "contract_address": "0xe86142af1321eaac4270422081c1eda31eecff0c"
+            },
+            "soneium": {
+                "decimal_place": 18,
+                "contract_address": "0x54e86315c03217b76a7466c302245fd10ebef25a"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/54279/large/Yay!_Stone200w.png?1739438931"
     }
 ]
