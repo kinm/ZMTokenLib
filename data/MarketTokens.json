@@ -17543,5 +17543,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/54279/large/Yay!_Stone200w.png?1739438931"
+    },
+    {
+        "id": "story-2",
+        "name": "Story",
+        "symbol": "ip",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/54035/large/Transparent_bg.png?1738075331"
     }
 ]
