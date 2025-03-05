@@ -17555,5 +17555,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/54035/large/Transparent_bg.png?1738075331"
+    },
+    {
+        "id": "pi-network",
+        "name": "Pi Network",
+        "symbol": "pi",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/54342/large/pi_network.jpg?1739347576"
     }
 ]
