@@ -17567,5 +17567,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/54342/large/pi_network.jpg?1739347576"
+    },
+    {
+        "id": "binance-bridged-usdc-bnb-smart-chain",
+        "name": "Binance Bridged USDC (BNB Smart Chain)",
+        "symbol": "usdc",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/35220/large/USDC.jpg?1707919050"
     }
 ]

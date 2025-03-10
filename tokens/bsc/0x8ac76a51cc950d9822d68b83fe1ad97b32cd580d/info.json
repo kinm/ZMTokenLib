@@ -1,0 +1,12 @@
+{
+    "id": "binance-bridged-usdc-bnb-smart-chain",
+    "name": "Binance Bridged USDC (BNB Smart Chain)",
+    "symbol": "usdc",
+    "contractAddress": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "decimals": 18,
+    "website": "https://bscscan.com/token/0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://coin-images.coingecko.com/coins/images/35220/large/USDC.jpg?1707919050"
+}
