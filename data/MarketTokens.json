@@ -17579,5 +17579,41 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/35220/large/USDC.jpg?1707919050"
+    },
+    {
+        "id": "binance-bridged-usdt-bnb-smart-chain",
+        "name": "Binance Bridged USDT (BNB Smart Chain)",
+        "symbol": "bsc-usd",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x55d398326f99059ff775485246999027b3197955"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/35021/large/USDT.png?1707233575"
+    },
+    {
+        "id": "arbitrum-bridged-usdt-arbitrum",
+        "name": "Arbitrum Bridged USDT (Arbitrum)",
+        "symbol": "usdt",
+        "detail_platforms": {
+            "arbitrum-one": {
+                "decimal_place": 6,
+                "contract_address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/35073/large/logo.png?1707292836"
+    },
+    {
+        "id": "polygon-bridged-usdt-polygon",
+        "name": "Polygon Bridged USDT (Polygon)",
+        "symbol": "usdt",
+        "detail_platforms": {
+            "polygon-pos": {
+                "decimal_place": 6,
+                "contract_address": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/35023/large/USDT.png?1707233644"
     }
 ]
