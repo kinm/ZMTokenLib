@@ -17647,5 +17647,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/36291/large/blackrock.png?1711013223"
+    },
+    {
+        "id": "ethena-staked-usde",
+        "name": "Ethena Staked USDe",
+        "symbol": "susde",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x9d39a5de30e57443bff2a8307a4256c8797a3497"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/33669/large/sUSDe-Symbol-Color.png?1716307680"
     }
 ]
