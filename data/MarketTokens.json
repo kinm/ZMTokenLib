@@ -17659,5 +17659,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/33669/large/sUSDe-Symbol-Color.png?1716307680"
+    },
+    {
+        "id": "stargate-bridged-usdc-berachain",
+        "name": "Stargate Bridged USDC (Berachain)",
+        "symbol": "usdc.e",
+        "detail_platforms": {
+            "berachain": {
+                "decimal_place": 6,
+                "contract_address": "0x549943e04f40284185054145c6e4e9568c1d3241"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/54336/large/usdc.jpg?1739335056"
     }
 ]
