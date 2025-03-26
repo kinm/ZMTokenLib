@@ -17671,5 +17671,25 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/54336/large/usdc.jpg?1739335056"
+    },
+    {
+        "id": "usdt0",
+        "name": "USDT0",
+        "symbol": "usdt0",
+        "detail_platforms": {
+            "ink": {
+                "decimal_place": 6,
+                "contract_address": "0x0200c29006150606b650577bbe7b6248f58470c1"
+            },
+            "berachain": {
+                "decimal_place": 6,
+                "contract_address": "0x779ded0c9e1022225f8e0630b35a9b54be713736"
+            },
+            "arbitrum-one": {
+                "decimal_place": 6,
+                "contract_address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
     }
 ]
