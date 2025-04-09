@@ -17691,5 +17691,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/53705/large/usdt0.jpg?1737086183"
+    },
+    {
+        "id": "jupiter-perpetuals-liquidity-provider-token",
+        "name": "Jupiter Perpetuals Liquidity Provider Token",
+        "symbol": "jlp",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/33094/large/jlp.png?1700631386"
     }
 ]
