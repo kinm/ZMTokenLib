@@ -1,0 +1,12 @@
+{
+    "id": "wbnb",
+    "name": "Wrapped BNB",
+    "symbol": "wbnb",
+    "contractAddress": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "decimals": 18,
+    "website": "https://www.binance.org/",
+    "description": "Wrapped BNB a wrapped version of the BNB native tokens on the BEP-20 standard on the Binance Smart Chain and other EVM-compatible chains. Not to be confused with BNB Native Token on the BSC Chain.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://coin-images.coingecko.com/coins/images/12591/large/binance-coin-logo.png?1696512401"
+}

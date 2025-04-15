@@ -17703,5 +17703,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/33094/large/jlp.png?1700631386"
+    },
+    {
+        "id": "wbnb",
+        "name": "Wrapped BNB",
+        "symbol": "wbnb",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/12591/large/binance-coin-logo.png?1696512401"
     }
 ]
