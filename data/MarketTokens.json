@@ -17715,5 +17715,21 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/12591/large/binance-coin-logo.png?1696512401"
+    },
+    {
+        "id": "usd1-wlfi",
+        "name": "USD1",
+        "symbol": "usd1",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+            },
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x8d0d000ee44948fc98c9b98a4fa4921476f08b0d"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/54977/large/30Q2SFVH_400x400.jpg?1742998328"
     }
 ]
