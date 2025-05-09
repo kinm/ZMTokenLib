@@ -17731,5 +17731,37 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/54977/large/30Q2SFVH_400x400.jpg?1742998328"
+    },
+    {
+        "id": "ubtc",
+        "name": "uBTC",
+        "symbol": "ubtc",
+        "detail_platforms": {
+            "bsquared-network": {
+                "decimal_place": 18,
+                "contract_address": "0x796e4d53067ff374b89b2ac101ce0c1f72ccaac2"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x2a3dc2d5daf9c8c46c954b8669f4643c6b1c081a"
+            },
+            "core": {
+                "decimal_place": 18,
+                "contract_address": "0xbb4a26a053b217bb28766a4ed4b062c3b4de58ce"
+            },
+            "opbnb": {
+                "decimal_place": 18,
+                "contract_address": "0xf7fb2df9280eb0a76427dc3b34761db8b1441a49"
+            },
+            "sei-v2": {
+                "decimal_place": 18,
+                "contract_address": "0x78e26e8b953c7c78a58d69d8b9a91745c2bbb258"
+            },
+            "soneium": {
+                "decimal_place": 18,
+                "contract_address": "0x61f2993a644762a345b483adf0d6351c5edfb3b5"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/55079/large/uBTC.png?1743613297"
     }
 ]

@@ -1,0 +1,12 @@
+{
+    "id": "ubtc",
+    "name": "uBTC",
+    "symbol": "ubtc",
+    "contractAddress": "0x2a3dc2d5daf9c8c46c954b8669f4643c6b1c081a",
+    "decimals": 18,
+    "website": "https://app.unirouter.io",
+    "description": "- Empower #Bitcoin with Next-gen Liquid Staking\r\n\r\n- uBTC is a Liquid Staking Derivative (LSD) representing staked Bitcoin assets. It is designed to provide liquidity while enabling users to earn yield on their BTC holdings. Users can use uBTC in the following ways:\r\n • DeFi Participation: uBTC can be used across supported DeFi protocols for lending, farming, trading, and liquidity provision, allowing holders to maximize capital efficiency.\r\n • Cross-Chain Yield Aggregation: uBTC is designed to operate across multiple Layer 1 and Layer 2 networks, enabling users to harvest yields from diverse ecosystems.\r\n • Staking and Reward Access: Holding uBTC gives users access to additional reward opportunities through UniRouter’s yield pools and partner protocols.\r\n • Liquidity without Lock-up: Unlike traditional staking, uBTC allows users to stay liquid while still earning yield from the underlying staked assets.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://coin-images.coingecko.com/coins/images/55079/large/uBTC.png?1743613297"
+}
