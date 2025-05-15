@@ -17763,5 +17763,21 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/55079/large/uBTC.png?1743613297"
+    },
+    {
+        "id": "jito-staked-sol",
+        "name": "Jito Staked SOL",
+        "symbol": "jitosol",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 9,
+                "contract_address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn"
+            },
+            "neon-evm": {
+                "decimal_place": 9,
+                "contract_address": "0xfa8fb7e3bd299b2a9693b1bfdcf5dd13ab57007e"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/28046/large/JitoSOL-200.png?1696527060"
     }
 ]
