@@ -17779,5 +17779,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/28046/large/JitoSOL-200.png?1696527060"
+    },
+    {
+        "id": "vaulta",
+        "name": "Vaulta",
+        "symbol": "a",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/55616/large/Vaulta_CEX_Icon_Circle_-_cmc.png?1746859132"
     }
 ]
