@@ -1,0 +1,12 @@
+{
+    "id": "usdtb",
+    "name": "USDtb",
+    "symbol": "usdtb",
+    "contractAddress": "0xc139190f447e929f090edeb554d95abb8b18ac1c",
+    "decimals": 18,
+    "website": "https://usdtb.money/",
+    "description": "USDtb shares characteristics with existing fiat stablecoins such as USDC or USDT, seeking to maintain a stable value pegged to the US dollar by utilizing cash or cash-equivalent reserves. Users are able to transfer USDtb freely and without restriction. USDtb is able to scale without practical constraints given the use of Blackrock’s BUIDL as the primary reserve  asset, representing the vast majority (90%) of the overall reserves - the highest BUIDL allocation of any stablecoin.\r\n",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/52804/large/USDtbSmall.png?1734344946"
+}

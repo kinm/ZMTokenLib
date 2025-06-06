@@ -17791,5 +17791,33 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/55616/large/Vaulta_CEX_Icon_Circle_-_cmc.png?1746859132"
+    },
+    {
+        "id": "sky",
+        "name": "Sky",
+        "symbol": "sky",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0x56072c95faa701256059aa122697b133aded9279"
+            },
+            "hydration": {
+                "decimal_place": 18,
+                "contract_address": "asset_registry%2F1000795"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/39925/large/sky.jpg?1724827980"
+    },
+    {
+        "id": "usdtb",
+        "name": "USDtb",
+        "symbol": "usdtb",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xc139190f447e929f090edeb554d95abb8b18ac1c"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/52804/large/USDtbSmall.png?1734344946"
     }
 ]
