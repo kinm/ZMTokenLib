@@ -17819,5 +17819,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/52804/large/USDtbSmall.png?1734344946"
+    },
+    {
+        "id": "newton-project",
+        "name": "AB",
+        "symbol": "ab",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/4376/large/400%E6%96%B9.png?1740377493"
     }
 ]
