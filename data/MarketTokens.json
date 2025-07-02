@@ -17831,5 +17831,18 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/4376/large/400%E6%96%B9.png?1740377493"
+    },
+    {
+        "id": "trinique",
+        "name": "TNQ",
+        "symbol": "tnq",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 6,
+                "contract_address": "0x47e5c76f155083f1aee39578311a2a5faa938a82",
+                "geckoterminal_url": "https://www.geckoterminal.com/eth/tokens/0x47e5c76f155083f1aee39578311a2a5faa938a82"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/36533/large/TNQ_LOGO.png?1711705168"
     }
 ]

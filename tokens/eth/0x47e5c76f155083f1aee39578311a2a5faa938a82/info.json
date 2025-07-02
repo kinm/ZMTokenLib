@@ -1,0 +1,12 @@
+{
+    "id": "trinique",
+    "name": "TNQ",
+    "symbol": "tnq",
+    "contractAddress": "0x47e5c76f155083f1aee39578311a2a5faa938a82",
+    "decimals": 6,
+    "website": "https://tnqtoken.io/",
+    "description": "TNQ Token: A Fundamental Overview\r\nLaunched on January 17, 2024, TNQ Token is a digital asset developed by a Malaysian-based team and backed by Trinique, a leading digital private fund company specializing in fund tokenization. TNQ Token aims to empower investors with innovative blockchain-driven investment solutions. Serving as the fundamental unit of the Trinique ecosystem, TNQ Token grants holders rights and access to earn rewards based on their participation in Trinique's underlying asset portfolio through token holding.\r\n\r\nCore Attributes:\r\nAsset-Allocation: TNQ Token stands out by allocating funds to a diversified portfolio across multiple asset classes. This strategy boosts the token's stability, offering investors a dependable foundation for their investments.\r\n\r\nInnovative Technology: Leveraging blockchain technology, TNQ Token employs smart contracts to facilitate secure and efficient transactions. Decentralized protocols contribute to a trustless environment, ensuring the integrity of the token's operations.\r\n\r\nStrategic Roadmap: TNQ Token's strategic roadmap outlines key milestones, including plans to expand utility, explore partnerships, and cultivate a robust community. Ongoing research and development initiatives are geared toward enhancing the token's functionality.\r\n\r\nCommunity Engagement: TNQ Token prioritizes community engagement through regular updates and educational initiatives. Open communication channels are maintained to foster a sense of belonging among token holders.\r\n\r\nCompliance and Regulation: Compliance with regulatory standards is a central tenet of TNQ Token's operations. The project is committed to transparent reporting and adherence to industry best practices, ensuring a secure and legally compliant environment for investors.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/36533/large/TNQ_LOGO.png?1711705168"
+}
