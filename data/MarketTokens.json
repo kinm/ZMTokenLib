@@ -17844,5 +17844,23 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/36533/large/TNQ_LOGO.png?1711705168"
+    },
+    {
+        "id": "syrupusdc",
+        "name": "SyrupUSDC",
+        "symbol": "syrupusdc",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 6,
+                "contract_address": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
+                "geckoterminal_url": "https://www.geckoterminal.com/eth/tokens/0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b"
+            },
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "AvZZF1YaZDziPY2RCK4oJrRVrbN3mTD9NL24hPeaZeUj",
+                "geckoterminal_url": "https://www.geckoterminal.com/solana/tokens/AvZZF1YaZDziPY2RCK4oJrRVrbN3mTD9NL24hPeaZeUj"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/54658/large/SyrupUSDCO.png?1748850129"
     }
 ]

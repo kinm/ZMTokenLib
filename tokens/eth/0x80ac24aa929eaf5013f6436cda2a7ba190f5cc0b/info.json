@@ -1,0 +1,12 @@
+{
+    "id": "syrupusdc",
+    "name": "SyrupUSDC",
+    "symbol": "syrupusdc",
+    "contractAddress": "0x80ac24aa929eaf5013f6436cda2a7ba190f5cc0b",
+    "decimals": 6,
+    "website": "https://maple.finance/",
+    "description": "SyrupUSDC is Maple Finance's yield-bearing stablecoin. It is powered by Syrup and allows DeFi lenders to leverage their capital to earn yield. Maple yield is generated from fixed rate, overcollateralised loans to institutional borrowers. These short duration loans enable Maple to provide consistent high yield and short term liquidity for users.\r\nSyrup is Maple's DeFi platform offering decentralized access to Maple's yield generation opportunities.",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/54658/large/SyrupUSDCO.png?1748850129"
+}
