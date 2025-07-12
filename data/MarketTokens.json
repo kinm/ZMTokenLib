@@ -17862,5 +17862,18 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/54658/large/SyrupUSDCO.png?1748850129"
+    },
+    {
+        "id": "memecore",
+        "name": "MemeCore",
+        "symbol": "m",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa",
+                "geckoterminal_url": "https://www.geckoterminal.com/bsc/tokens/0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/53247/large/image_%288%29.png?1737045234"
     }
 ]

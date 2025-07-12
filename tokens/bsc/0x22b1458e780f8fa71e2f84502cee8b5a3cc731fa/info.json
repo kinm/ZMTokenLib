@@ -1,0 +1,12 @@
+{
+    "id": "memecore",
+    "name": "MemeCore",
+    "symbol": "m",
+    "contractAddress": "0x22b1458e780f8fa71e2f84502cee8b5a3cc731fa",
+    "decimals": 18,
+    "website": "https://memecore.com/",
+    "description": "MemeCore is the first Layer 1 blockchain, built for Meme 2.0 — a new paradigm where meme coins transcend speculation to become engines of culture, value, and community coordination. In this new era, memes are not just content — they are currency, governance, and creative expression.\r\n\r\nMission\r\nTo structure and sustain the meme viral economy, empowering anyone to launch tokens, earn from cultural contributions, and build openly in a decentralized, meme-native environment.\r\n\r\nVision\r\nMemeCore envisions a world where meme coins are vehicles of shared ownership and viral innovation. Every social post, meme remix, and on-chain action becomes a part of an economic feedback loop — fueling a participatory ecosystem where culture is capital.",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://coin-images.coingecko.com/coins/images/53247/large/image_%288%29.png?1737045234"
+}
