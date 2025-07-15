@@ -17875,5 +17875,18 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/53247/large/image_%288%29.png?1737045234"
+    },
+    {
+        "id": "pump-fun",
+        "name": "Pump.fun",
+        "symbol": "pump",
+        "detail_platforms": {
+            "solana": {
+                "decimal_place": 6,
+                "contract_address": "pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn",
+                "geckoterminal_url": "https://www.geckoterminal.com/solana/tokens/pumpCmXqMfrsAkQ5r49WcJnRayYRqmXz6ae8H7H9Dfn"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376"
     }
 ]
