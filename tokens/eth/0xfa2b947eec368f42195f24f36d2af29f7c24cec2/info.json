@@ -1,0 +1,12 @@
+{
+    "id": "falcon-finance",
+    "name": "Falcon USD",
+    "symbol": "usdf",
+    "contractAddress": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2",
+    "decimals": 18,
+    "website": "https://falcon.finance/",
+    "description": " Falcon, the next-generation platform transforming synthetic dollars into sustainable yield opportunities. Our mission is clear: Your Crypto, Your Yields. Falcon aims to empower users and institutions to unlock the true yield potential of their digital assets.  \r\n\r\nFalcon is built on the foundation of trust, transparency, and robust technology. Our team of experienced professionals brings expertise from blockchain, financial engineering, and quantitative analysis to ensure we deliver a protocol that balances reliability with performance. We are committed to enable users to make the most of their assets while adhering to the highest standards of accountability.\r\n\r\nOur mission extends beyond creating a protocol—it’s about fostering a system that prioritizes user returns and sustainable growth. ",
+    "type": "ERC20",
+    "chain": "ETH",
+    "logo": "https://coin-images.coingecko.com/coins/images/54558/large/ff_200_X_200.png?1740741076"
+}

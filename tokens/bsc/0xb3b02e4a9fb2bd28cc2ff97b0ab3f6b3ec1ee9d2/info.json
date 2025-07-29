@@ -1,0 +1,12 @@
+{
+    "id": "falcon-finance",
+    "name": "Falcon USD",
+    "symbol": "usdf",
+    "contractAddress": "0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2",
+    "decimals": 18,
+    "website": "https://falcon.finance/",
+    "description": " Falcon, the next-generation platform transforming synthetic dollars into sustainable yield opportunities. Our mission is clear: Your Crypto, Your Yields. Falcon aims to empower users and institutions to unlock the true yield potential of their digital assets.  \r\n\r\nFalcon is built on the foundation of trust, transparency, and robust technology. Our team of experienced professionals brings expertise from blockchain, financial engineering, and quantitative analysis to ensure we deliver a protocol that balances reliability with performance. We are committed to enable users to make the most of their assets while adhering to the highest standards of accountability.\r\n\r\nOur mission extends beyond creating a protocol—it’s about fostering a system that prioritizes user returns and sustainable growth. ",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://coin-images.coingecko.com/coins/images/54558/large/ff_200_X_200.png?1740741076"
+}

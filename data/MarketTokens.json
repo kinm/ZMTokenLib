@@ -17888,5 +17888,23 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/67164/large/pump.jpg?1751949376"
+    },
+    {
+        "id": "falcon-finance",
+        "name": "Falcon USD",
+        "symbol": "usdf",
+        "detail_platforms": {
+            "ethereum": {
+                "decimal_place": 18,
+                "contract_address": "0xfa2b947eec368f42195f24f36d2af29f7c24cec2",
+                "geckoterminal_url": "https://www.geckoterminal.com/eth/tokens/0xfa2b947eec368f42195f24f36d2af29f7c24cec2"
+            },
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2",
+                "geckoterminal_url": "https://www.geckoterminal.com/bsc/tokens/0xb3b02e4a9fb2bd28cc2ff97b0ab3f6b3ec1ee9d2"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/54558/large/ff_200_X_200.png?1740741076"
     }
 ]
