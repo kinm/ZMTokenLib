@@ -17906,5 +17906,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/54558/large/ff_200_X_200.png?1740741076"
+    },
+    {
+        "id": "hash-2",
+        "name": "Provenance Blockchain",
+        "symbol": "hash",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/66154/large/Hastra_Icon.png?1748497203"
     }
 ]
