@@ -17918,5 +17918,18 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/66154/large/Hastra_Icon.png?1748497203"
+    },
+    {
+        "id": "kinetic-staked-hype",
+        "name": "Kinetiq Staked HYPE",
+        "symbol": "khype",
+        "detail_platforms": {
+            "hyperevm": {
+                "decimal_place": 18,
+                "contract_address": "0xfd739d4e423301ce9385c1fb8850539d657c296d",
+                "geckoterminal_url": "https://www.geckoterminal.com/hyperevm/tokens/0xfd739d4e423301ce9385c1fb8850539d657c296d"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/67388/large/khype.png?1752632397"
     }
 ]
