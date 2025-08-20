@@ -17931,5 +17931,17 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/67388/large/khype.png?1752632397"
+    },
+    {
+        "id": "bfusd",
+        "name": "BFUSD",
+        "symbol": "bfusd",
+        "detail_platforms": {
+            "": {
+                "decimal_place": null,
+                "contract_address": ""
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/68227/large/bfusd.png?1755132827"
     }
 ]
