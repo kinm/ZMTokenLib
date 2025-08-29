@@ -1,0 +1,12 @@
+{
+    "id": "four",
+    "name": "Four",
+    "symbol": "form",
+    "contractAddress": "0x5b73a93b4e5e4f1fd27d8b3f8c97d69908b5e284",
+    "decimals": 18,
+    "website": "https://linktr.ee/Four_FORM_",
+    "description": "",
+    "type": "BEP20",
+    "chain": "BSC",
+    "logo": "https://coin-images.coingecko.com/coins/images/54912/large/four.jpg?1742461445"
+}

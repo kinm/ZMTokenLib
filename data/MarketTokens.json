@@ -17943,5 +17943,18 @@
             }
         },
         "logo": "https://coin-images.coingecko.com/coins/images/68227/large/bfusd.png?1755132827"
+    },
+    {
+        "id": "four",
+        "name": "Four",
+        "symbol": "form",
+        "detail_platforms": {
+            "binance-smart-chain": {
+                "decimal_place": 18,
+                "contract_address": "0x5b73a93b4e5e4f1fd27d8b3f8c97d69908b5e284",
+                "geckoterminal_url": "https://www.geckoterminal.com/bsc/tokens/0x5b73a93b4e5e4f1fd27d8b3f8c97d69908b5e284"
+            }
+        },
+        "logo": "https://coin-images.coingecko.com/coins/images/54912/large/four.jpg?1742461445"
     }
 ]
